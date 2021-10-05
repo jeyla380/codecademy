@@ -1,3 +1,3 @@
-# codecademy-hurricane-analysis
+# Codecademy Projects
 
-hurricane analysis project
+1) Hurricane Analysis
