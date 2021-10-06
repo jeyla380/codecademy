@@ -1,3 +1,5 @@
-# Codecademy Projects
+## Data Science
 
-1. Hurricane Analysis
+| Python | 
+| --- |
+| Hurricane Analysis |
