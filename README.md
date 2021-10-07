@@ -1,4 +1,4 @@
-![](https://github.com/xemycutiex/codecademy_projects/blob/main/images/codecademy.png)
+![](https://github.com/xemycutiex/codecademy_projects/blob/main/images/codecademy_banner.png)
 
 ## Data Science
 
