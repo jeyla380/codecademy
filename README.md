@@ -4,4 +4,4 @@
 
 | Python | 
 | --- |
-| [Hurricane Analysis](https://github.com/xemycutiex/codecademy_projects/blob/main/datascience/python/hurricane_analysis_project.ipynb) |
+| [Hurricane Analysis](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/python/hurricane_analysis_project.ipynb) |
