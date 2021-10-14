@@ -5,9 +5,9 @@
 
 ## 📈 Data Science
 
-<br>
 
 ### Python
 | Assignments | Challenges | Projects |
 | --- | --- | --- |
-| ... | ... | [Hurricane Analysis](#) |
+| [Frida Kahlo Exhibition](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/python/assignments/frida_kahlo_assignment.ipynb) | [Medical Insurance](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/python/challenges/medical_insurance) | [Hurricane Analysis](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/python/projects/hurricane_analysis_project.ipynb) |
+| ... | ... | ... |
