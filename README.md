@@ -6,6 +6,6 @@
 ## 📈 Data Science
 
 
-| Python | 
-| --- |
-| [Hurricane Analysis Project](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/python/hurricane_analysis_project.ipynb) |
+| Assignments | Challenges | Projects |
+| --- | --- | --- |
+
