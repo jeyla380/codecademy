@@ -1,4 +1,4 @@
-![](https://github.com/jeyla380/codecademy_projects/blob/main/images/codecademy_banner.png)
+![](https://github.com/jeyla380/codecademy_projects/blob/main/images/new_codecademy.png)
 
 <br>
 <br>
