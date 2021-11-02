@@ -17,3 +17,4 @@
 ### SQL
 | Assignments | Challenges | Projects |
 | :-------------: | :-------------: | :-------------: |
+|...| [New York Restaurants](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/sql/new_york_restaurants)  |...|
