@@ -18,4 +18,4 @@
 | Assignments | Challenges | Projects |
 | :-------------: | :-------------: | :-------------: |
 |...| [New York Restaurants](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/sql/new_york_restaurants)  |...|
-|...| [RPA Fraud Detection] (https://github.com/jeyla380/codecademy_projects/tree/main/datascience/sql/rpa_fraud_detection) |...|
+|...| [RPA Fraud Detection](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/sql/rpa_fraud_detection) |...|
