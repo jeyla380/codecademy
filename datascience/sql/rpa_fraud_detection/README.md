@@ -1,3 +1,8 @@
+## Schema
+![](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/sql/rpa_fraud_detection/rpa_fraud_detection_schema.PNG)
+
+<br>
+
 ## Code
 
 ```sql
