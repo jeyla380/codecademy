@@ -62,3 +62,33 @@ WHERE id = 28;
 <br>
 
 ## Results
+
+### Question 1:
+![](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/sql/davie_burger_subway_ad/results/test_q1_result.PNG)
+
+### Question 2:
+![](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/sql/davie_burger_subway_ad/results/test_q2_result.PNG)
+
+### Question 3:
+![](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/sql/davie_burger_subway_ad/results/test_q3_result.PNG)
+
+### Question 4:
+![](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/sql/davie_burger_subway_ad/results/test_q4_result.PNG)
+
+### Question 5:
+![](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/sql/davie_burger_subway_ad/results/test_q5_result.PNG)
+
+### Question 6:
+![](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/sql/davie_burger_subway_ad/results/test_q6_result.PNG)
+
+### Question 7:
+![](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/sql/davie_burger_subway_ad/results/test_q7_result.PNG)
+
+### Question 8:
+![](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/sql/davie_burger_subway_ad/results/test_q8_result.PNG)
+
+### Question 9:
+![](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/sql/davie_burger_subway_ad/results/test_q9_result.PNG)
+
+### Question 10 (Challenge):
+![](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/sql/davie_burger_subway_ad/results/test_q10_result.PNG)
