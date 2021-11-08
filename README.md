@@ -22,5 +22,5 @@
 
 ### Web Scraping
 | Projects |
-| : ---- : |
+| :----: |
 | ... |
