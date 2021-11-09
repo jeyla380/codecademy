@@ -21,6 +21,6 @@
 | | [Davie's Burger Subway Ad](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/sql/davie_burger_subway_ad) |
 
 ### Web Scraping
-| Projects |
+| Challenges |
 | :----: |
-| ... |
+| [Chocolate Scraping](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/web_scraping/Chocolate_Scraping.ipynb) |
