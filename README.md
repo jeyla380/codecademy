@@ -24,3 +24,8 @@
 | Challenges |
 | :----: |
 | [Chocolate Scraping](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/web_scraping/Chocolate_Scraping.ipynb) |
+
+### Pandas
+| Challenges |
+| :---: |
+| ... |
