@@ -30,3 +30,4 @@
 | :---: |
 | [Petal Power Inventory](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/pandas/challenges/petal_power_inventory) |
 | [A/B Testing for ShoeFly.com](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/pandas/challenges/shoefly.com) |
+| Page Visits Funnel |
