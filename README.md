@@ -42,7 +42,7 @@
  
 | Challenges | Projects |
 | :---: | :---: |
-| [Petal Power Inventory](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/pandas/challenges/petal_power_inventory/petal_power_inventory.ipynb) | This is Jeopardy! |
+| [Petal Power Inventory](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/pandas/challenges/petal_power_inventory/petal_power_inventory.ipynb) | [This is Jeopardy!](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/pandas/projects/jeopardy/jeopardy.ipynb) |
 | [A/B Testing for ShoeFly.com](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/pandas/challenges/shoefly.com/a_b_testing_shoefly.ipynb) |
 | [Page Visits Funnel](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/pandas/challenges/page_visits_funnel/page_visits_funnel.ipynb) |
  
