@@ -38,7 +38,7 @@
  
  
    <details>
- <summary><b>Pandas</b></summary>
+ <summary><b>Data Manipulation</b></summary>
  
 | Challenges | Projects |
 | :---: | :---: |
