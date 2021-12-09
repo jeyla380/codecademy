@@ -48,6 +48,16 @@
  
  </details>
  
+ 
+ <details>
+ <summary><b>Data Tidying</b></summary>
+ 
+| Challenges | Projects |
+| :---: | :---: |
+| [Cleaning US Census Data](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/data_tidying/cleaning_us_census_data/script.ipynb) |  |
+ 
+ </details>
+ 
  <!---
  ### Python
  | Assignments | Challenges | Projects |
