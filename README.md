@@ -79,6 +79,7 @@
 | Challenges | 
 | :---: | 
 | [World Traveler](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/php/world_traveler/index.php) | 
+| [Mad Lib](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/php/mad_lib/index.php) |
  
  </details>
  
