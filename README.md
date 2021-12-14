@@ -83,6 +83,7 @@
 | [Math Functions](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/php/math_functions/index.php) |
 | [Bob's Budget](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/php/bob_budget/index.php) |
 | [PHP Calculator](https://github.com/jeyla380/codecademy_projects/tree/main/fullstack/php/php_calculator) |
+| [Magic 8 Ball](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/php/magic_8_ball/index.php) |
  
  </details>
  
