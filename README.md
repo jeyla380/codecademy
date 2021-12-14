@@ -82,6 +82,7 @@
 | [Mad Lib](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/php/mad_lib/index.php) |
 | [Math Functions](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/php/math_functions/index.php) |
 | [Bob's Budget](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/php/bob_budget/index.php) |
+| [PHP Calculator](https://github.com/jeyla380/codecademy_projects/tree/main/fullstack/php/php_calculator) |
  
  </details>
  
