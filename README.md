@@ -85,6 +85,7 @@
 | [PHP Calculator](https://github.com/jeyla380/codecademy_projects/tree/main/fullstack/php/php_calculator) |
 | [Magic 8 Ball](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/php/magic_8_ball/index.php) |
 | [Number Guessing](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/php/number_guessing/index.php) |
+| [Save the Farm (Text Adventure)](https://github.com/jeyla380/codecademy_projects/tree/main/fullstack/php/save_the_farm) |
  
  </details>
  
