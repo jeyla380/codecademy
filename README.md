@@ -88,6 +88,7 @@
 | [Save the Farm (Text Adventure)](https://github.com/jeyla380/codecademy_projects/tree/main/fullstack/php/save_the_farm) |
 | [FizzBuzz](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/php/FizzBuzz/index.php) |
 | [Repetitive Cafe](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/php/repetitive_cafe/index.php) |
+| [Bobby Tables](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/php/bobby_tables/index.php) |
  
  </details>
  
