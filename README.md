@@ -93,6 +93,15 @@
  
  </details>
  
+ <details>
+ <summary><b>JavaScript</b></summary>
+ 
+ | Challenges | Projects |
+ | :---: | :---: |
+ |...| ...|
+ 
+ </details>
+ 
  <br>
  
  
