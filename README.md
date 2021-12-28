@@ -89,6 +89,7 @@
 | [FizzBuzz](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/php/FizzBuzz/index.php) |
 | [Repetitive Cafe](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/php/repetitive_cafe/index.php) |
 | [Bobby Tables](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/php/bobby_tables/index.php) |
+ | [Going to Bed](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/php/going_to_bed/index.php) |
  
  </details>
  
