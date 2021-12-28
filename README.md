@@ -103,6 +103,7 @@
  |[Magic 8 Ball](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/magic_8_ball/script.js)| |
  |[Race Day](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/race_day/script.js)| |
  |[Rock, Paper, Scissors](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/rock_paper_scissors/script.js)| |
+ |[Sleep Debt](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/sleep_debt/script.js)| |
  
  </details>
  
