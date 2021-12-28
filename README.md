@@ -98,7 +98,7 @@
  
  | Challenges | Projects |
  | :---: | :---: |
- |...| ...|
+ |[Kelvin Weather](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/kelvin_weather/script.js)| ...|
  
  </details>
  
