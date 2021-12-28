@@ -98,12 +98,12 @@
  
  | Challenges | Projects |
  | :---: | :---: |
- |[Kelvin Weather](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/kelvin_weather/script.js)| |
- |[Dog Years](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/dog_years/script.js)|  |
- |[Magic 8 Ball](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/magic_8_ball/script.js)| |
- |[Race Day](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/race_day/script.js)| |
- |[Rock, Paper, Scissors](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/rock_paper_scissors/script.js)| |
- |[Sleep Debt](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/sleep_debt/script.js)| |
+ |[Kelvin Weather](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/challenges/kelvin_weather/script.js)|[Training Days](https://github.com/jeyla380/codecademy_projects/tree/main/fullstack/javascript/projects/training_days) |
+ |[Dog Years](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/challenges/dog_years/script.js)|  |
+ |[Magic 8 Ball](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/challenges/magic_8_ball/script.js)| |
+ |[Race Day](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/challenges/race_day/script.js)| |
+ |[Rock, Paper, Scissors](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/challenges/rock_paper_scissors/script.js)| |
+ |[Sleep Debt](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/challenges/sleep_debt/script.js)| |
  
  </details>
  
