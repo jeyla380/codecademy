@@ -98,7 +98,7 @@
  
  | Challenges | Projects |
  | :---: | :---: |
- |[Kelvin Weather](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/challenges/kelvin_weather/script.js)|[Training Days](https://github.com/jeyla380/codecademy_projects/tree/main/fullstack/javascript/projects/training_days) |
+ |[Kelvin Weather](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/challenges/kelvin_weather/script.js)|[Number Guesser](https://github.com/jeyla380/codecademy_projects/tree/main/fullstack/javascript/projects/number_guesser) |
  |[Dog Years](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/challenges/dog_years/script.js)|  |
  |[Magic 8 Ball](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/challenges/magic_8_ball/script.js)| |
  |[Race Day](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/challenges/race_day/script.js)| |
