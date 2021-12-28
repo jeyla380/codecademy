@@ -100,6 +100,7 @@
  | :---: | :---: |
  |[Kelvin Weather](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/kelvin_weather/script.js)| ...|
  |[Dog Years](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/dog_years/script.js)| ... |
+ |[Magic 8 Ball](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/magic_8_ball/script.js)|...|
  
  </details>
  
