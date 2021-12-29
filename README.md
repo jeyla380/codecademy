@@ -104,6 +104,7 @@
  |[Race Day](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/challenges/race_day/script.js)| |
  |[Rock, Paper, Scissors](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/challenges/rock_paper_scissors/script.js)| |
  |[Sleep Debt](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/challenges/sleep_debt/script.js)| |
+ |[Secret Message](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/challenges/secret_message/script.js)| |
  
  </details>
  
