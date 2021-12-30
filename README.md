@@ -107,6 +107,7 @@
  |[Secret Message](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/challenges/secret_message/script.js)| |
  |[Whale Talk](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/challenges/whale_talk/script.js)| |
  |[Meal Maker](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/challenges/meal_maker/script.js)| |
+ |[Team Stats](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/challenges/team_stats/script.js)| |
  
  </details>
  
