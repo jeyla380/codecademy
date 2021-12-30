@@ -106,6 +106,7 @@
  |[Sleep Debt](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/challenges/sleep_debt/script.js)| |
  |[Secret Message](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/challenges/secret_message/script.js)| |
  |[Whale Talk](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/challenges/whale_talk/script.js)| |
+ |[Meal Maker](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/challenges/meal_maker/script.js)| |
  
  </details>
  
