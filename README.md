@@ -63,10 +63,19 @@
  <details>
  <summary><b>Data Tidying</b></summary>
  
-| Challenges | Projects |
-| :---: | :---: |
-| [Cleaning US Census Data](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/data_tidying/cleaning_us_census_data/script.ipynb) |  |
-|[EDA: Diagnosing Diabetes](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/data_tidying/eda_diagnosing_diabetes/eda_diagnosing_diabetes.ipynb)| |
+| Challenges | 
+| :---: | 
+| [Cleaning US Census Data](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/data_tidying/cleaning_us_census_data/script.ipynb) | 
+|[EDA: Diagnosing Diabetes](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/data_tidying/eda_diagnosing_diabetes/eda_diagnosing_diabetes.ipynb)|
+ 
+ </details>
+ 
+ <details>
+ <summary><b>Statistics</b></summary>
+ 
+ | Challenges | Projects |
+ | :---: | :---: |
+ |[Census Variables](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/summary_statistics/challenges/census_variables/census_variables.ipynb) | |
  
  </details>
  
