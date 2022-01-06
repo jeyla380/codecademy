@@ -66,6 +66,7 @@
 | Challenges | Projects |
 | :---: | :---: |
 | [Cleaning US Census Data](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/data_tidying/cleaning_us_census_data/script.ipynb) |  |
+|[EDA: Diagnosing Diabetes](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/data_tidying/eda_diagnosing_diabetes/eda_diagnosing_diabetes.ipynb)| |
  
  </details>
  
