@@ -78,6 +78,7 @@
  |[Census Variables](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/summary_statistics/challenges/census_variables/census_variables.ipynb) | |
  |[Central Tendency for Housing Data](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/summary_statistics/challenges/housing_data/housing_rental_data.ipynb)| |
  |[Traveling to Acadia](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/summary_statistics/challenges/travel_to_acadia/travel_acadia.ipynb)| |
+ |[Life Expectancy By Country](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/summary_statistics/challenges/life_expectancy_by_country/life_expectancy_by_country.ipynb)| |
  
  </details>
  
