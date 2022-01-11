@@ -79,6 +79,7 @@
  |[Central Tendency for Housing Data](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/summary_statistics/challenges/housing_data/housing_rental_data.ipynb)| |
  |[Traveling to Acadia](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/summary_statistics/challenges/travel_to_acadia/travel_acadia.ipynb)| |
  |[Life Expectancy By Country](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/summary_statistics/challenges/life_expectancy_by_country/life_expectancy_by_country.ipynb)| |
+ |[Healthcare in Different States](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/summary_statistics/challenges/healthcare_in_different_states/healthcare_in_different_states.ipynb)| |
  
  </details>
  
