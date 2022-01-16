@@ -81,6 +81,7 @@
  |[Life Expectancy By Country](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/summary_statistics/challenges/life_expectancy_by_country/life_expectancy_by_country.ipynb)| |
  |[Healthcare in Different States](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/summary_statistics/challenges/healthcare_in_different_states/healthcare_in_different_states.ipynb)| |
  |[Summarizing Automobile Evaluation Data](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/summary_statistics/challenges/summarizing_automobile_data/summarizing_automobile_data.ipynb)| |
+ |[Exploring Mushrooms](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/summary_statistics/challenges/exploring_mushrooms/exploring_mushrooms.ipynb)| |
  
  </details>
  
