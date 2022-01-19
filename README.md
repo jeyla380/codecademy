@@ -73,16 +73,17 @@
  <details>
  <summary><b>Statistics</b></summary>
  
- | Challenges | Projects |
- | :---: | :---: |
- |[Census Variables](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/summary_statistics/challenges/census_variables/census_variables.ipynb) | |
- |[Central Tendency for Housing Data](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/summary_statistics/challenges/housing_data/housing_rental_data.ipynb)| |
- |[Traveling to Acadia](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/summary_statistics/challenges/travel_to_acadia/travel_acadia.ipynb)| |
- |[Life Expectancy By Country](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/summary_statistics/challenges/life_expectancy_by_country/life_expectancy_by_country.ipynb)| |
- |[Healthcare in Different States](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/summary_statistics/challenges/healthcare_in_different_states/healthcare_in_different_states.ipynb)| |
- |[Summarizing Automobile Evaluation Data](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/summary_statistics/challenges/summarizing_automobile_data/summarizing_automobile_data.ipynb)| |
- |[Exploring Mushrooms](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/summary_statistics/challenges/exploring_mushrooms/exploring_mushrooms.ipynb)| |
- |[Startup Transformation](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/summary_statistics/challenges/startup_transformation/startup_transformation.ipynb)| |
+ | Challenges |
+ | :---: | 
+ |[Census Variables](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/summary_statistics/challenges/census_variables/census_variables.ipynb) | 
+ |[Central Tendency for Housing Data](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/summary_statistics/challenges/housing_data/housing_rental_data.ipynb)| 
+ |[Traveling to Acadia](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/summary_statistics/challenges/travel_to_acadia/travel_acadia.ipynb)| 
+ |[Life Expectancy By Country](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/summary_statistics/challenges/life_expectancy_by_country/life_expectancy_by_country.ipynb)| 
+ |[Healthcare in Different States](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/summary_statistics/challenges/healthcare_in_different_states/healthcare_in_different_states.ipynb)| 
+ |[Summarizing Automobile Evaluation Data](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/summary_statistics/challenges/summarizing_automobile_data/summarizing_automobile_data.ipynb)| 
+ |[Exploring Mushrooms](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/summary_statistics/challenges/exploring_mushrooms/exploring_mushrooms.ipynb)| 
+ |[Startup Transformation](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/summary_statistics/challenges/startup_transformation/startup_transformation.ipynb)| 
+ |[NBA Trends](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/summary_statistics/challenges/nba_trends/nba_trends.ipynb)| 
  
  </details>
  
