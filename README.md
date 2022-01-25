@@ -87,6 +87,16 @@
  
  </details>
  
+ 
+ <details>
+ <summary><b>Hypothesis Testing</b></summary>
+ 
+ |Challenges|
+ | :---: |
+ |[Heart Disease Research Pt. 1](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/hypothesis_testing/heart_disease_research_1/heart_disease_research_1.ipynb)|
+ 
+ </details>
+ 
  <br>
  
  ## 🖥️ Full Stack
