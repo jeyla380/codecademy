@@ -96,6 +96,7 @@
  |[Heart Disease Research Pt. 1](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/hypothesis_testing/heart_disease_research_1/heart_disease_research_1.ipynb)| |
  |[Heart Disease Research Pt. 2](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/hypothesis_testing/heart_disease_research_2/heart_disease_research_2.ipynb)| |
  |[A/B Testing at Nosh Mish Mosh](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/hypothesis_testing/ab_testing_noshmishmosh/ab_testing_noshmishmosh.ipynb)| |
+ |[Familiar: A Study in Data Analysis](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/hypothesis_testing/familiar_data_analysis/familiar_data_analysis.ipynb)| |
  
  </details>
  
