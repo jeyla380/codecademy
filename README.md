@@ -107,7 +107,7 @@
  
  |Challenges|
 | :---: |
- | |
+ |[Sublime Limes' Line Graph](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/data_visualization/challenges/sublime_limes/sublime_limes.ipynb)|
  
  </details>
  
