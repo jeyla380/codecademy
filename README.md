@@ -102,6 +102,15 @@
  
  </details>
  
+ <details>
+ <summary><b>Data Visualization</b></summary>
+ 
+ |Challenges|
+| :---: |
+ | |
+ 
+ </details>
+ 
  <br>
  
  ## 🖥️ Full Stack
