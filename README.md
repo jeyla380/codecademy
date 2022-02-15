@@ -105,9 +105,9 @@
  <details>
  <summary><b>Data Visualization</b></summary>
  
- |Assignments |Challenges|
-| :---: | :---: |
- |[Constellation](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/data_visualization/assignments/constellation/constellation.ipynb) |[Sublime Limes' Line Graph](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/data_visualization/challenges/sublime_limes/sublime_limes.ipynb)|
+ |Assignments |Challenges| Projects|
+| :---: | :---: | :---: |
+ |[Constellation](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/data_visualization/assignments/constellation/constellation.ipynb) |[Sublime Limes' Line Graph](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/data_visualization/challenges/sublime_limes/sublime_limes.ipynb)| [Twitch Data](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/data_visualization/projects/gaming_data_twitch) |
  
  </details>
  
