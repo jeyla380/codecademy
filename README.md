@@ -109,7 +109,7 @@
 | :---: | :---: | :---: |
  |[Constellation](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/data_visualization/assignments/constellation/constellation.ipynb) |[Sublime Limes' Line Graph](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/data_visualization/challenges/sublime_limes/sublime_limes.ipynb)| [Twitch Data](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/data_visualization/projects/gaming_data_twitch) |
  |[Kiva Project](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/data_visualization/assignments/kiva_project/kiva_project.ipynb) |[World Cup Data](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/data_visualization/challenges/world_cup_seaborn/world_cup_data_seaborn.ipynb) |[Roller Coaster](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/data_visualization/projects/roller_coasters/roller_coaster.ipynb)|
- |[Netflix Stocks](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/data_visualization/assignments/netflix_stocks)|[Airline Analysis](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/data_visualization/challenges/airline_analysis/airline_analysis.ipynb) | |
+ |[Netflix Stocks](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/data_visualization/assignments/netflix_stocks)|[Airline Analysis](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/data_visualization/challenges/airline_analysis/airline_analysis.ipynb) | [Portfolio Project: League of Legends](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/data_visualization/projects/league_of_legends_project) |
  
  </details>
  
