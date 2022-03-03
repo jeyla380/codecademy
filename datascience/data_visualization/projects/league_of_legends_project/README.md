@@ -1,3 +1,5 @@
 ### Note:
 
+There is a [League of Legends Data Report](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/data_visualization/projects/league_of_legends_project/League%20of%20Legends%20Data%20Report.pdf) that focuses more on the results of the code and goes a little more in-depth to the graphs created.
+
 If the [Jupyter Notebook's version of the League of Legends Project](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/data_visualization/projects/league_of_legends_project/league_of_legends_project%20(2).ipynb) does not load properly, I have included a [PDF version of the project](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/data_visualization/projects/league_of_legends_project/League%20of%20Legends%20Project.pdf), and a [Python file of the project](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/data_visualization/projects/league_of_legends_project/league_of_legends_project.py) as well; however, the Python file does not include the graphs.
