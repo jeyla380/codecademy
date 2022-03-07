@@ -15,19 +15,28 @@
 
 ## 📈 Data Science
 
+  <details>
+ <summary><b>Portfolio Projects</b></summary>
+ 
+ | Python | Data Visualization | Data Analysis |
+ | :---: | :---: | :---: |
+ | [Portfolio Project: Netflix](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/python/projects/portfolio_project) | [Portfolio Project: League of Legends](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/data_visualization/projects/league_of_legends_project) | |
+ 
+</details>
+
 
 <details>
- <summary><b>Python</b></summary> 
+ <summary>Python</summary> 
  
  | Assignments | Challenges | Projects |
  | :-------------: | :-------------: | :-------------: |
  | [Frida Kahlo Exhibition](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/python/assignments/frida_kahlo_assignment.ipynb) | [Medical Insurance](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/python/challenges/medical_insurance) | [Hurricane Analysis](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/python/projects/hurricane_analysis_project.ipynb) |
- | [Linear Regression](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/python/assignments/linear_regression_assignment.ipynb) | [Hacking the Fender](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/python/challenges/hacking_the_fender) | [Portfolio Project: Netflix](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/python/projects/portfolio_project) |
+ | [Linear Regression](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/python/assignments/linear_regression_assignment.ipynb) | [Hacking the Fender](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/python/challenges/hacking_the_fender) |  |
  
  </details>
  
  <details>
- <summary><b>SQL</b></summary>
+ <summary>SQL</summary>
  
  | Challenges | Projects |
  :-------------: | :-------------: |
@@ -39,7 +48,7 @@
  
  
   <details>
- <summary><b>Web Scraping</b></summary>
+ <summary>Web Scraping</summary>
  
 | Challenges |
 | :----: |
@@ -49,7 +58,7 @@
  
  
    <details>
- <summary><b>Data Manipulation</b></summary>
+ <summary>Data Manipulation</summary>
  
 | Challenges | Projects |
 | :---: | :---: |
@@ -61,7 +70,7 @@
  
  
  <details>
- <summary><b>Data Tidying</b></summary>
+ <summary>Data Tidying</summary>
  
 | Challenges | 
 | :---: | 
@@ -71,7 +80,7 @@
  </details>
  
  <details>
- <summary><b>Statistics</b></summary>
+ <summary>Statistics</summary>
  
  | Challenges |
  | :---: | 
@@ -89,7 +98,7 @@
  
  
  <details>
- <summary><b>Hypothesis Testing</b></summary>
+ <summary>Hypothesis Testing</summary>
  
  |Challenges|
  | :---: | 
@@ -103,15 +112,16 @@
  </details>
  
  <details>
- <summary><b>Data Visualization</b></summary>
+ <summary>Data Visualization</summary>
  
  |Assignments |Challenges| Projects|
 | :---: | :---: | :---: |
  |[Constellation](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/data_visualization/assignments/constellation/constellation.ipynb) |[Sublime Limes' Line Graph](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/data_visualization/challenges/sublime_limes/sublime_limes.ipynb)| [Twitch Data](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/data_visualization/projects/gaming_data_twitch) |
  |[Kiva Project](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/data_visualization/assignments/kiva_project/kiva_project.ipynb) |[World Cup Data](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/data_visualization/challenges/world_cup_seaborn/world_cup_data_seaborn.ipynb) |[Roller Coaster](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/data_visualization/projects/roller_coasters/roller_coaster.ipynb)|
- |[Netflix Stocks](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/data_visualization/assignments/netflix_stocks)|[Airline Analysis](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/data_visualization/challenges/airline_analysis/airline_analysis.ipynb) | [Portfolio Project: League of Legends](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/data_visualization/projects/league_of_legends_project) |
+ |[Netflix Stocks](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/data_visualization/assignments/netflix_stocks)|[Airline Analysis](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/data_visualization/challenges/airline_analysis/airline_analysis.ipynb) |  |
  
  </details>
+ 
  
  <br>
  
@@ -119,7 +129,7 @@
  
  
   <details>
- <summary><b>PHP</b></summary>
+ <summary>PHP</summary>
  
 | Challenges | 
 | :---: | 
@@ -139,7 +149,7 @@
  </details>
  
  <details>
- <summary><b>JavaScript</b></summary>
+ <summary>JavaScript</summary>
  
  | Challenges | Projects |
  | :---: | :---: |
