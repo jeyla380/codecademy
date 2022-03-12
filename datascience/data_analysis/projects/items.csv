@@ -1,0 +1,1026 @@
+ID,Name of Item,Pickup,Quality,Description,Type,Item Pool
+ItemID: 1,The Sad Onion,"""Tears up""",Quality: 3,+0.7 Tears Up,Type: Passive,Item Pool: Item Room
+ItemID: 2,The Inner Eye,"""Triple shot""",Quality: 2,Tears now shoot three at a time (Triple Shot),"Type: Passive, Tear Modifier",Item Pool: Item Room
+ItemID: 3,Spoon Bender,"""Homing shots""",Quality: 3,Gives Isaac's tears a homing effect,Type: Passive,Item Pool: Item Room
+ItemID: 4,Cricket's Head,"""DMG up""",Quality: 4,+0.5 Damage Up,Type: Passive,Item Pool: Item Room
+ItemID: 5,My Reflection,"""Boomerang tears""",Quality: 0,Gives tears a boomerang effect,"Type: Passive, Tear Modifier",Item Pool: Item Room
+ItemID: 6,Number One,"""Tears up""",Quality: 2,Gives you a very high tear rate in exchange for a big range down,Type: Passive,Item Pool: Item Room
+ItemID: 7,Blood of the Martyr,"""DMG up""",Quality: 3,+1.0 Damage Up,Type: Passive,"Item Pool: Item Room, Angel Room"
+ItemID: 8,Brother Bobby,"""Friends 'till the end""",Quality: 1,A familiar which follows Isaac and shoots normal tears which do 3.5 damage,"Type: Passive, Familiar","Item Pool: Item Room, Devil Room"
+ItemID: 9,Skatole,"""Fly love""",Quality: 0,A lot of fly enemies are no longer aggressive towards Isaac,Type: Passive,Item Pool: Arcade Shell Game
+ItemID: 10,Halo of Flies,"""Projectile protection""",Quality: 2,Gives Isaac 2 orbital flies which block enemy shots,"Type: Passive, Orbital","Item Pool: Item Room, Key Beggar"
+ItemID: 11,1UP,"""Extra life""",Quality: 2,Gives the player an extra life,Type: Passive,Item Pool: Secret Room
+ItemID: 12,Magic Mushroom,"""All stats up!""",Quality: 4,+1 HP Up,Type: Passive,"Item Pool: Item Room, Mushrooms"
+ItemID: 13,The Virus,"""Poison touch""",Quality: 2,"Enemies touching you take 12 damage, then a poison effect is applied for 6-7 ticks, dealing damage equal to the amount of red hearts you have (up to 30.8 at 12 full red hearts)",Type: Passive,"Item Pool: Item Room, Demon Beggar, Lust Miniboss"
+ItemID: 14,Roid Rage,"""Speed and range up""",Quality: 2,+0.3 Speed Up,Type: Passive,"Item Pool: Item Room, Boss Room, Demon Beggar"
+ItemID: 15,<3,"""HP up""",Quality: 2,+1 HP Up,Type: Passive,"Item Pool: Item Room, Gluttony Miniboss"
+ItemID: 16,Raw Liver,"""HP up""",Quality: 2,+2 Health Up,Type: Passive,Item Pool: Secret Room
+ItemID: 17,Skeleton Key,"""99 keys""",Quality: 3,Gives Isaac 99 Keys,Type: Passive,"Item Pool: Item Room, Secret Room"
+ItemID: 18,A Dollar,"""$$$""",Quality: 3,Gives Isaac 100 coins,Type: Passive,Item Pool: Arcade Machine
+ItemID: 19,Boom!,"""10 bombs""",Quality: 0,+10 Bombs,Type: Passive,Item Pool: Item Room
+ItemID: 20,Transcendence,"""We all float down here...""",Quality: 3,Gives Isaac the ability to fly,Type: Passive,Item Pool: Secret Room
+ItemID: 21,The Compass,"""The end is near""",Quality: 2,"Shows most icons on the map (Shops, Item Rooms, Boss Rooms etc.)",Type: Passive,"Item Pool: Shop, Beggar"
+ItemID: 22,Lunch,"""HP up""",Quality: 1,+1 HP Up,Type: Passive,"Item Pool: Boss Room, Challenge Room, Beggar"
+ItemID: 23,Dinner,"""HP up""",Quality: 1,+1 HP Up,Type: Passive,"Item Pool: Boss Room, Beggar, Challenge Room"
+ItemID: 24,Dessert,"""HP up""",Quality: 1,+1 HP Up,Type: Passive,"Item Pool: Boss Room, Beggar, Challenge Room"
+ItemID: 25,Breakfast,"""HP up""",Quality: 1,+1 HP Up,Type: Passive,"Item Pool: Boss Room, Challenge Room, Beggar"
+ItemID: 26,Rotten Meat,"""HP up""",Quality: 1,+1 HP Up,Type: Passive,"Item Pool: Boss Room, Beggar, Challenge Room"
+ItemID: 27,Wooden Spoon,"""Speed up""",Quality: 1,+0.3 Speed Up,Type: Passive,Item Pool: Boss Room
+ItemID: 28,The Belt,"""Speed up""",Quality: 1,+0.3 Speed Up,Type: Passive,"Item Pool: Boss Room, Gold/Stone Chest"
+ItemID: 29,Mom's Underwear,"""Range Up""",Quality: 1,+1.5 Range Up,Type: Passive,"Item Pool: Boss Room, Challenge Room, Gold/Stone Chest"
+ItemID: 30,Mom's Heels,"""Range up""",Quality: 1,+1.5 Range Up,Type: Passive,"Item Pool: Boss Room, Challenge Room"
+ItemID: 31,Mom's Lipstick,"""Range up""",Quality: 1,+2.25 Range Up,Type: Passive,"Item Pool: Boss Room, Challenge Room"
+ItemID: 32,Wire Coat Hanger,"""Tears up""",Quality: 3,+0.7 Tears Up,Type: Passive,"Item Pool: Boss Room, Gold/Stone Chest"
+ItemID: 33,The Bible,"""Temporary flight""",Quality: 1,"Gives Isaac angel wings for the current room, allowing him to fly",Type: Active,"Item Pool: Shop, Library, Angel Room"
+ItemID: 34,The Book of Belial,"""Temporary DMG up""",Quality: 3,"Upon use, gives +2 damage up which lasts for the current room",Type: Active,"Item Pool: Library, Devil Room"
+ItemID: 35,The Necronomicon,"""Mass room damage""",Quality: 1,Deals 40 damage to everything in the room when used,Type: Active,"Item Pool: Library, Secret Room, Devil Room"
+ItemID: 36,The Poop,"""Plop!""",Quality: 0,Drops a poop on the floor,Type: Active,Item Pool: Item Room
+ItemID: 37,Mr. Boom,"""Reusable bomb buddy""",Quality: 1,Drops a large bomb below the player which does 185 damage,Type: Active,"Item Pool: Item Room, Wrath Miniboss, Bomb Beggar"
+ItemID: 38,Tammy's Head,"""Reusable tear burst""",Quality: 3,Fires 10 tears in a circle around Isaac,Type: Active,"Item Pool: Item Room, Gold Chest"
+ItemID: 39,Mom's Bra,"""Mass fear""",Quality: 1,"When used, freezes all enemies in the current room for about 4 seconds",Type: Active,"Item Pool: Item Room, Challenge Room"
+ItemID: 40,Kamikaze,"""Become the bomb!""",Quality: 0,Causes an explosion near Isaac which takes away half a heart and does 40 damage all enemies in close proximity,Type: Active,Item Pool: Item Room
+ItemID: 41,Mom's Pad,"""Gross...""",Quality: 0,"When used, causes all enemies in the current room to run away from Isaac in fear for 5 seconds",Type: Active,"Item Pool: Item Room, Challenge Room"
+ItemID: 42,Bob's Rotten Head,"""Reusable ranged bomb""",Quality: 1,A poison bomb which can be thrown and leaves a poison effect on any enemies within the blast radius. It also leaves a gas cloud at the place where it exploded,Type: Active,"Item Pool: Item Room, Sloth Miniboss"
+ItemID: 44,Teleport,"""Teleport!""",Quality: 0,Teleports Isaac to a random location on the map,Type: Active,Item Pool: Item Room
+ItemID: 45,Yum Heart,"""Reusable regeneration""",Quality: 1,Heals Isaac for one whole red heart,Type: Active,"Item Pool: Item Room, Super Lust Miniboss"
+ItemID: 46,Lucky Foot,"""Luck up""",Quality: 2,+1.0 Luck Up,Type: Passive,"Item Pool: Item Room, Beggar"
+ItemID: 47,Doctor's Remote,"""Reusable air strike""",Quality: 1,A target is placed on the floor which can be controlled. After a few seconds a huge missile hits the target and deals 20x your tear damage to anything nearby,Type: Active,Item Pool: Item Room
+ItemID: 48,Cupid's Arrow,"""Piercing shots""",Quality: 3,Isaac's tears now have a piercing effect which allows them to travel through enemies instead of breaking on hit,Type: Passive,Item Pool: Item Room
+ItemID: 49,Shoop Da Whoop!,"""BLLLARRRRGGG!""",Quality: 2,"When used, fires a high damage laser in a straight line across the room in a similar way to Brimstone",Type: Active,"Item Pool: Item Room, Envy Miniboss, Super Envy Miniboss"
+ItemID: 50,Steven,"""DMG up""",Quality: 3,+1 Damage Up,Type: Passive,Item Pool: Steven Boss
+ItemID: 51,Pentagram,"""DMG up""",Quality: 3,+1.0 Damage Up,Type: Passive,"Item Pool: Boss Room, Curse Room, Devil Room, Demon Beggar, Crane Game"
+ItemID: 52,Dr. Fetus,"""???""",Quality: 4,"Instead of tears, Isaac now shoots bombs from his eyes, which explode dealing damage to anything nearby","Type: Passive, Tear Modifier",Item Pool: Item Room
+ItemID: 53,Magneto,"""Item snatcher""",Quality: 1,Causes pickups on the floor move towards the player,Type: Passive,Item Pool: Item Room
+ItemID: 54,Treasure Map,"""Full visible map""",Quality: 2,Reveals the entire map for every floor except the secret room locations,Type: Passive,"Item Pool: Shop, Beggar"
+ItemID: 55,Mom's Eye,"""Eye in the back of your head""",Quality: 1,Isaac has a random chance to fire another tear out the back of his head,"Type: Passive, Tear Modifier","Item Pool: Item Room, Challenge Room"
+ItemID: 56,Lemon Mishap,"""Oops...""",Quality: 1,"When used, drops a pool of 'lemonade' on the floor which damages any enemies that come into contact with it for 8 damage per tick",Type: Active,Item Pool: Item Room
+ItemID: 57,Distant Admiration,"""Attack fly""",Quality: 2,Gives Isaac an orbiting fly which deals 5 contact damage to enemies per tick,"Type: Passive, Orbital","Item Pool: Item Room, Key Beggar"
+ItemID: 58,Book of Shadows,"""Temporary invincibility""",Quality: 3,Gives the player an invulnerability effect which lasts for a 10 seconds,Type: Active,"Item Pool: Item Room, Library"
+ItemID: 60,The Ladder,"""Building bridges""",Quality: 1,Allows Isaac to walk over gaps with a width of one tile,Type: Passive,Item Pool: Shop
+ItemID: 62,Charm of the Vampire,"""Kills heal""",Quality: 1,+0.3 Damage Up,Type: Passive,Item Pool: Item Room
+ItemID: 63,The Battery,"""Stores energy""",Quality: 2,"All spacebar items can now be 'overcharged', allowing them to be charged up twice instead of once",Type: Passive,Item Pool: Shop
+ItemID: 64,Steam Sale,"""50% off""",Quality: 2,Items in the shop are now -50% off,Type: Passive,"Item Pool: Shop, Greed Miniboss, Shopkeeper"
+ItemID: 65,Anarchist Cookbook,"""Summon bombs""",Quality: 1,Spawns 6 troll bombs at random locations around the room,Type: Active,"Item Pool: Item Room, Library, Pride Miniboss"
+ItemID: 66,The Hourglass,"""Temporary enemy slowdown""",Quality: 1,"When used, slows down all enemies in the current room and their projectiles for about 8 seconds",Type: Active,Item Pool: Item Room
+ItemID: 67,Sister Maggy,"""Friends 'till the end""",Quality: 1,A familiar which follows Isaac around and shoots blood tears that deal 5 damage,"Type: Passive, Familiar","Item Pool: Item Room, Devil Room"
+ItemID: 68,Technology,"""Laser tears""",Quality: 3,Isaac's tears are replaced with a laser that has unlimited range and can only fire at right angles,"Type: Passive, Tear Modifier",Item Pool: Item Room
+ItemID: 69,Chocolate Milk,"""Charge shots""",Quality: 3,Isaac can now charge shots for more damage by holding down the fire button,"Type: Passive, Tear Modifier",Item Pool: Item Room
+ItemID: 70,Growth Hormones,"""DMG up + speed up""",Quality: 3,+1.0 Damage Up,Type: Passive,"Item Pool: Boss Room, Demon Beggar"
+ItemID: 71,Mini Mush,"""Speed + range up""",Quality: 2,+0.3 Speed Up,Type: Passive,Item Pool: Item Room
+ItemID: 72,Rosary,"""Faith up""",Quality: 2,+3 Soul Hearts,Type: Passive,"Item Pool: Item Room, Angel Room"
+ItemID: 73,Cube of Meat,"""Gotta meat em all""",Quality: 2,An orbital which blocks shots and damages enemies it comes into contact with for 7 damage per tick,Type: Passive,"Item Pool: One of the Horsemen Bosses (Famine, Pestilence, War, Death)"
+ItemID: 74,A Quarter,"""+25 coins""",Quality: 1,+25 Coins,Type: Passive,"Item Pool: Devil Room, Gold Chest, Super Greed Miniboss"
+ItemID: 75,PhD,"""Better pills""",Quality: 2,"Converts most negative pills into their positive counterparts, e.g. Stat Down becomes Stat Up. Bad Trip becomes Balls of Steel. Amnesia becomes I Can See Forever etc",Type: Passive,"Item Pool: Item Room, Shop"
+ItemID: 76,X-Ray Vision,"""I've seen everything""",Quality: 2,"Reveals the entrance to secret rooms and automatically opens the hole, removing the need for bombs to enter",Type: Passive,Item Pool: Item Room
+ItemID: 77,My Little Unicorn,"""Temporary badass""",Quality: 1,Gives Isaac invincibility and +0.28 Speed for 6 seconds,Type: Active,Item Pool: Item Room
+ItemID: 78,Book of Revelations,"""Reusable soul protection""",Quality: 3,"Upon use, gives Isaac an extra Soul heart",Type: Active,"Item Pool: Item Room, Library"
+ItemID: 79,The Mark,"""DMG up""",Quality: 3,+1.0 Damage Up,Type: Passive,"Item Pool: Curse Room, Devil Room, Demon Beggar"
+ItemID: 80,The Pact,"""DMG + tears up""",Quality: 3,+0.5 Damage Up,Type: Passive,"Item Pool: Devil Room, Curse Room, Demon Beggar"
+ItemID: 81,Dead Cat,"""9 lives""",Quality: 3,Isaac's health is set to 1 and he also gains 9 extra lives,Type: Passive,"Item Pool: Devil Room, Curse Room, Red Chest, Super Pride Miniboss"
+ItemID: 82,Lord of the Pit,"""Demon wings""",Quality: 3,Gives Isaac demon wings and the ability to fly,Type: Passive,"Item Pool: Devil Room, Demon Beggar"
+ItemID: 83,The Nail,"""Temporary demon form""",Quality: 3,"Each use of this item gives +0.7 Damage Up, -0.18 Speed Down and the ability to destroy most obstacles for the current room.",Type: Active,"Item Pool: Devil Room, Demon Beggar"
+ItemID: 84,We Need To Go Deeper,"""Reusable level skip""",Quality: 0,Spawns a trapdoor at Isaac's feet which allows him to travel to the next floor,Type: Active,"Item Pool: Secret Room, Devil Room"
+ItemID: 85,Deck of Cards,"""Reusable card generator""",Quality: 2,Gives Isaac a random tarot card on use,Type: Active,"Item Pool: Item Room, Shop"
+ItemID: 86,Monstro's Tooth,"""Summon monstro""",Quality: 1,"When used, spawns a Monstro which will jump on a random enemy in the room, dealing 120 damage and destroying nearby obstacles",Type: Active,Item Pool: Item Room
+ItemID: 87,Loki's Horns,"""Cross tears""",Quality: 1,"Everytime you fire a tear, there is a chance that you will also fire three more tears in all cardinal directions","Type: Passive, Tear Modifier","Item Pool: Item Room, Demon Beggar"
+ItemID: 88,Little Chubby,"""Attack buddy""",Quality: 1,"A familiar that follows Isaac and charges forwards, dealing 3.5 damage per tick to any enemies it comes into contact with","Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 89,Spider Bite,"""Slow effect""",Quality: 2,Tears now have a chance of slowing enemies and their projectiles for 2.5 seconds,Type: Passive,Item Pool: Item Room
+ItemID: 90,The Small Rock,"""DMG up""",Quality: 3,+1.0 Damage Up,Type: Passive,Item Pool: Tinted Rock
+ItemID: 91,Spelunker Hat,"""See-through doors""",Quality: 2,"Reveals adjacent rooms up to 2 rooms away, this includes revealing if you're next to a Secret Room or Super Secret Rooms",Type: Passive,Item Pool: Item Room
+ItemID: 92,Super Bandage,"""+2 hearts""",Quality: 2,+1 HP Up,Type: Passive,"Item Pool: Item Room, Boss Room"
+ItemID: 93,The Gamekid,"""Temporary Man-Pac""",Quality: 2,"When used Isaac transforms into pacman, which makes him invincible for 6 seconds and does 40 contact damage to enemies per chomp",Type: Active,Item Pool: Item Room
+ItemID: 94,Sack of Pennies,"""Gives money""",Quality: 1,A bag that floats around following Isaac and drops a random coin every 2 rooms,"Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 95,Robo-Baby,"""Friends till the bzzzttt""",Quality: 1,"A familiar which follows Isaac and shoots lasers, similar to the Technology item","Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 96,Little C.H.A.D,"""Gives kisses""",Quality: 2,A familiar which follows Isaac and drops half a red heart every 3 rooms,"Type: Passive, Familiar","Item Pool: Item Room, C.H.A.D. Boss"
+ItemID: 97,The Book of Sin,"""Reusable item generator""",Quality: 2,Spawns a random pickup on the floor,Type: Active,"Item Pool: Item Room, Library, Devil Room"
+ItemID: 98,The Relic,"""Soul generator""",Quality: 4,A blue cross that follows Isaac and drops a soul heart every 7-8 rooms,"Type: Passive, Familiar","Item Pool: Item Room, Angel Room"
+ItemID: 99,Little Gish,"""Sticky friend""",Quality: 2,"A familiar that follows Isaac and fires black tar tears, which slow enemy movement and projectile speed for a few seconds","Type: Passive, Familiar","Item Pool: Item Room, Gish Boss"
+ItemID: 100,Little Steven,"""Psychic friend""",Quality: 1,A familiar that follows Isaac and fires homing tears that deal 3.5 damage each,"Type: Passive, Familiar","Item Pool: Item Room, Steven Boss"
+ItemID: 101,The Halo,"""All stats up""",Quality: 2,+1 HP Up,Type: Passive,"Item Pool: Item Room, Angel Room"
+ItemID: 102,Mom's Bottle of Pills,"""Reusable pill generator""",Quality: 1,"When used, gives Isaac a random pill",Type: Active,"Item Pool: Item Room, Shop, Challenge Room, Beggar, Demon Beggar"
+ItemID: 103,The Common Cold,"""Poison damage""",Quality: 1,"Tears now have a random chance to apply a poison effect, causing double your tear damage per tick to enemies over time",Type: Passive,Item Pool: Item Room
+ItemID: 104,The Parasite,"""Split shot""",Quality: 3,Isaac's tears now split into two upon contact with enemies or the environment,Type: Passive,Item Pool: Item Room
+ItemID: 105,The D6,"""Reroll your destiny""",Quality: 4,"When used, replaces all pedestal items in the current room with another random item. Re-rolled items pick from the current room's item pool",Type: Active,Item Pool: Item Room
+ItemID: 106,Mr. Mega,"""Blast damage""",Quality: 2,+5 Bombs,Type: Passive,"Item Pool: Item Room, Bomb Beggar, Super Wrath Miniboss"
+ItemID: 107,Pinking Shears,"""Cut and run""",Quality: 2,"Cuts Isaac's head from his body for the current room, allowing him to fly and leaving the decapitated body to run around attacking enemies for 5.5 damage per tick",Type: Active,Item Pool: Item Room
+ItemID: 108,The Wafer,"""Damage resistance""",Quality: 4,All damage taken is reduced to half a heart,Type: Passive,"Item Pool: Item Room, Angel Room"
+ItemID: 109,Money = Power,"""$$$ = DMG""",Quality: 3,+0.04 Damage Up for every coin you currently have,Type: Passive,"Item Pool: Item Room, Devil Room"
+ItemID: 110,Mom's Contacts,"""Freeze effect""",Quality: 3,Tears now have a random chance to freeze enemies in place,Type: Passive,"Item Pool: Item Room, Challenge Room"
+ItemID: 111,The Bean,"""Toot on command""",Quality: 0,"Upon use, this item causes Isaac to fart and poison any enemies in close proximity",Type: Active,"Item Pool: Item Room, Beggar"
+ItemID: 112,Guardian Angel,"""Extra protection""",Quality: 2,"An orbital which does 7 contact damage per tick, blocks shots and increases the speed of all other orbitals","Type: Passive, Orbital",Item Pool: Angel Room
+ItemID: 113,Demon Baby,"""Auto-turret friend""",Quality: 2,A familiar which follows Isaac and automatically fires tears that deal 3 damage each at any enemies in close range,"Type: Passive, Familiar","Item Pool: Item Room, Devil Room"
+ItemID: 114,Mom's Knife,"""Stab stab stab""",Quality: 4,Tears are replaced with a knife which can be charged and thrown in a boomerang style action,"Type: Passive, Tear Modifier","Item Pool: Item Room, Devil Room, Challenge Room"
+ItemID: 115,Ouija Board,"""Spectral tears""",Quality: 2,Gives Isaac spectral tears which allows them to travel through objects in the environment (i.e. rocks),Type: Passive,"Item Pool: Item Room, Devil Room"
+ItemID: 116,9 Volt,"""Quicker charge""",Quality: 2,Automatically gives you 1 bar of charge after using your spacebar item,Type: Passive,Item Pool: Shop
+ItemID: 117,Dead Bird,"""Protective buddy""",Quality: 0,"When Isaac takes damage, the dead bird will spawn and attack nearby enemies in the current room for 2 damage per tick","Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 118,Brimstone,"""Blood laser barrage""",Quality: 4,"Tears are replaced with the ability to charge and fire a powerful laser that travels in a straight line across the room, dealing a lot of damage (tear damage hits for 9 ticks per laser) to any enemies it comes into contact with","Type: Passive, Tear Modifier",Item Pool: Devil Room
+ItemID: 119,Blood Bag,"""HP up""",Quality: 2,+1 HP Up,Type: Passive,Item Pool: Blood Donation Machine
+ItemID: 120,Odd Mushroom (Thin),"""Fire rate up""",Quality: 2,Gives you a high rate of fire in exchange for a damage down,Type: Passive,"Item Pool: Item Room, Secret Room"
+ItemID: 121,Odd Mushroom (Large),"""DMG up""",Quality: 2,+1 HP Up,Type: Passive,"Item Pool: Item Room, Secret Room"
+ItemID: 122,Whore of Babylon,"""Curse up""",Quality: 2,"When you only have half a red heart remaining or less, you enter a curse state which adds +1.5 damage and +0.3 speed",Type: Passive,"Item Pool: Devil Room, Demon Beggar"
+ItemID: 123,Monster Manual,"""Temporary buddy generator""",Quality: 1,"When used, gives a random familiar for the entire floor",Type: Active,"Item Pool: Item Room, Devil Room, Library"
+ItemID: 124,Dead Sea Scrolls,"""It's a mystery""",Quality: 1,"Upon use, the dead sea scrolls gives a random spacebar item effect",Type: Active,"Item Pool: Item Room, Angel Room"
+ItemID: 125,Bobby - Bomb,"""Friends till the end""",Quality: 2,+5 Bombs,Type: Passive,"Item Pool: Item Room, Bomb Beggar"
+ItemID: 126,Razor Blade,"""Feel my pain""",Quality: 0,"When used, deals damage to Isaac in exchange for +1.2 damage up which lasts for the current room",Type: Active,"Item Pool: Devil Room, Demon Beggar"
+ItemID: 127,Forget Me Now,"""I don't remember...""",Quality: 3,"Upon use, this item refreshes the current floor with brand new rooms, monsters and items, as if you had entered a new floor",Type: Active,"Item Pool: Item Room, Secret Room, Devil Room, Demon Beggar"
+ItemID: 128,Forever Alone,"""Attack fly""",Quality: 1,An orbiting fly which deals 2 contact damage per tick to enemies,"Type: Passive, Orbital",Item Pool: Item Room
+ItemID: 129,Bucket of Lard,"""HP up""",Quality: 1,+2 Health Up,Type: Passive,"Item Pool: Item Room, Super Gluttony Miniboss"
+ItemID: 130,A Pony,"""Flight + dash attack""",Quality: 2,Allows Isaac to fly while the Pony is held,Type: Active,Item Pool: Headless Horseman Boss
+ItemID: 131,Bomb Bag,"""Gives bombs""",Quality: 2,A bag of bombs that will drop a bomb pickup every 2 rooms,"Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 132,A Lump of Coal,"""My Xmas present""",Quality: 3,Tears gain a damage up and increase in size based on the distance they travel,Type: Passive,Item Pool: Krampus Boss
+ItemID: 133,Guppy's Paw,"""Soul converter""",Quality: 3,"When used, removes one heart container and gives you 3 soul hearts",Type: Active,"Item Pool: Devil Room, Curse Room, Red Chest"
+ItemID: 134,Guppy's Tail,"""Cursed?""",Quality: 2,"Gives a 1/3 chance for room clear rewards to become a normal or locked chest, and a 1/3 chance to reward nothing at all",Type: Passive,"Item Pool: Devil Room, Curse Room, Red Chest"
+ItemID: 135,IV Bag,"""Portable blood bank""",Quality: 1,"Upon use, the IV Bag takes half a red heart and spawns 1-3 coins (the same effect as a blood donation machine)",Type: Active,Item Pool: Blood Donation Machine
+ItemID: 136,Best Friend,"""Friends 'till the end""",Quality: 1,Places a decoy on the floor which attracts enemies and explodes after a period of time,Type: Active,Item Pool: Item Room
+ItemID: 137,Remote Detonator,"""Remote bomb detonation""",Quality: 1,+5 Bombs,Type: Active,"Item Pool: Item Room, Shop, Bomb Beggar"
+ItemID: 138,Stigmata,"""DMG + HP up""",Quality: 2,+1 HP Up,Type: Passive,Item Pool: Item Room
+ItemID: 139,Mom's Purse,"""More trinket room""",Quality: 3,Isaac can now hold two trinkets at the same time,Type: Passive,Item Pool: Shop
+ItemID: 140,Bob's Curse,"""Poison bombs""",Quality: 1,All of Isaac's bombs now leave a poison effect on any enemies within the blast radius,Type: Passive,"Item Pool: Item Room, Super Sloth Miniboss, Bomb Beggar"
+ItemID: 141,Pageant Boy,"""Ultimate grand supreme""",Quality: 0,Spawns 7 random coins around Isaac on the floor,Type: Passive,Item Pool: Boss Room
+ItemID: 142,Scapular,"""You have been blessed""",Quality: 2,"Once per room when you are damaged down to your final half a heart, you gain 1 soul heart",Type: Passive,"Item Pool: Item Room, Angel Room"
+ItemID: 143,Speed Ball,"""Speed + shot speed up""",Quality: 2,+0.3 Speed Up,Type: Passive,"Item Pool: Item Room, Boss Room, Demon Beggar"
+ItemID: 144,Bum Friend,"""He's Greedy""",Quality: 0,A beggar who follows Isaac around and automatically picks up nearby coins,"Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 145,Guppy's Head,"""Reusable fly hive""",Quality: 3,"When used, spawns between 2-4 blue flies",Type: Active,"Item Pool: Devil Room, Curse Room, Red Chest, Gold/Stone Chest"
+ItemID: 146,Prayer Card,"""Reusable eternity""",Quality: 3,Gives Isaac an eternal heart when used,Type: Active,"Item Pool: Item Room, Angel Room"
+ItemID: 147,Notched Axe,"""Rocks didn't stand a chance""",Quality: 1,"When activated, Isaac takes out the axe and gives you the ability to break rocks and damage enemies with it",Type: Active,"Item Pool: Shop, Crane Game"
+ItemID: 148,Infestation,"""Fly revenge""",Quality: 0,"When Isaac gets hit, 2-6 blue flies will randomly spawn",Type: Passive,Item Pool: Item Room
+ItemID: 149,Ipecac,"""Explosive shots""",Quality: 4,"Isaac's tears are replaced with explosive poison bombs, which will arc upwards and explode on contact with the floor, dealing huge damage and leaving a poison effect on enemies in range","Type: Passive, Tear Modifier",Item Pool: Item Room
+ItemID: 150,Tough Love,"""Tooth shot""",Quality: 3,Isaac has a random chance to fire a tooth shot instead of a tear sometimes,Type: Passive,Item Pool: Item Room
+ItemID: 151,The Mulligan,"""They grow inside""",Quality: 3,Isaac has a 1/6 chance to spawn a blue fly when one of his tears hits an enemy,Type: Passive,Item Pool: Item Room
+ItemID: 152,Technology 2,"""Laser""",Quality: 2,Isaac now also has a laser with unlimited range which fires continuously. Tears continue to fire from your left eye,"Type: Passive, Tear Modifier",Item Pool: Item Room
+ItemID: 153,Mutant Spider,"""Quad Shot""",Quality: 3,Tears now shoot 4 at a time (Quad Shot),"Type: Passive, Tear Modifier",Item Pool: Item Room
+ItemID: 154,Chemical Peel,"""DMG up""",Quality: 2,+2 Damage Up for tears fired from Isaac's left eye,Type: Passive,Item Pool: Item Room
+ItemID: 155,The Peeper,"""Plop!""",Quality: 2,Gives Isaac an eye companion that floats around the room and deals 8 damage per tick on contact with enemies,"Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 156,Habit,"""Item martyr""",Quality: 2,"When you take damage, this item recharges one room's worth of charge to your spacebar item",Type: Passive,"Item Pool: Shop, Angel Room"
+ItemID: 157,Bloody Lust,"""RAGE!""",Quality: 3,"Each time you take damage, you gain a damage up which lasts for the rest of the floor and turn a darker red colour each time",Type: Passive,"Item Pool: Item Room, Devil Room"
+ItemID: 158,Crystal Ball,"""I see my future""",Quality: 3,"Upon use, reveals the map and drops either a soul heart or a random card/rune (50% chance for each)",Type: Active,Item Pool: None (Fortune machine only)
+ItemID: 159,Spirit of the Night,"""Scary""",Quality: 3,Gives Isaac the ability to fly and spectral tears,Type: Passive,"Item Pool: Devil Room, Demon Beggar"
+ItemID: 160,Crack The Sky,"""Holy white death""",Quality: 2,Creates 5 beams of light from the sky that deal damage equal to your tear damage + 20 to any enemies which come into contact with them,Type: Active,Item Pool: Item Room
+ItemID: 161,Ankh,"""Eternal life?""",Quality: 1,"Upon death, you respawn in the previous room as Blue Baby with three Soul hearts",Type: Passive,Item Pool: Item Room
+ItemID: 162,Celtic Cross,"""You feel blessed""",Quality: 1,"Upon taking damage, you have a 20% chance to gain an invulnerability shield for 7 seconds",Type: Passive,"Item Pool: Item Room, Angel Room"
+ItemID: 163,Ghost Baby,"""Spectral buddy""",Quality: 1,A familiar which follows Isaac and shoots spectral tears that deal 3.5 damage,"Type: Passive, Familiar","Item Pool: Item Room, Devil Room"
+ItemID: 164,The Candle,"""Reusable flame""",Quality: 2,A spacebar item which allows Isaac to fire a blue flame that damages anything in its path for 23 damage per tick,Type: Active,Item Pool: Shop
+ItemID: 165,Cat-O-Nine-Tails,"""Shot speed up + DMG up""",Quality: 3,+1.0 Damage Up,Type: Passive,Item Pool: Boss Room
+ItemID: 166,D20,"""Reroll the basics""",Quality: 2,"Upon use, re-rolls all pickup consumables in the current room into another random kind of pickup",Type: Active,Item Pool: Item Room
+ItemID: 167,Harlequin Baby,"""Double shot buddy""",Quality: 1,A familiar which follows Isaac and shoots two normal tears at once in a V-shaped pattern,"Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 168,Epic Fetus,"""On-demand air strike""",Quality: 4,Tears now become missiles which deal huge damage to anything nearby,"Type: Passive, Tear Modifier",Item Pool: Secret Room
+ItemID: 169,Polyphemus,"""Mega tears""",Quality: 4,High Damage Up - (damage + 4) * 2,Type: Passive,Item Pool: Item Room
+ItemID: 170,Daddy Longlegs,"""Daddy's love""",Quality: 3,"A shadow follows Isaac and stomps on enemies randomly, dealing 40 damage per stomp (2 damage ticks at 20 damage each)","Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 171,Spider Butt,"""Mass enemy slowdown + damage""",Quality: 1,"Upon use, does 10 damage to all enemies in the room and gives them a slowing effect for 4 seconds",Type: Active,Item Pool: Item Room
+ItemID: 172,Sacrificial Dagger,"""My fate protects me""",Quality: 2,Gives Isaac an orbital knife that blocks shots and deals 15 damage per tick on contact with enemies,"Type: Passive, Orbital","Item Pool: Item Room, Devil Room"
+ItemID: 173,Mitre,"""You feel blessed""",Quality: 3,Gives a 33% chance of converting red heart drops into soul hearts,Type: Passive,"Item Pool: Item Room, Angel Room"
+ItemID: 174,Rainbow Baby,"""Random buddy""",Quality: 1,A familiar the follows Isaac and fires random tears,"Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 175,Dad's Key,"""Opens all doors...""",Quality: 1,"Upon use, opens all closed doors in the current room, including the ones which require a key to enter and secret room doors",Type: Active,"Item Pool: Item Room, Key Beggar"
+ItemID: 176,Stem Cells,"""HP up""",Quality: 1,+1 HP Up,Type: Passive,"Item Pool: Item Room, Boss Room"
+ItemID: 177,Portable Slot,"""Gamble 24/7""",Quality: 0,Using the portable slot takes a coin and has a chance to give a pickup - similar to how the normal slot machines work,Type: Active,"Item Pool: Shop, Beggar"
+ItemID: 178,Holy Water,"""Splash!""",Quality: 3,<None></None>,"Type: Passive, Familiar","Item Pool: Item Room, Angel Room"
+ItemID: 179,Fate,"""Flight eternal""",Quality: 3,Gives Isaac an eternal heart and the ability to fly,Type: Passive,Item Pool: Gold Chest
+ItemID: 180,The Black Bean,"""Toot on touch""",Quality: 0,"Upon taking damage, Isaac will fart, causing all enemies in close proximity to become poisoned",Type: Passive,"Item Pool: Item Room, Beggar"
+ItemID: 181,White Pony,"""Flight + holy death""",Quality: 2,Allows Isaac to fly while the White Pony is held,Type: Active,Item Pool: None (Conquest boss only)
+ItemID: 182,Sacred Heart,"""Homing shots + DMG up""",Quality: 4,"Tears are now white, do a lot more damage and move slower across the screen with a homing effect","Type: Passive, Tear Modifier",Item Pool: Angel Room
+ItemID: 183,Toothpicks,"""Tears + shot speed up""",Quality: 3,+0.7 Tears Up,Type: Passive,Item Pool: Boss Room
+ItemID: 184,Holy Grail,"""Flight + HP up""",Quality: 3,+1 HP Up,Type: Passive,Item Pool: Angel Room
+ItemID: 185,Dead Dove,"""Flight + spectral tears""",Quality: 3,Gives Isaac the ability to fly and spectral tears,Type: Passive,Item Pool: Angel Room
+ItemID: 186,Blood Rights,"""Mass enemy damage at a cost""",Quality: 0,"Upon use, takes away one full heart and deals 40 damage to the entire room",Type: Active,Item Pool: Item Room
+ItemID: 187,Guppy's Hairball,"""Swing it""",Quality: 1,"Follows behind Isaac and can be swung back and forth, dealing 5 contact damage per tick to anything it hits","Type: Passive, Familiar",Item Pool: Devil Room
+ItemID: 188,Abel,"""Mirrored buddy""",Quality: 0,A familiar that mirrors the player's movements and shoots tears directly at Isaac,"Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 189,SMB Super Fan,"""All stats up""",Quality: 3,Isaac turns red like Meatboy,Type: Passive,Item Pool: Item Room
+ItemID: 190,Pyro,"""99 bombs""",Quality: 3,Gives Isaac 99 bombs,Type: Passive,"Item Pool: Item Room, Secret Room, Bomb Beggar"
+ItemID: 191,3 Dollar Bill,"""Rainbow tears""",Quality: 2,Grants Isaac random tear effects,"Type: Passive, Tear Modifier",Item Pool: Item Room
+ItemID: 192,Telepathy for Dummies,"""Temporary psychic shot""",Quality: 1,"When used, Isaac gains homing shots and +3.0 Range Up for the current room",Type: Active,"Item Pool: Item Room, Library"
+ItemID: 193,MEAT!,"""DMG + HP up""",Quality: 2,+1 HP Up,Type: Passive,Item Pool: Boss Room
+ItemID: 194,Magic 8 Ball,"""Shot speed up""",Quality: 1,+0.16 Shot Speed Up,Type: Passive,"Item Pool: Boss Room, Gold/Stone Chest"
+ItemID: 195,Mom's Coin Purse,"""What's all this...?""",Quality: 1,Drops 4 random pills on the floor around Isaac,Type: Passive,"Item Pool: Shop, Boss Room, Challenge Room, Beggar, Demon Beggar"
+ItemID: 196,Squeezy,"""Tears up""",Quality: 3,+2 Soul Hearts,Type: Passive,"Item Pool: Boss Room, Gold/Stone Chest"
+ItemID: 197,Jesus Juice,"""Damage + range up""",Quality: 2,+0.5 Damage Up,Type: Passive,"Item Pool: Boss Room, Angel Room"
+ItemID: 198,Box,"""Stuff""",Quality: 1,"When picked up, spawns 1 red heart, 1 key, 1 bomb, 1 coin, 1 card/rune, 1 pill and 1 trinket",Type: Passive,"Item Pool: Boss Room, Challenge Room"
+ItemID: 199,Mom's Key,"""Better chest loot +2 keys""",Quality: 3,+2 Keys,Type: Passive,"Item Pool: Shop, Challenge Room, Key Beggar"
+ItemID: 200,Mom's Eyeshadow,"""Charm tears""",Quality: 1,Tears have a random chance to charm enemies,Type: Passive,"Item Pool: Item Room, Challenge Room"
+ItemID: 201,Iron Bar,"""Concussive tears""",Quality: 3,+0.3 Damage Up,Type: Passive,Item Pool: Item Room
+ItemID: 202,Midas Touch,"""Golden touch""",Quality: 2,"Isaac's touch now petrifies enemies, turning them to gold for a few seconds. ",Type: Passive,Item Pool: Item Room
+ItemID: 203,Humbling Bundle,"""1+1free 4evar!""",Quality: 3,"All future pennies, keys, bombs and hearts have a chance to drop in pairs",Type: Passive,Item Pool: Shop
+ItemID: 204,Fanny pack,"""Filled with goodies""",Quality: 1,"When you take damage, there is a 50% chance to drop a random heart, key, bomb or coin",Type: Passive,"Item Pool: Shop, Beggar"
+ItemID: 205,Sharp plug,"""Charge with blood""",Quality: 1,"When your spacebar item is not fully charged, you can press spacebar to recharge it at the cost half of a heart per charge",Type: Passive,Item Pool: Shop
+ItemID: 206,The Guillotine,"""An out-of-body experience""",Quality: 2,+1.0 Damage Up,Type: Passive,Item Pool: Item Room
+ItemID: 207,Ball of Bandages,"""Gotta lick em all""",Quality: 2,Gives Isaac an orbital ball of bandages that deals 7 contact damage per tick and blocks enemy shots,"Type: Passive, Orbital",Item Pool: None (Horsemen boss only)
+ItemID: 208,Champion Belt,"""DMG + Challenge up""",Quality: 3,+1.0 Damage Up,Type: Passive,Item Pool: Shop
+ItemID: 209,Butt Bombs,"""Toxic blast +5 bombs""",Quality: 2,+5 bombs,Type: Passive,"Item Pool: Item Room, Bomb Beggar"
+ItemID: 210,Gnawed Leaf,"""Unbreakable""",Quality: 1,"If Isaac stands still and stops shooting for a second, he turns to stone, making him invincible until he moves/shoots again",Type: Passive,Item Pool: Item Room
+ItemID: 211,Spiderbaby,"""Spider revenge""",Quality: 1,Spawns 2-5 friendly attack spiders every time you take damage,Type: Passive,Item Pool: Item Room
+ItemID: 212,Guppy's Collar,"""Eternal life?""",Quality: 2,"When Isaac dies, he has a 50% chance to resurrect with 1/2 a heart",Type: Passive,"Item Pool: Devil Room, Curse Room, Red Chest"
+ItemID: 213,Lost Contact,"""Shielded tears""",Quality: 2,"All of Isaac's tears now have a shield, allowing them to block an enemy projectile",Type: Passive,"Item Pool: Item Room, Secret Room"
+ItemID: 214,Anemic,"""Toxic blood""",Quality: 1,+1.5 Range Up,Type: Passive,Item Pool: Item Room
+ItemID: 215,Goat Head,"""He accepts your offering""",Quality: 3,"Gives Isaac a guaranteed devil or angel room on every floor that they can appear, even if you have already beaten the boss and it didn't show up originally",Type: Passive,"Item Pool: Devil Room, Curse Room"
+ItemID: 216,Ceremonial Robes,"""Sin up""",Quality: 3,+3 Black Hearts,Type: Passive,"Item Pool: Devil Room, Curse Room, Demon Beggar"
+ItemID: 217,Mom's Wig,"""You feel itchy""",Quality: 3,Isaac now has a small chance to create friendly attack spiders everytime he fires a tear,Type: Passive,"Item Pool: Item Room, Challenge Room"
+ItemID: 218,Placenta,"""HP up + regen""",Quality: 2,+1 HP Up,Type: Passive,Item Pool: Boss Room
+ItemID: 219,Old Bandage,"""HP up""",Quality: 2,+1 HP Up,Type: Passive,Item Pool: Boss Room
+ItemID: 220,Sad Bombs,"""Tear blast +5 bombs""",Quality: 2,+5 Bombs,Type: Passive,"Item Pool: Item Room, Bomb Beggar"
+ItemID: 221,Rubber Cement,"""Bouncing tears""",Quality: 3,"Isaac's tears now bounce off walls and objects in the environment, such as rocks and pots",Type: Passive,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 222,Anti-Gravity,"""Antigravity tears + tears up""",Quality: 2,-2 Tear Delay (Tears Up),"Type: Passive, Tear Modifier",Item Pool: Item Room
+ItemID: 223,Pyromaniac,"""Hurts so good +5 bombs""",Quality: 4,+5 Bombs,Type: Passive,Item Pool: Item Room
+ItemID: 224,Cricket's Body,"""Splash damage + tears up""",Quality: 3,-1 Tear Delay (Tears Up),Type: Passive,Item Pool: Item Room
+ItemID: 225,Gimpy,"""Sweet suffering""",Quality: 2,"When getting hit, this item has a chance to drop a soul heart or black heart",Type: Passive,"Item Pool: Item Room, Devil Room, Curse Room, Demon Beggar"
+ItemID: 226,Black Lotus,"""HP up x3""",Quality: 2,+1 HP Up,Type: Passive,Item Pool: Secret Room
+ItemID: 227,Piggy Bank,"""My life savings""",Quality: 1,+3 Coins when picked up,Type: Passive,"Item Pool: Item Room, Shop"
+ItemID: 228,Mom's Perfume,"""Fear shot""",Quality: 2,-1 Tear Delay (Tears Up),Type: Passive,"Item Pool: Item Room, Challenge Room"
+ItemID: 229,Monstro's Lung,"""Charged attack""",Quality: 2,"Tears can now be charged and released in a shotgun style effect, much like Monstro's main attack","Type: Passive, Tear Modifier",Item Pool: Item Room
+ItemID: 230,Abaddon,"""Evil up + DMG up + fear shot""",Quality: 3,"On pickup Abaddon converts all your heart containers to black hearts, then gives you +2 more black hearts",Type: Passive,"Item Pool: Devil Room, Demon Beggar"
+ItemID: 231,Ball of Tar,"""Sticky feet...""",Quality: 2,Isaac leaves a trail of tar behind him which will slow down enemies that walk over it,Type: Passive,Item Pool: Item Room
+ItemID: 232,Stop Watch,"""Let's slow this down a bit""",Quality: 4,+0.3 Speed Up,Type: Passive,Item Pool: Shop
+ItemID: 233,Tiny Planet,"""Orbiting tears + range up""",Quality: 0,+6.5 Range Up,"Type: Passive, Tear Modifier",Item Pool: Item Room
+ItemID: 234,Infestation 2,"""Infestation shot""",Quality: 4,Creates a friendly blue spider when you kill an enemy,Type: Passive,Item Pool: Item Room
+ItemID: 236,E. Coli,"""Turdy Touch""",Quality: 1,E. Coli turns normal enemies into poop if they touch you,Type: Passive,Item Pool: Item Room
+ItemID: 237,Death's Touch,"""Penetrative shots + DMG up""",Quality: 3,+1.5 Damage Up,"Type: Passive, Tear Modifier","Item Pool: Item Room, Devil Room"
+ItemID: 238,Key Piece #1,"""???""",Quality: 0,Increases your chances to find an Angel Room instead of a Devil Room.,"Type: Passive, Familiar",Item Pool: Angel Statue in Angel Room
+ItemID: 239,Key Piece #2,"""???""",Quality: 0,Increases your chances to find an Angel Room instead of a Devil Room.,"Type: Passive, Familiar",Item Pool: Angel Statue in Angel Room
+ItemID: 240,Experimental Treatment,"""Some stats up, some stats down""",Quality: 1,"Randomly increases 4 of your stats, and decreases 2 of them",Type: Passive,"Item Pool: Item Room, Boss Room, Demon Beggar"
+ItemID: 241,Contract From Below,"""Wealth, but at what cost?""",Quality: 3,Doubles pickups and chests from clearing a room,Type: Passive,"Item Pool: Devil Room, Curse Room, Demon Beggar"
+ItemID: 242,Infamy,"""Damage reduction""",Quality: 2,Gives a 50% chance to not take damage from projectiles,Type: Passive,"Item Pool: Item Room, Secret Room"
+ItemID: 243,Trinity Shield,"""You feel guarded""",Quality: 3,Puts a shield in front of Isaac which blocks projectiles,Type: Passive,Item Pool: Angel Room
+ItemID: 244,Tech.5,"""It's still being tested""",Quality: 3,Gives Isaac a laser that will fire at random intervals in addition to your normal tears,"Type: Passive, Tear Modifier",Item Pool: Item Room
+ItemID: 245,20/20,"""Double shot""",Quality: 4,Isaac now shoots two tears at once,"Type: Passive, Tear Modifier",Item Pool: Item Room
+ItemID: 246,Blue Map,"""Secrets""",Quality: 2,Reveals the locations of the secret and super secret room for the current floor and all future floors,Type: Passive,"Item Pool: Shop, Beggar, Key Beggar"
+ItemID: 247,BFFS!,"""Your friends rule!""",Quality: 2,Makes all of Isaac's familiars stronger and bigger,Type: Passive,"Item Pool: Shop, Key Beggar"
+ItemID: 248,Hive Mind,"""Giant spiders and flies""",Quality: 2,Causes your friendly blue spiders and flies to become bigger and do x2 more damage,Type: Passive,Item Pool: Shop
+ItemID: 249,There's Options,"""More options""",Quality: 3,"Two items now spawn after beating a boss fight and the boss rush, however only one can be taken",Type: Passive,Item Pool: Shop
+ItemID: 250,Bogo Bombs,"""1+1 bombs""",Quality: 1,All bomb pickups are now 1+1 bombs,Type: Passive,Item Pool: Shop
+ItemID: 251,Starter Deck,"""Extra card room""",Quality: 2,Spawns a random card,Type: Passive,Item Pool: Shop
+ItemID: 252,Little Baggy,"""Extra pill room""",Quality: 1,Allows for 2 pills to be held. Tap the drop button to cycle between each one,Type: Passive,Item Pool: Shop
+ItemID: 253,Magic Scab,"""HP + luck up""",Quality: 2,+1 HP Up,Type: Passive,Item Pool: Boss Room
+ItemID: 254,Blood Clot,"""DMG + range up""",Quality: 2,+1.0 Damage Up (Left eye only),Type: Passive,Item Pool: Boss Room
+ItemID: 255,Screw,"""Tears + shot speed up""",Quality: 3,+0.5 Tears Up,Type: Passive,"Item Pool: Boss Room, Gold/Stone Chest"
+ItemID: 256,Hot Bombs,"""Burning blast +5 bombs""",Quality: 1,+5 Bombs,Type: Passive,"Item Pool: Item Room, Bomb Beggar"
+ItemID: 257,Fire Mind,"""Flaming tears""",Quality: 2,"Isaac's tears now set enemies on fire, leaving a damage over time effect that does 4 or 6 damage per tick",Type: Passive,Item Pool: Item Room
+ItemID: 258,Missing No,"""Syntax error""",Quality: 1,"When picked up, and at the start of each floor this rerolls all your current items, giving you a new item to replace each of the ones you had",Type: Passive,Item Pool: Secret Room
+ItemID: 259,Dark Matter,"""Fear shot""",Quality: 3,+1.0 Damage Up,Type: Passive,"Item Pool: Devil Room, Demon Beggar"
+ItemID: 260,Black Candle,"""Curse of immunity + evil up""",Quality: 3,+1 Black Heart,Type: Passive,"Item Pool: Shop, Curse Room"
+ItemID: 261,Proptosis,"""Short range mega tears""",Quality: 4,Gives Isaac high damage tears with a short range,"Type: Passive, Tear Modifier",Item Pool: Item Room
+ItemID: 262,Missing Page 2,"""Evil up + your enemies will pay""",Quality: 0,+1 Black Heart,Type: Passive,"Item Pool: Devil Room, Demon Beggar, Secret Room"
+ItemID: 264,Smart Fly,"""Revenge fly""",Quality: 2,"A yellow orbital fly that will block shots and when Isaac gets hit, will seek out the nearest enemy and attack it","Type: Passive, Familiar","Item Pool: Item Room, Key Beggar"
+ItemID: 265,Dry Baby,"""Immortal friend""",Quality: 3,A familiar that follows Isaac and blocks any shots that hit it,"Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 266,Juicy Sack,"""Sticky babies""",Quality: 2,A familiar that follows isaac around dropping white creep which slows down enemies that walk over it,"Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 267,Robo-Baby 2.0,"""We worked out all the kinks""",Quality: 1,A familiar that is controlled via the arrow keys and will automatically fire a laser if anything is in its line of sight,"Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 268,Rotten Baby,"""Infested friend""",Quality: 3,A familiar which follows Isaac and spawns a blue flies as you're firing tears,"Type: Passive, Familiar","Item Pool: Item Room, Devil Room"
+ItemID: 269,Headless Baby,"""Bloody friend""",Quality: 1,"A familiar that follows Isaac and leaves blood creep on the floor as it floats, hurting enemies that walk over it for 2 damage per tick","Type: Passive, Familiar","Item Pool: Item Room, Devil Room"
+ItemID: 270,Leech,"""Blood sucker""",Quality: 1,Spawns a familiar leech on the ground that hunts down enemies and heals you for half a heart each time it eats one,"Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 271,Mystery Sack,"""?""",Quality: 2,"A bag that follows Isaac and drops a random heart, coin, bomb or key every 5-6 rooms (alternating, 5 rooms then 6, then repeats)","Type: Passive, Familiar","Item Pool: Item Room, Beggar, Secret Room"
+ItemID: 272,BBF,"""Big beautiful fly""",Quality: 1,"A large familiar black fly that bounces around the room, exploding on contact with enemies dealing 70 damage","Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 273,Bob's Brain,"""Explosive thoughts""",Quality: 1,"A green brain that launches in the direction you are firing your tears and will explode on contact with enemies, dealing damage and poisoning anything in the blast radius","Type: Passive, Familiar","Item Pool: Item Room, Rotten Beggar"
+ItemID: 274,Best Bud,"""Sworn protector""",Quality: 0,"When Isaac takes damage, a white attack fly will spawn that orbits him at a similar distance to the Distant Admiration fly","Type: Passive, Orbital","Item Pool: Item Room, Key Beggar"
+ItemID: 275,Lil Brimstone,"""Evil friend""",Quality: 3,"A familiar that follows Isaac and can fire up and charge brimstone shots, exactly how the normal Brimstone item works but with less damage","Type: Passive, Familiar","Item Pool: Item Room, Devil Room"
+ItemID: 276,Isaac's Heart,"""Protect it""",Quality: 0,"Prevents Isaac from taking any damage, but instead summons a familiar heart that follows you around. If the heart is hit, Isaac will take damage","Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 277,Lil Haunt,"""Fear him""",Quality: 1,"A familiar ghost that follows Isaac around and chases enemies close-by, damaging them for 2 contact damage and causing a fear effect","Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 278,Dark Bum,"""He wants to take your life""",Quality: 3,"A familiar beggar similar to Bum Friend that follows Isaac and collects red hearts, giving Isaac black hearts, pills, cards, runes or spiders in return","Type: Passive, Familiar","Item Pool: Item Room, Devil Room, Demon Beggar"
+ItemID: 279,Big Fan,"""Fat protector""",Quality: 2,"A very large orbital that moves around Isaac very slowly, blocking shots and dealing 2 contact damage per tick","Type: Passive, Orbital",Item Pool: Item Room
+ItemID: 280,Sissy Long Legs,"""She loves you""",Quality: 1,An adorable friendly blue spider that walks around the room laying other blue spiders which attack enemies,"Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 281,Punching Bag,"""Scape goat""",Quality: 1,"Spawns a friendly Mulligan that walks around the room. Mulligan can be hit by enemy projectiles, making him a good shield","Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 282,How To Jump,"""It's time you learned how""",Quality: 1,"When used, makes Isaac leap in the air, similar to the leaper enemies",Type: Active,"Item Pool: Item Room, Library"
+ItemID: 283,D100,"""REEROLLLLL!""",Quality: 3,"When used, rerolls each item you currently own into another item room pool item and any pedestal items and pickups in the room",Type: Active,Item Pool: Item Room
+ItemID: 284,D4,"""Reroll into something else""",Quality: 3,"When used, the D4 re-rolls each item you currently have into another random item from the same item pool",Type: Active,Item Pool: Item Room
+ItemID: 285,D10,"""Rerolls enemies""",Quality: 0,"When used, rerolls all enemies in the room which are currently alive into another random type of enemy",Type: Active,Item Pool: Item Room
+ItemID: 286,Blank Card,"""Card Mimic""",Quality: 2,"When used, copies the effect of the card you are currently holding without consuming it",Type: Active,"Item Pool: Shop, Secret Room"
+ItemID: 287,Book of Secrets,"""??????""",Quality: 0,"When used, you have a chance of getting one of the three following effects: Treasure Map (floor layout), Compass (map icons) or Blue Map (secret room locations)",Type: Active,"Item Pool: Item Room, Library, Secret Room"
+ItemID: 288,Box of Spiders,"""It's a box of spiders""",Quality: 1,"When used, spawns 4-8 friendly blue spiders on the floor",Type: Active,Item Pool: Item Room
+ItemID: 289,Red Candle,"""Flame on""",Quality: 2,"Allows you to fire a red flame infront of you, similar to the Blue Candle item, however the flame will stay 10 seconds",Type: Active,Item Pool: Shop
+ItemID: 290,The Jar,"""Save your life""",Quality: 0,"Isaac can now pick up hearts while at full health, which will be stored in the Jar and can be spawned again using the spacebar",Type: Active,Item Pool: Shop
+ItemID: 291,FLUSH!,"""...""",Quality: 1,"When used, turns every normal enemy in the room into poop!",Type: Active,Item Pool: Item Room
+ItemID: 292,Satanic Bible,"""Reusable evil... but at what cost?""",Quality: 4,"When used, gives Isaac +1 Black Heart",Type: Active,"Item Pool: Item Room, Library, Devil Room"
+ItemID: 293,Head of Krampus,"""Krampus rage""",Quality: 2,"When used, fires a 4 way brimstone laser in all cardinal directions, dealing a lot of damage to any enemies",Type: Active,Item Pool: None (Krampus only)
+ItemID: 294,Butter Bean,"""Reusable knockback""",Quality: 1,"When used, farts on nearby enemies and knocks them backwards away from Isaac",Type: Active,"Item Pool: Item Room, Beggar"
+ItemID: 295,Magic Fingers,"""Pay to play""",Quality: 1,"Upon use, consumes a coin and deals damage to everything in the room",Type: Active,"Item Pool: Item Room, Shop"
+ItemID: 296,Converter,"""Convert your soul""",Quality: 2,"When used, converts 1 soul/black heart into 1 red heart container",Type: Active,Item Pool: Shop
+ItemID: 297,Pandora's Box,"""? ?""",Quality: 2,"When used, this item will spawn a set of items or consumables based on which chapter you are currently on",Type: Active,"Item Pool: Shop, Red Chest"
+ItemID: 298,Unicorn Stump,"""You feel stumped""",Quality: 1,"When used, turns Isaac invincible and gains +0.28 speed for a 5 seconds",Type: Active,Item Pool: Item Room
+ItemID: 299,Taurus,"""Speed down + rage is building""",Quality: 1,-0.3 Speed Down,Type: Passive,Item Pool: Item Room
+ItemID: 300,Aries,"""Ramming speed""",Quality: 2,+0.25 Speed up,Type: Passive,Item Pool: Item Room
+ItemID: 301,Cancer,"""HP up + you feel protected""",Quality: 3,+3 Soul Hearts,Type: Passive,Item Pool: Item Room
+ItemID: 302,Leo,"""Stompy""",Quality: 1,"Isaac increases in size, gets a lion's mane and now has the ability to crush rocks by walking over them",Type: Passive,Item Pool: Item Room
+ItemID: 303,Virgo,"""You feel refreshed and protected""",Quality: 2,A random chance when you take damage to get an invincibility shield for 7 seconds,Type: Passive,Item Pool: Item Room
+ItemID: 304,Libra,"""You feel balanced""",Quality: 1,"Gives you 6 keys, 6 bombs and 6 coins",Type: Passive,Item Pool: Item Room
+ItemID: 305,Scorpio,"""Poison tears""",Quality: 3,Isaac's tears turn bright green and always apply a poison effect to enemies which deals a total of double your tear damage,Type: Passive,Item Pool: Item Room
+ItemID: 306,Sagittarius,"""Penetrative shot + speed up""",Quality: 3,+0.2 Speed Up,Type: Passive,Item Pool: Item Room
+ItemID: 307,Capricorn,"""All stats up""",Quality: 3,+1 HP Up,Type: Passive,Item Pool: Item Room
+ItemID: 308,Aquarius,"""A trail of tears""",Quality: 1,Leaves a trail of tears on the floor behind Isaac which damages enemies that walk over it for 2 damage per tick,Type: Passive,Item Pool: Item Room
+ItemID: 309,Pisces,"""Tears up + knockback shot""",Quality: 2,-1 Tear Delay (Tears Up),Type: Passive,Item Pool: Item Room
+ItemID: 310,Eve's Mascara,"""Shot speed down + DMG up""",Quality: 2,x2 Damage Multiplier,Type: Passive,Item Pool: Item Room
+ItemID: 311,Judas' Shadow,"""Sweet revenge""",Quality: 3,"When you die with this item, you respawn in the previous room as Dark Judas with 2 black hearts for health",Type: Passive,Item Pool: Devil Room
+ItemID: 312,Maggy's Bow,"""HP up + you feel healthy""",Quality: 2,+1 HP Up,Type: Passive,Item Pool: Item Room
+ItemID: 313,Holy Mantle,"""Holy shield""",Quality: 4,"Each time you enter a new room, damage is negated for the first time you get hit",Type: Passive,"Item Pool: Item Room, Angel Room"
+ItemID: 314,Thunder Thighs,"""HP + speed down + you feel strong""",Quality: 1,+1 HP Up,Type: Passive,Item Pool: Item Room
+ItemID: 315,Strange Attractor,"""Magnetic tears""",Quality: 0,"Enemies and pickups (keys, bombs etc.) are now magnetically attracted to Isaac's tears",Type: Passive,Item Pool: Item Room
+ItemID: 316,Cursed Eye,"""Cursed charged shot""",Quality: 0,Tears are now charged up and fired rapidly in a burst of up to 5 shots at once,"Type: Passive, Tear Modifier","Item Pool: Item Room, Secret Room"
+ItemID: 317,Mysterious Liquid,"""Toxic splash damage""",Quality: 3,"When Isaac's tears hit anything, they leave a green toxic creep on the floor that damages enemies for 1 damage per tick",Type: Passive,Item Pool: Item Room
+ItemID: 318,Gemini,"""Conjoined friend""",Quality: 1,"A familar that is attached to Isaac, which will seek out and damage any enemies close by for 3 contact damage","Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 319,Cain's Other Eye,"""Near sighted friend""",Quality: 0,A familiar eye that bounces around the room slowly and fires tears in the same direction as Isaac,"Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 320,???'s Only Friend,"""Controlled friend""",Quality: 2,"A familiar fly that can be moved around via use of the arrow keys dealing 2.5 contact damage per tick, similar to the Ludovico Technique's mechanic","Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 321,Samson's Chains,"""The ol' ball and chain""",Quality: 1,"An iron ball and chain attached to Isaac, similar to Guppy's Hairball that you can fling around to deal 5 damage per tick","Type: Passive, Familiar","Item Pool: Item Room, Secret Room"
+ItemID: 322,Mongo Baby,"""Mongo friend""",Quality: 2,A familiar that will follow Isaac and copy the effect of one of your other familiars,"Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 323,Isaac's Tears,"""Collected tears""",Quality: 0,A spacebar item that fires 8 of Isaac's tears in a circle around him,Type: Active,Item Pool: Item Room
+ItemID: 324,Undefined,"""Undefined""",Quality: 2,"Upon use, teleports you to one of the following rooms at random: Item room, Secret room, Super secret room, the I AM ERROR room or the Black Market (very low chance)",Type: Active,Item Pool: Item Room
+ItemID: 325,Scissors,"""Lose your head""",Quality: 1,When used will cut your head from your body. Isaac's head will remain stationary and fire tears. His body can be controlled and spews blood nearby,Type: Active,Item Pool: Item Room
+ItemID: 326,Breath of Life,"""Invincibility at a cost""",Quality: 0,"While you hold the spacebar down with this item, it will empty the charge bar gradually. When the charge bar gets to zero it will grant you a brief period of invincibility",Type: Active,Item Pool: Angel Room
+ItemID: 327,The Polaroid,"""Fate chosen""",Quality: 2,"After taking damage, if you have half a red heart or less, The Polaroid will give you an invincibility shield for 5 seconds",Type: Passive,Item Pool: None (Mom's foot boss only)
+ItemID: 328,The Negative,"""Fate chosen""",Quality: 1,+1.0 Damage Up,Type: Passive,Item Pool: None (Mom's foot boss only)
+ItemID: 329,The Ludovico Technique,"""Controlled tears""",Quality: 2,You no longer shoot tears and instead now control a single large tear with the arrow keys,"Type: Passive, Tear Modifier",Item Pool: Item Room
+ItemID: 330,Soy Milk,"""DMG down + tears way up""",Quality: 2,Very high Tears Up: Tears * 5.5,"Type: Passive, Tear Modifier",Item Pool: Item Room
+ItemID: 331,Godhead,"""God tears""",Quality: 4,"Isaac's tears become homing and have an aura around them, which will deal a flat 2 damage per tick to anything inside its radius","Type: Passive, Tear Modifier",Item Pool: Angel Room
+ItemID: 332,Lazarus' Rags,"""Eternal life?""",Quality: 1,"Gives Isaac an extra life on death, exactly the same as Lazarus' default respawn effect",Type: Passive,"Item Pool: Item Room, Angel Room"
+ItemID: 333,The Mind,"""I know all""",Quality: 3,"Gives Isaac a full mapping effect, revealing the entire floor and locations of all secret rooms",Type: Passive,"Item Pool: Item Room, Angel Room"
+ItemID: 334,The Body,"""I feel all""",Quality: 3,+3 Health Up,Type: Passive,"Item Pool: Item Room, Angel Room"
+ItemID: 335,The Soul,"""I am all""",Quality: 3,+2 Soul Hearts,Type: Passive,"Item Pool: Item Room, Angel Room"
+ItemID: 336,Dead Onion,"""Toxic aura tears""",Quality: 3,"Isaac's tears become large, brown and will penetrate all objects and enemies (piercing + spectral)",Type: Passive,Item Pool: Item Room
+ItemID: 337,Broken Watch,"""I think its broken""",Quality: 1,"Upon entering every 4th unexplored room, the Broken Watch will either slow down or speed up all enemies in the room",Type: Passive,Item Pool: Shop
+ItemID: 338,Boomerang,"""It will never leave you""",Quality: 1,"A blue boomerang which can be thrown in a similar fashion to Mom's Knife, to stun any enemies it hits and deal damage",Type: Active,Item Pool: Shop
+ItemID: 339,Safety Pin,"""Evil up + range + shot speed""",Quality: 1,+1.5 Range Up,Type: Passive,Item Pool: Boss Room
+ItemID: 340,Caffeine Pill,"""Speed up + size down""",Quality: 1,+0.3 Speed Up,Type: Passive,Item Pool: Boss Room
+ItemID: 341,Torn Photo,"""Tears + shot speed up""",Quality: 3,+0.7 Tears Up,Type: Passive,"Item Pool: Boss Room, Gold/Stone Chest"
+ItemID: 342,Blue Cap,"""HP + tears + shot speed down""",Quality: 3,+1 HP Up,Type: Passive,Item Pool: Boss Room
+ItemID: 343,Latch Key,"""Luck up""",Quality: 2,+1 Luck Up,Type: Passive,"Item Pool: Boss Room, Gold/Stone Chest, Key Beggar"
+ItemID: 344,Match Book,"""Evil up""",Quality: 1,+1 Black Heart,Type: Passive,"Item Pool: Boss Room, Gold/Stone Chest"
+ItemID: 345,Synthoil,"""DMG up + range""",Quality: 3,+1.0 Damage Up,Type: Passive,Item Pool: Boss Room
+ItemID: 346,A Snack,"""HP up""",Quality: 1,+1 HP Up,Type: Passive,Item Pool: Boss Room
+ItemID: 347,Diplopia,"""Double item vision""",Quality: 3,"A one-time use item which when used, will duplicate any pedestal items or consumables in the current room",Type: Active,Item Pool: Shop
+ItemID: 348,Placebo,"""Pill mimic""",Quality: 2,"When used, copies the effect of the pill you are currently holding without consuming it",Type: Active,"Item Pool: Shop, Greed Mode Shop"
+ItemID: 349,Wooden Nickel,"""Flip a coin""",Quality: 1,"When used, has a 50% chance to drop one random type of coin (penny, nickel or dime)",Type: Active,"Item Pool: Shop, Greed Mode Item Room"
+ItemID: 350,Toxic Shock,"""Mass poison""",Quality: 3,"With this item, at the start of every room you will deal double your tear damage to the entire room in a poison effect",Type: Passive,Item Pool: Item Room
+ItemID: 351,Mega Bean,"""Giga fart!""",Quality: 1,"When used, the Mega Bean will freeze all enemies in the current room for a couple of seconds, deal 5 damage and poison any enemies in close proximity and send a wave of spikes across the room in the direction you are facing",Type: Active,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 352,Glass Cannon,"""Be gentle...""",Quality: 1,Glass Cannon allows you to fire one huge spectral tear that deals a lot of damage.,Type: Active,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 353,Bomber Boy,"""Explosive blast!""",Quality: 2,+5 bombs,Type: Passive,"Item Pool: Item Room, Greed Mode Item Room, Bomb Beggar"
+ItemID: 354,Crack Jacks,"""Don't swallow the prize!""",Quality: 2,+1 HP Up,Type: Passive,"Item Pool: Boss Room, Gold/Stone Chest"
+ItemID: 355,Mom's Pearls,"""Range + luck up""",Quality: 2,+0.38 Range Up,Type: Passive,"Item Pool: Boss Room, Gold/Stone Chest"
+ItemID: 356,Car Battery,"""Double charge!""",Quality: 3,The Car Battery causes your spacebar item to activate twice on each use,Type: Passive,"Item Pool: Shop, Greed Mode Shop"
+ItemID: 357,Box of Friends,"""Double your friends""",Quality: 1,"Upon use, gives you a duplicate of each familiar you have for the current room",Type: Active,"Item Pool: Shop, Greed Mode Item Room"
+ItemID: 358,The Wiz,"""Double wiz shot!""",Quality: 1,"Isaac wears a dunce hat and fires 2 tears at once diagonally, similar to the R U A WIZARD pill tear pattern",Type: Passive,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 359,8 Inch Nails,"""Stick it to 'em!""",Quality: 3,+1.5 Damage Up,"Type: Passive, Tear Modifier","Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 360,Incubus,"""Dark friend""",Quality: 4,"Gives you a familiar demon incubus that follows you and shoots tears that scale with your own tears in terms of damage, stats and also effects","Type: Passive, Familiar","Item Pool: Devil Room, Greed Mode Devil Room"
+ItemID: 361,Fate's Reward,"""Your fate beside you""",Quality: 2,A familiar blue head that will follow Isaac and fire tears copying his tear damage and effects,"Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 362,Lil Chest,"""What's in the box?""",Quality: 2,A familiar chest that follows Isaac and has a 25% chance to drop a pickup after clearing a room,"Type: Passive, Familiar","Item Pool: Item Room, Greed Mode Item Room, Beggar"
+ItemID: 363,Sworn Protector,"""Protective friend""",Quality: 3,An orbital angel which does 7 contact damage per tick and blocks shots,"Type: Passive, Familiar","Item Pool: Angel Room, Greed Mode Angel Room"
+ItemID: 364,Friend Zone,"""Friendly fly""",Quality: 1,A white orbiting fly which deals 3 contact damage per tick to enemies,"Type: Passive, Familiar","Item Pool: Item Room, Greed Mode Item Room, Key Beggar"
+ItemID: 365,Lost Fly,"""Lost protector""",Quality: 1,"A familiar fly that moves in a straight line and attaches itself to the first obstacle or wall it comes into contact with in each room.
+      ","Type: Passive, Familiar","Item Pool: Item Room, Greed Mode Item Room, Key Beggar"
+ItemID: 366,Scatter Bombs,"""We put bombs in your bombs!""",Quality: 1,+5 bombs,Type: Passive,"Item Pool: Item Room, Greed Mode Item Room, Bomb Beggar"
+ItemID: 367,Sticky Bombs,"""Egg sack bombs!""",Quality: 1,+5 Bombs,"Type: Passive, Bomb Modifier","Item Pool: Item Room, Greed Mode Item Room, Bomb Beggar, Bomb Beggar"
+ItemID: 368,Epiphora,"""Intensifying tears""",Quality: 1,Shooting in one direction increases your fire rate until a cap is reached,Type: Passive,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 369,Continuum,"""Transcendent tears""",Quality: 2,+3 Range Up,Type: Passive,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 370,Mr. Dolly,"""Range + tears up""",Quality: 3,+0.7 Tears Up,Type: Passive,"Item Pool: Boss Room, Gold/Stone Chest"
+ItemID: 371,Curse of The Tower,"""You feel cursed...""",Quality: 1,"Causes Isaac to spawn 6 troll bombs on the floor every time he gets hit, similar to the Anarchist Cookbook mechanic",Type: Passive,"Item Pool: Item Room, Red Chest, Curse Room, Greed Mode Item Room"
+ItemID: 372,Charged Baby,"""Bbbzzzzzt!""",Quality: 3,A familiar baby that has a random chance to drop a battery pickup or freeze all enemies in the room for a short while,"Type: Passive, Familiar","Item Pool: Shop, Greed Mode Shop"
+ItemID: 373,Dead Eye,"""Accuracy brings power!""",Quality: 3,Gives Isaac a +25% damage up for every tear that successfully hits an enemy,Type: Passive,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 374,Holy Light!,"""Holy shot!""",Quality: 3,"Isaac has a random chance to fire a Holy tear, which when it hits an enemy, will spawn a light beam on the same enemy, dealing damage",Type: Passive,"Item Pool: Item Room, Greed Mode Item Room, Angel Room"
+ItemID: 375,Host Hat,"""Nice hat!""",Quality: 3,A familiar host that sits on Isaac's head and has a 20% chance to block enemy shots,Type: Passive,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 376,Restock,"""Never ending stores!""",Quality: 2,Causes your shops to instantly restock their items when you buy them,Type: Passive,"Item Pool: Shop, Beggar"
+ItemID: 377,Bursting Sack,"""Spider love""",Quality: 1,Most spider enemies no longer target or deal contact damage to Isaac,Type: Passive,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 378,No. 2,"""Uh oh...""",Quality: 2,Continuously firing or charging tears for 3 seconds causes Isaac to fart and drop a Butt Bomb,Type: Passive,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 379,Pupula Duplex,"""Wide shot""",Quality: 2,Transforms Isaac's tears into a wide arc shape which doubles their size and hitbox,Type: Passive,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 380,Pay To Play,"""Money talks""",Quality: 2,+5 coins,Type: Passive,"Item Pool: Shop, Greed Mode Item Room, Greed Mode Shop"
+ItemID: 381,Eden's Blessing,"""Your future shines brighter""",Quality: 3,+0.7 Tears Up,Type: Passive,Item Pool: Item Room
+ItemID: 382,Friendly Ball,"""Gotta fetch 'em all!""",Quality: 2,"When used, can be thrown at enemies to capture them (similar to a Poké Ball)",Type: Active,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 383,Tear Detonator,"""Remote tear detonation""",Quality: 1,"When used, will detonate any tears currently on the screen and cause each one to split into 6 more tears which will fire in a circle, similar to Tammy's Head",Type: Active,"Item Pool: Shop, Greed Mode Item Room"
+ItemID: 384,Lil Gurdy,"""A gurd of your own!""",Quality: 2,Gives Isaac a familiar Gurdy that will charge around the room dealing contact damage to enemies,"Type: Passive, Familiar","Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 385,Bumbo,"""Bumbo want coin!""",Quality: 1,A beggar head which floats around the room and picks up any nearby coins. Every 6 coins Bumbo will evolve to a new form except for level 4 which takes 12 coins,"Type: Passive, Familiar","Item Pool: Item Room, Beggar"
+ItemID: 386,D12,"""Rerolls rocks""",Quality: 0,"When used, the D12 re-rolls any rocks into another random type of object (e.g. poop, pots, TNT, red poop, stone blocks etc.)",Type: Active,"Item Pool: Item Room, Greed Mode Shop"
+ItemID: 387,Censer,"""Peace be with you""",Quality: 3,Gives Isaac a familiar golden Censer which creates a huge aura of light that slows down any enemies inside it,"Type: Passive, Familiar","Item Pool: Angel Room, Greed Mode Angel Room"
+ItemID: 388,Key Bum,"""He wants your keys!""",Quality: 0,"A familiar beggar similar to Bum Friend that follows Isaac and collects keys, giving random chests in return","Type: Passive, Familiar","Item Pool: Item Room, Secret Room, Key Beggar"
+ItemID: 389,Rune Bag,"""Rune generator""",Quality: 3,A bag that follows Isaac and drops a random Rune or Soul Stone every 7 or 8 rooms,"Type: Passive, Familiar","Item Pool: Item Room, Secret Room"
+ItemID: 390,Seraphim,"""Sworn friend""",Quality: 3,A familiar angel which follows Isaac and fires Sacred Heart tears which deal 10 damage at -25% shot speed and a reduced fire rate,"Type: Passive, Familiar","Item Pool: Item Room, Angel Room, Greed Mode Angel Room"
+ItemID: 391,Betrayal,"""Turn your enemy""",Quality: 0,"Every time Isaac takes damage, a charm effect is applied to every enemy in the room, causing them to attack each other rather than Isaac",Type: Passive,"Item Pool: Item Room, Greed Mode Item Room, Devil Room, Greed Mode Devil Room"
+ItemID: 392,Zodiac,"""The heavens will change you""",Quality: 1,Zodiac will give you a random zodiac item effect that changes after every floor,Type: Passive,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 393,Serpent's Kiss,"""The kiss of death""",Quality: 2,"Tears now have a random chance to apply a poison effect, dealing damage equal to your tears each tick, for 2 ticks",Type: Passive,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 394,Marked,"""Directed tears""",Quality: 1,Isaac will now fire tears automatically directed at a red target on the ground which is controlled by the player,Type: Passive,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 395,Tech X,"""Laser ring tears""",Quality: 4,Tears are replaced with the ability to charge and fire a laser ring that travels across the room,"Type: Passive, Tear modifier","Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 396,Ventricle Razor,"""Short cutter""",Quality: 1,"Allows you to create one brown tunnel and one blue tunnel in the floor, that can be used to teleport between wherever you placed each one",Type: Active,Item Pool: Shop
+ItemID: 397,Tractor Beam,"""Controlled tears""",Quality: 3,"Isaac's tears now travel directly forwards following a beam of light, but will also move sideways based on your player movement","Type: Passive, Tear Modifier","Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 398,God's Flesh,"""Shrink shot!""",Quality: 1,"Tears now have a random chance to apply a shrinking effect, causing enemies to shrink in size for 5 seconds and also run away from Isaac",Type: Passive,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 399,Maw of The Void,"""Consume thy enemy!""",Quality: 4,"After firing tears for 3 seconds, a red cross appears on Isaac's head that, upon releasing the fire button, creates a black ring which deals a lot of damage to any enemies inside it",Type: Passive,"Item Pool: Devil Room, Greed Mode Devil Room"
+ItemID: 400,Spear of Destiny,"""Your destiny""",Quality: 1,"In addition to tears, Isaac now holds a spear infront of him which deals damage equal to 2 times your tear damage",Type: Passive,"Item Pool: Angel Room, Greed Mode Angel Room"
+ItemID: 401,Explosivo,"""Sticky bomb shot!""",Quality: 2,"Tears now have a random chance to become sticky bombs, which will attach to enemies and explode after a few seconds",Type: Passive,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 402,Chaos,"""!!!""",Quality: 3,"When picked up, drops between 1-6 random pickups on the floor",Type: Passive,"Item Pool: Shop, Secret Room"
+ItemID: 403,Spider Mod,"""Mod buddy!""",Quality: 1,A familiar grey spider that wanders around and allows you to see your tear damage and the health bars of all enemies,Type: Passive,"Item Pool: Shop, Greed Mode Shop"
+ItemID: 404,Farting Baby,"""He farts!""",Quality: 1,A familiar that follows Isaac and blocks tears,"Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 405,GB Bug,"""Game breaking bug, right away!""",Quality: 1,<None></None>,Type: Passive,"Item Pool: Item Room, Secret Room, Greed Mode Shop"
+ItemID: 406,D8,"""Reroll stats""",Quality: 2,"When used, the D8 rerolls all of your stats",Type: Active,"Item Pool: Item Room, Greed Mode Shop"
+ItemID: 407,Purity,"""Aura stat boost""",Quality: 2,Purity will boost one of Isaac's stats depending on the colour of the aura around him,Type: Passive,"Item Pool: Item Room, Greed Mode Item Room, Greed Mode Angel Room"
+ItemID: 408,Athame,"""Call to the void""",Quality: 1,"Now when you take damage, a black ring will appear around Isaac that damages any enemies in contact with it",Type: Passive,"Item Pool: Devil Room, Curse Room, Greed Mode Devil Room"
+ItemID: 409,Empty Vessel,"""I reward an empty vessel""",Quality: 2,+2 Black Hearts,Type: Passive,"Item Pool: Devil Room, Demon Beggar"
+ItemID: 410,Evil Eye,"""Eye shot!""",Quality: 2,"While firing tears this item gives you a chance to fire an eye across the screen with a very slow shot speed, which will fire tears of its own in the same direction as Isaac",Type: Passive,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 411,Lusty Blood,"""Their blood brings rage!""",Quality: 3,"Each time Isaac kills an enemy, you get a temporary +0.5 damage up which lasts for the current room",Type: Passive,"Item Pool: Item Room, Devil Room, Greed Mode Item Room"
+ItemID: 412,Cambion Conception,"""Feed them hate""",Quality: 2,After taking enough damage you will gain a permanent demon familiar,Type: Passive,"Item Pool: Devil Room, Greed Mode Devil Room"
+ItemID: 413,Immaculate Conception,"""Feed them love""",Quality: 1,"After picking up 15 hearts, Isaac gains a permanent angelic familiar and a soul heart drops",Type: Passive,"Item Pool: Angel Room, Greed Mode Angel Room"
+ItemID: 414,More Options,"""There are even more options!""",Quality: 3,"Two items now spawn in each of your item rooms, however only one can be taken and the other will disappear",Type: Passive,Item Pool: Shop
+ItemID: 415,Crown of Light,"""The untainted gain power""",Quality: 4,+2 Soul Hearts,Type: Passive,"Item Pool: Angel Room, Greed Mode Angel Room"
+ItemID: 416,Deep Pockets,"""More stuff to carry!""",Quality: 2,Increases your money cap to 999,Type: Passive,"Item Pool: Shop, Greed Mode Item Room, Greed Mode Shop"
+ItemID: 417,Succubus,"""Damage booster""",Quality: 3,"A flying familiar that bounces around the room with a damaging aura, dealing rapid damage to any enemies inside it and boosting Isaac's tear damage","Type: Passive, Familiar","Item Pool: Devil Room, Demon Beggar"
+ItemID: 418,Fruit Cake,"""Rainbow effects!""",Quality: 2,Gives you a different tear effect with every tear that you fire,"Type: Passive, Tear Modifier",Item Pool: Item Room
+ItemID: 419,Teleport 2.0,"""I-teleport!""",Quality: 3,When used will teleport you to another random room that has not been explored yet,Type: Active,Item Pool: Item Room
+ItemID: 420,Black Powder,"""Spin the black circle!""",Quality: 1,"Walking in a circle will spawn a pentagram symbol on the floor, which deals 10 damage per tick to any enemies inside it",Type: Passive,"Item Pool: Devil Room, Demon Beggar"
+ItemID: 421,Kidney Bean,"""Love toots!""",Quality: 1,"When used, applies the charm effect to any enemies in close range and deals 5 damage",Type: Active,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 422,Glowing Hour Glass,"""Turn back time""",Quality: 3,"When used, this item will rewind time and put you back in the previous room, in the same state you were in at that moment",Type: Active,"Item Pool: Item Room, Shop"
+ItemID: 423,Circle of Protection,"""Protect me from myself""",Quality: 2,"Gives Isaac a large white halo around him, that deals a bit of damage to any enemies in contact with the ring",Type: Passive,"Item Pool: Angel Room, Greed Mode Angel Room"
+ItemID: 424,Sack Head,"""More sacks!""",Quality: 3,"Coins have a 10% chance to be replaced with Sack. Bombs, keys, cards, runes and batteries have a 20% chance",Type: Passive,"Item Pool: Shop, Secret Room"
+ItemID: 425,Night Light,"""Scared of the dark?""",Quality: 2,Gives Isaac a cone of light infront of him that slows any enemies inside it and their tears,Type: Passive,"Item Pool: Shop, Greed Mode Item Room"
+ItemID: 426,Obsessed Fan,"""Follows my every move...""""",Quality: 0,A purple familiar fly that follows your exact movement on a 1 second delay and deals 2 contact damage to enemies,"Type: Passive, Familiar","Item Pool: Item Room, Key Beggar"
+ItemID: 427,Mine Crafter,"""Booom!""",Quality: 1,"When used, places an explosive TNT barrel next to you",Type: Active,Item Pool: Item Room
+ItemID: 428,PJs,"""You feel cozy""",Quality: 2,+4 Soul Hearts,Type: Passive,"Item Pool: Boss Room, Gold/Stone Chest"
+ItemID: 429,Head of the Keeper,"""Penny tears!""",Quality: 2,Isaac's tears become coins and now have a 5% chance to drop pennies on the floor upon successfully hitting an enemy,Type: Passive,Item Pool: Dead shopkeeper
+ItemID: 430,Papa Fly,"""Turret follower""",Quality: 1,A familiar blue fly that will follow Isaac's movement pattern but delayed by 1 second,"Type: Passive, Familiar","Item Pool: Item Room, Key Beggar"
+ItemID: 431,Multidimensional Baby,"""ydduB Buddy""",Quality: 2,A familiar baby that will follow your movement pattern on a 2 second delay,"Type: Passive, Familiar","Item Pool: Item Room, Greed Mode Item Room, Devil Room, Greed Mode Devil Room"
+ItemID: 432,Glitter Bombs,"""Prize bombs!""",Quality: 2,+5 bombs,"Type: Passive, Bomb Modifier","Item Pool: Item Room, Bomb Beggar"
+ItemID: 433,My Shadow,"""Me! And my shaaaadow!""",Quality: 0,"Each time you take damage, My Shadow will apply a fear effect to all enemies in the room and spawn a familiar black charger that will attack for you",Type: Passive,"Item Pool: Devil Room, Greed Mode Devil Room"
+ItemID: 434,Jar of Flies,"""Gotta catch 'em all?""",Quality: 2,"Every time you kill an enemy a fly will be added to the Jar, allowing you to stack up to 20",Type: Active,"Item Pool: Shop, Greed Mode Item Room, Greed Mode Shop"
+ItemID: 435,Lil Loki,"""4-way buddy!""",Quality: 1,"A Loki familiar that follows Isaac and shoots tears 4 tears in a cross pattern, dealing a flat 3.5 damage each",Type: Passive,Item Pool: Item Room
+ItemID: 436,Milk!,"""Dont cry over it...""",Quality: 1,Gives Isaac a familiar glass of milk that follows him and spills on the floor upon taking damage,"Type: Passive, Familiar","Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 437,D7,"""Reroll rewards!""",Quality: 1,"When used, the D7 will restart the current room and bring back all enemies once again, enabling you to farm rewards that spawn at the end after beating the room",Type: Active,Item Pool: Item Room
+ItemID: 438,Binky,"""Memories...""",Quality: 3,+1 Soul heart,Type: Passive,"Item Pool: Boss Room, Gold/Stone Chest"
+ItemID: 439,Mom's Box,"""What's inside?""",Quality: 3,"When used, Mom's Box will drop a random trinket on the ground",Type: Active,"Item Pool: Shop, Greed Mode Shop"
+ItemID: 440,Kidney Stone,"""Matt's kidney stone""",Quality: 2,"Randomly while firing tears, Isaac will stop firing and turn red, where he will charge and release a lot of 'tears' in one go. In the burst of tears is a kidney stone which deals a lot of damage",Type: Passive,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 441,Mega Blast,"""Laser breath""",Quality: 4,"Upon use, fires a huge Mega Satan laser for 15 seconds, dealing your tear damage * 5 per tick to anything in its path and pushing Isaac back by the force",Type: Active,"Item Pool: Devil Room, Greed Mode Devil Room"
+ItemID: 442,Dark Prince's Crown,"""Loss is power""",Quality: 1,"A crown appears above your head and while at exactly 1 full red heart of health, you gain a +1.5 Range Up, +2.0 Tears Up and +0.20 Shot Speed Up",Type: Passive,"Item Pool: Devil Room, Curse Room"
+ItemID: 443,Apple!,"""Trick or treat?""",Quality: 3,Gives you a 6.66% chance to fire a razor blade which deals x4 damage,Type: Passive,Item Pool: Item Room
+ItemID: 444,Lead Pencil,"""Hes a bleeder!""",Quality: 3,"With every 15 tears fired, Isaac will fire a cluster of 12 tears instead of your normal tear",Type: Passive,"Item Pool: Item Room, Gold/Stone Chest"
+ItemID: 445,Dog Tooth,"""Bark at the moon!""",Quality: 1,+0.3 Damage Up,Type: Passive,Item Pool: Item Room
+ItemID: 446,Dead Tooth,"""Halitosis""",Quality: 1,"While firing, you gain a green aura that poisons any enemies which touch it. The poison deals your tear damage per tick, for 2 ticks",Type: Passive,Item Pool: Item Room
+ItemID: 447,Linger Bean,"""Crying makes me toot""",Quality: 0,"While firing tears constantly for 7.5 seconds, you spawn a poop cloud, which deals periodic damage to any enemies which come near it",Type: Passive,"Item Pool: Item Room, Beggar"
+ItemID: 448,Shard of Glass,"""Blood and guts!""",Quality: 1,"Upon taking damage, Isaac starts to bleed, leaving a trail of blood and spraying blood tears everywhere which deal damage to nearby enemies",Type: Passive,Item Pool: Item Room
+ItemID: 449,Metal Plate,"""It itches...""",Quality: 1,+1 Soul Heart,Type: Passive,Item Pool: Item Room
+ItemID: 450,Eye of Greed,"""Gold tears!""",Quality: 2,Every 20th tear fired will also fire a golden coin tear at the same time. This tear turns enemies to gold for a few seconds and causes them to drop 1-4 coins if killed while golden (similar to the Midas' Touch item),Type: Passive,Item Pool: Secret Room
+ItemID: 451,Tarot Cloth,"""I see the future""",Quality: 3,Drops a random card on pickup,Type: Passive,"Item Pool: Shop, Curse Room"
+ItemID: 452,Varicose Veins,"""I'm leaking...""",Quality: 2,"Every time you take damage, 10 high damage tears are fired in a circle around you (similar to the Tammy's Head effect)",Type: Passive,Item Pool: Item Room
+ItemID: 453,Compound Fracture,"""Bone tears!""",Quality: 2,"Turns your tears into bones, which shatter into 1-3 smaller bone shards upon hitting any object or enemy",Type: Passive,Item Pool: Item Room
+ItemID: 454,Polydactyly,"""Hold me!""",Quality: 2,"Allows Isaac to carry two cards, runes or pills (or any combination of these) at the same time",Type: Passive,Item Pool: Item Room
+ItemID: 455,Dad's Lost Coin,"""I remember this...""",Quality: 2,+0.38 Range Up,Type: Passive,"Item Pool: Boss Room, Beggar, Gold/Stone Chest"
+ItemID: 456,Midnight Snack,"""HP up""",Quality: 1,+1 HP Up,Type: Passive,"Item Pool: Boss Room, Beggar, Gold/Stone Chest"
+ItemID: 457,Cone Head,"""Hard headed!""",Quality: 2,+1 Soul Heart,Type: Passive,Item Pool: Item Room
+ItemID: 458,Belly Button,"""Whats in there?""",Quality: 3,Drops one random trinket on pickup,Type: Passive,Item Pool: Item Room
+ItemID: 459,Sinus Infection,"""Booger tears!""",Quality: 3,"Isaac's tears have a random chance to be a booger instead, which stick on to enemies and deal periodic poison damage until they die",Type: Passive,Item Pool: Item Room
+ItemID: 460,Glaucoma,"""Blind tears!""",Quality: 2,"Adds a chance to shoot a concussive tear, which will cause enemies to walk around dazed in confusion",Type: Passive,Item Pool: Item Room
+ItemID: 461,Parasitoid,"""Egg tears!""",Quality: 3,"This item gives you a chance that instead of firing tears you will fire an egg sack, which slows enemies on hit and drops a pool of white slowing creep below them",Type: Passive,Item Pool: Item Room
+ItemID: 462,Eye of Belial,"""Possessed tears!""",Quality: 3,"Causes your tears to become piercing, allowing them to travel through enemies",Type: Passive,Item Pool: Devil Room
+ItemID: 463,Sulfuric Acid,"""Acid tears!""",Quality: 2,+0.3 Damage Up,Type: Passive,Item Pool: Item Room
+ItemID: 464,Glyph of Balance,"""A gift from above""",Quality: 2,+2 Soul Hearts,Type: Passive,Item Pool: Angel Room
+ItemID: 465,Analog Stick,"""360 tears!""",Quality: 2,+0.35 Tears Up,Type: Passive,Item Pool: Item Room
+ItemID: 466,Contagion,"""Outbreak!""",Quality: 2,"The first enemy you kill in each new room will now explode and poison all nearby enemies, causing them to take periodic damage until they also die and explode",Type: Passive,Item Pool: Item Room
+ItemID: 467,Finger!,"""Watch where you point that!""",Quality: 1,Gives Isaac a finger which floats infront of him and points in the same direction he is facing or firing. The finger deals 10% of your normal damage to all enemies in the same direction that the finger is pointing,"Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 468,Shade,"""It follows""",Quality: 0,Isaac gains a shadow familiar that will follow Isaac's movement pattern delayed by 1 second and deal 2 contact damage to enemies per tick,"Type: Passive, Familiar","Item Pool: Devil Room, Curse Room"
+ItemID: 469,Depression,""":(""",Quality: 1,Isaac gains a cloud familiar that follows him and leaves a trail of tears on the floor which damages enemies for 2 damage per tick,"Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 470,Hushy,"""Lil hush!""",Quality: 0,Gives Isaac a small Hush familiar that bounces diagonally around the room dealing 2 contact damage per tick,"Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 471,Lil Monstro,"""Ain't he cute?""",Quality: 2,"Gives Isaac a small Monstro familar, who's tears can be charged and released in a shotgun style effect, much like Monstro's main attack","Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 472,King Baby,"""Lord of the dead!""",Quality: 1,"A baby familiar that follows you and causes other familiars to follow it. It stops moving while Isaac is firing tears and upon releasing the fire button, King Baby will teleport back to your location","Type: Passive, Familiar",Item Pool: Shop
+ItemID: 473,Big Chubby,"""Chub chub""",Quality: 1,"A familiar that follows Isaac and charges forwards very slowly, dealing 2.7 damage per tick to any enemies it comes into contact with","Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 475,Plan C,"""Use with caution""",Quality: 0,"Upon use, this item deals 9,999,999 damage to all enemies in the room and then kills you 3 seconds later",Type: Active,"Item Pool: Shop, Devil Room, Curse Room, Red Chest, Demon Beggar"
+ItemID: 476,D1,"""What will it be?""",Quality: 3,"When used, the D1 duplicates 1 random pickup in the current room. This works with all normal pickups, including cards, runes, chests and trinkets. Duplicated items might not be identical copies of the original - for example duplicating a card may spawn a different card",Type: Active,Item Pool: Item Room
+ItemID: 477,Void,"""Consume""",Quality: 4,"When used, Void will consume any pedestal items in the current room",Type: Active,"Item Pool: Devil Room, Angel Room"
+ItemID: 478,Pause,"""Stop!""",Quality: 1,"Upon use, this item freezes all enemies in the room until you press the fire button again or 30 seconds passes (whichever happens first)",Type: Active,Item Pool: Item Room
+ItemID: 479,Smelter,"""Trinket melter!""",Quality: 3,"Upon use, the Smelter will destroy your currently held trinket and give you the effect permanently, allowing you to stack up lots of different trinket effects",Type: Active,Item Pool: Shop
+ItemID: 480,Compost,"""Gain more friends!""",Quality: 2,"When used, Compost doubles up the current number of blue flies and spiders you have",Type: Active,Item Pool: Shop
+ItemID: 481,Dataminer,"""109""",Quality: 0,"When used, this item will distort all the sprites and music, rotating graphics 90 degrees and translating them diagonally up/left, while leaving the hitbox in the same place. This can make it confusing while navigating the room",Type: Active,Item Pool: Item Room
+ItemID: 482,Clicker,"""Change""",Quality: 0,"When used, this item will randomly change you into another character and remove the last item you picked up",Type: Active,Item Pool: Item Room
+ItemID: 483,MaMa Mega!,"""BOOOOOOOOOM!""",Quality: 3,"A one time use item that when used will explode all objects (i.e. rocks, poop) in the room and deal 200 damage to all enemies in the current room, as well as every other room for the remainder of the floor",Type: Active,"Item Pool: Shop, Bomb Beggar"
+ItemID: 484,Wait What?,"""I can't believe it's not butter bean!""",Quality: 1,"Upon use, this item will fart, pushing enemies away and causing a wave of rocks to spawn that spread outwards from Isaac in a circle, dealing 10 damage per hit to any enemies caught in it",Type: Active,Item Pool: Item Room
+ItemID: 485,Crooked Penny,"""50/50""",Quality: 1,"When used, you have a 50% chance to double all items, consumables and chests in the current room",Type: Active,"Item Pool: Item Room, Shop, Beggar"
+ItemID: 486,Dull Razor,"""I feel numb...""",Quality: 1,"Upon use this item hurts Isaac without actually taking health away, allowing you to activate any items which trigger when taking damage without losing health",Type: Active,Item Pool: Shop
+ItemID: 487,Potato Peeler,"""A pound of flesh...""",Quality: 2,"When used, this item permanently removes one of your red heart containers and gives you a flat +0.2 Damage Up, the Anemic effect (+1.5 Range Up + red creep trail) and a Cube of Meat",Type: Active,"Item Pool: Shop, Demon Beggar"
+ItemID: 488,Metronome,"""Waggles a finger""",Quality: 1,"When used, this item gives you the effect of a random item for the rest of the room",Type: Active,Item Pool: Item Room
+ItemID: 489,D Infinity,"""Reroll forever""",Quality: 4,This dice allows you to press the Drop key to cycle between all possible dice effects and pick one to use,Type: Active,Item Pool: Secret Room
+ItemID: 490,Eden's Soul,"""...""",Quality: 3,"A one time use active item that when used, will spawn 2 random item pedestals from the item pool associated with the current room (e.g. in an Angel room, this will spawn 2 Angel room items)",Type: Active,Item Pool: Angel Room
+ItemID: 491,Acid Baby,"""Pills pills pills!""",Quality: 2,Every 6-7 rooms Acid Baby will drop a random pill,"Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 492,YO LISTEN!,"""Yo listen!""",Quality: 2,+1 Luck Up,"Type: Passive, Familiar","Item Pool: Item Room, Key Beggar"
+ItemID: 493,Adrenaline,"""Panic - power""",Quality: 1,"For every empty red heart container, Isaac gains Damage Up and his body increases in size",Type: Passive,"Item Pool: Item Room, Demon Beggar"
+ItemID: 494,Jacob's Ladder,"""Electric tears""",Quality: 3,"Isaac gains electric tears, which fire 1-2 sparks of electricty in random directions upon hitting any object or enemy",Type: Passive,Item Pool: Item Room
+ItemID: 495,Ghost Pepper,"""Flame tears""",Quality: 3,"Each tear now has a small chance to be a spectral blue flame instead, which deals damage to enemies that come in contact with it",Type: Passive,Item Pool: Item Room
+ItemID: 496,Euthanasia,"""Needle shot""",Quality: 3,"Each tear now has a small chance (3.33%) to be a needle instead, which deals 3 times your tear damage",Type: Passive,"Item Pool: Item Room, Curse Room, Demon Beggar"
+ItemID: 497,Camo Undies,"""Camo kid""",Quality: 0,"Upon entering a new room, Isaac will become camouflaged and enemies won't attack until you start firing tears",Type: Passive,Item Pool: Item Room
+ItemID: 498,Duality,"""You feel very balanced""",Quality: 1,"Any time a devil or angel room door opens after a boss, the other one will also spawn",Type: Passive,"Item Pool: Devil Room, Angel Room"
+ItemID: 499,Eucharist,"""Peace be with you""",Quality: 3,Gives you a 100% chance to find an Angel Room on every valid floor after defeating the boss,Type: Passive,Item Pool: Angel Room
+ItemID: 500,Sack of Sacks,"""Gives Sacks!""",Quality: 3,A sack familiar that drops a sack every 5 or 6 rooms cleared (alternates between 5 and 6),"Type: Passive, Familiar",Item Pool: Secret Room
+ItemID: 501,Greed's Gullet,"""Money = Health!""",Quality: 1,"Gives you an extra heart container for every 25 coins you are currently holding, up to a maximum of 4 extra HP at 99 coins held",Type: Passive,Item Pool: Secret Room
+ItemID: 502,Large Zit,"""Creep shots""",Quality: 1,"Gives you a random chance while firing tears to also fire a creep shot, which deals double your tear damage and places white creep on the floor infront of you that slows enemies down if they walk through it",Type: Passive,Item Pool: Item Room
+ItemID: 503,Little Horn,"""Science!""",Quality: 3,"While firing tears you have a 5% chance to fire a void tear, that will instantly kill any non-boss enemy it comes into contact with",Type: Passive,"Item Pool: Curse Room, Demon Beggar"
+ItemID: 504,Brown Nugget,"""Friendly Fly""",Quality: 0,"When used, will spawn a fly turret that doesn't move and fires tears at nearby enemies",Type: Active,Item Pool: Item Room
+ItemID: 505,Poke Go,"""Gotta catch em...""",Quality: 1,"At the start of each new hostile room, you have a 20% chance to gain a random charmed familiar which will fight for you",Type: Passive,Item Pool: Shop
+ItemID: 506,BackStabber,"""Watch your back!""",Quality: 1,"Every time one of your tears hits an enemy, it has a chance to start bleeding, which will cause it to take damage equal to 10% of its maximum health every 5 seconds",Type: Passive,Item Pool: Item Room
+ItemID: 507,Sharp Straw,"""More blood!""",Quality: 2,"When used, Sharp Straw will deal damage to all enemies in the room",Type: Active,Item Pool: Item Room
+ItemID: 508,Mom's Razor,"""It's sharp!""",Quality: 0,"A razor blade orbital that deals contact damage and applies the bleeding status effect to enemies, which will cause them to take damage equal to 10% of their total health every 5 seconds","Type: Passive, Familiar","Item Pool: Item Room, Curse Room"
+ItemID: 509,Bloodshot Eye,"""Bloody friend""",Quality: 1,An eye orbital that shoots tears that deal 3.5 damage and deals 2 contact damage per tick to enemies,"Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 510,Delirious,"""Unleash the power!""",Quality: 1,"When used, spawns a charmed random white delirium version of a boss, that will fight for you and kill other enemies for the rest of the current room",Type: Active,Item Pool: Angel Room
+ItemID: 511,Angry Fly,"""He's violent""",Quality: 1,"A familiar fly that orbits around a random enemy in the room until that enemy dies, dealing 2 contact damage to other enemies","Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 512,Black Hole,"""Nothing can escape""",Quality: 1,"A throwable active item that places a black hole on the ground where it lands, sucking all enemies into it for 6 seconds",Type: Active,Item Pool: Item Room
+ItemID: 513,Bozo,"""Party time!""",Quality: 2,+0.1 Damage Up,Type: Passive,Item Pool: Item Room
+ItemID: 514,Broken Modem,"""LAG!""",Quality: 2,"Causes random enemies to 'lag' at random intervals, causing them to freeze in place for a second",Type: Passive,Item Pool: Shop
+ItemID: 515,Mystery Gift,"""Wrapped up nice for you!""",Quality: 3,"A one-time use item that spawns a random item from the current room's item pool, with a chance for it to spawn Lump of Coal or The Poop instead
+      ",Type: Active,Item Pool: Shop
+ItemID: 516,Sprinkler,"""Sprinkles.""",Quality: 2,"When used, spawns a Sprinkler that rotates in a circle, spraying tears in all directions",Type: Active,Item Pool: Item Room
+ItemID: 517,Fast Bombs,"""Faster Bomb Drops!""",Quality: 1,+7 Bombs,Type: Passive,Item Pool: Item Room
+ItemID: 518,Buddy in a Box,"""What could it be?!""",Quality: 2,"When picked up, gives Isaac a random familiar which has a random sprite and tear effect","Type: Passive, Familiar",Item Pool: Shop
+ItemID: 519,Lil Delirium,"""He's Delirious""",Quality: 2,"A familiar that will transform into another random familiar every 10 seconds, copying their behaviour and effect","Type: Passive, Familiar","Item Pool: Angel Room, Devil Room"
+ItemID: 520,Jumper Cables,"""Bloody recharge!""",Quality: 3,This item gives you 1 bar of charge on your active item for every 15 enemies you kill,Type: Passive,"Item Pool: Greed Mode Item Room, Shop"
+ItemID: 521,Coupon,"""Allow 6 weeks for delivery""",Quality: 2,"When used, the coupon causes one random item in the shop to become free",Type: Active,"Item Pool: Item room, Shop, Beggar"
+ItemID: 522,Telekinesis,"""The power of mind!""",Quality: 1,An active that causes all enemy tears to be held in place and then thrown back away from Isaac for a period of 3 seconds,Type: Active,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 523,Moving Box,"""Pack and unpack""",Quality: 1,"When used, the box will pick up a maximum of 6 items. Using the box again will put the picked up items back on the floor again, allowing you to move things between rooms",Type: Active,Item Pool: Shop
+ItemID: 524,Technology Zero,"""Static tears!""",Quality: 3,Your tears will now be connected together by beams of electricity which deals damage to enemies they hit,Type: Passive,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 525,Leprosy,"""You're tearing me apart!""",Quality: 1,"Taking damage will spawn an orbital that rotates around Isaac, dealing contact damage to enemies and blocking enemy projectiles",Type: Passive,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 526,7 Seals,"""Lil Harbingers!""",Quality: 2,Gives you a random Harbinger familiar that changes every 10 seconds,Type: Passive,"Item Pool: Devil Room, Angel Room"
+ItemID: 527,Mr. ME!,"""Caaan Do!""",Quality: 3,"Upon use, this item summons a ghost near Isaac that will follow him around. Also summons a blue crosshair which can be moved around freely. After a few seconds, the crosshair will disappear, and the Ghost will do certain things based on what you targeted:",Type: Active,"Item Pool: Shop, Key Beggar"
+ItemID: 528,Angelic Prism,"""Eclipsed by the moon""",Quality: 3,Grants a prism orbital with a large orbital radius,"Type: Passive, Orbital",Item Pool: Angel Room
+ItemID: 529,Pop!,"""Eyeball tears!""",Quality: 2,Replaces Isaac's tears with eyeballs that can bounce off of each other,Type: Passive,Item Pool: Item Room
+ItemID: 530,Death's List,"""Just hope you're not next""",Quality: 2,"Upon entering a room, a skull appears over a random enemy's head",Type: Passive,Item Pool: Devil Room
+ItemID: 531,Haemolacria,"""I'm seeing red...""",Quality: 3,"With Haemolacria, Isaac's tears become bloody and now fire by in the air in an arc",Type: Passive,Item Pool: Item Room
+ItemID: 532,Lachryphagy,"""Feed them!""",Quality: 2,"Isaac's tears slow down over time while moving across the room, and upon stopping completely or hitting an object will burst into 8 smaller tears which fire in all directions",Type: Passive,Item Pool: Item Room
+ItemID: 533,Trisagion,"""Smite thy enemy""",Quality: 2,"Isaac's tears are replaced with piercing holy flashes of light, which travel across the room in a similar speed to regular tears",Type: Passive,Item Pool: Angel Room
+ItemID: 534,Schoolbag,"""Extra active item room""",Quality: 3,Gives you an extra active item slot,Type: Passive,"Item Pool: Shop, Gold/Stone Chest"
+ItemID: 535,Blanket,"""You feel safe""",Quality: 2,+1 Soul Heart,Type: Passive,Item Pool: Shop
+ItemID: 536,Sacrificial Altar,"""He demands a sacrifice""",Quality: 2,"When used, this item will sacrifice up to 2 of your familiars (chosen at random), and spawn a random Devil Room item for each familar sacrificed this way",Type: Active,"Item Pool: Devil Room, Curse Room"
+ItemID: 537,Lil Spewer,"""Puking buddy""",Quality: 1,"A familiar with a charged attack, that spawns a line of creep on the floor which damages enemies that walk over it",Type: Passive,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 538,Marbles,"""Choking hazard""",Quality: 2,Spawns 3 random trinkets when picked up,Type: Passive,Item Pool: Boss Room
+ItemID: 539,Mystery Egg,"""Sacrificial insemination""",Quality: 1,"A familiar which follows Isaac and, upon taking damage, will spawn a charmed enemy that will fight for you",Type: Passive,Item Pool: Item Room
+ItemID: 540,Flat Stone,"""Skipping tears""",Quality: 2,Flat Stone causes your tears to bounce across the room,Type: Passive,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 541,Marrow,"""HP up?""",Quality: 1,+1 Bone Heart,Type: Passive,Item Pool: Boss Room
+ItemID: 542,Slipped Rib,"""Projectile shield""",Quality: 2,"This item gives you an orbital, which will reflect projectiles back at enemies",Type: Passive,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 543,Hallowed Ground,"""Portable sanctuary""",Quality: 1,A familiar which follows Isaac and spawns a white poop when you take damage,Type: Passive,"Item Pool: Item Room, Angel Room"
+ItemID: 544,Pointy Rib,"""Stabbing time""",Quality: 2,"A familiar that can be aimed with the fire buttons similar to the Finger item, dealing contact damage to enemies equal to your tear damage",Type: Passive,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 545,Book of the Dead,"""Rise from the grave""",Quality: 3,"When used, this item will spawn a bone orbital or charmed Bony for each enemy killed in the current room",Type: Active,"Item Pool: Item Room, Library, Devil Room"
+ItemID: 546,Dad's Ring,"""Father's blessing""",Quality: 3,A passive item that puts a yellow ring around Isaac. Enemies are frozen in place while touching the yellow ring,Type: Passive,Item Pool: Secret Room
+ItemID: 547,Divorce Papers,"""Tears up + you feel empty""",Quality: 3,+1 Bone Heart,Type: Passive,Item Pool: Boss Room
+ItemID: 548,Jaw Bone,"""Fetch""",Quality: 1,A familiar that flies across the room every few seconds while firing and damages enemies (2x your tear damage),Type: Passive,"Item Pool: Item Room, Greed Mode item Room"
+ItemID: 549,Brittle Bones,"""Everything hurts""",Quality: 3,"When picked up, this item replaces all of your red heart containers with 6 Bone Hearts",Type: Passive,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 550,Broken Shovel (Top),"""It feels cursed""",Quality: 4,"Obtained by beating the Basement 1 boss within 1 minute, then bombing the large shadow that appears in the middle of the starting room",Type: Active, 
+ItemID: 551,Broken Shovel (Bottom),"""Lost but not forgotten""",Quality: 4,Drops after beating the Boss Rush while holding the other half of the Broken Shovel (see previous item for more details),Type: Passive, 
+ItemID: 552,Mom's Shovel (Top + Bottom Broken Shovel),"""Lost but not forgotten""",Quality: 4,"When used, spawns a trapdoor that leads to the next floor (has a 10% chance to be a crawl space instead)",Type: Active, 
+ItemID: 263,Clear Rune,"""Rune mimic""",Quality: 2,"When used, copies the effect of the Rune or Soul stone you are holding (like the Blank Card)",Type: Active,"Item Pool: Secret Room, Crane Game"
+ItemID: 553,Mucormycosis,"""Spore shot""",Quality: 3,Tears have a chance to fire a fungus tear that sticks to enemies. It grows rapidly in size then explodes into a gas cloud that damages nearby enemies,Type: Passive,Item Pool: Item Room
+ItemID: 554,2Spooky,"""4me""",Quality: 2,"Any enemies that come within close range of Isaac will become feared, which causes them to flee",Type: Passive,Item Pool: Devil Room
+ItemID: 555,Golden Razor,"""Pain from gain""",Quality: 2,+5 coins when picked up,Type: Active,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 556,Sulfur,"""Temporary demon form""",Quality: 2,"Upon use, grants use of Brimstone for the current room",Type: Active,Item Pool: Item Room
+ItemID: 557,Fortune Cookie,"""Reusable fortunes""",Quality: 2,"Upon use, displays a random fortune and has a chance to drop either a soul heart, a card (including dice shards), rune/soul stone or a trinket",Type: Active,Item Pool: Item Room
+ItemID: 558,Eye Sore,"""More eyes""",Quality: 2,"With each tear fired, you have a chance to fire 1-3 extra tears in random directions",Type: Passive,Item Pool: Item Room
+ItemID: 559,120 Volt,"""Zap!""",Quality: 2,"This item will fire electricity at nearby enemies, dealing roughly x0.75 of your tear damage rapidly",Type: Passive,Item Pool: Item Room
+ItemID: 560,It Hurts,"""No it doesn't...""",Quality: 1,"Taking damage causes Isaac to fire a circle of 10 tears around him, each dealing 10 damage",Type: Passive,Item Pool: Item Room
+ItemID: 561,Almond Milk,"""DMG down + tears up + you feel nutty""",Quality: 1,Greatly increases tears (x4 fire rate),"Type: Passive, Tear Modifier",Item Pool: Item Room
+ItemID: 562,Rock Bottom,"""It's only up from there""",Quality: 2,Prevents your stats from being reduced any more for the rest of the run,Type: Passive,Item Pool: Secret Room
+ItemID: 563,Nancy Bombs,"""Random blast +5 bombs""",Quality: 1,+5 Bombs,Type: Passive,Item Pool: Item Room
+ItemID: 564,A Bar of Soap,"""Tears + shot speed up""",Quality: 3,+0.5 Tears Up,Type: Passive,Item Pool: Boss Room
+ItemID: 565,Blood Puppy,"""What a cute little thing!""",Quality: 1,Spawns a red worm familiar that chases enemies nearby around the room and deals 2 contact damage per tick,"Type: Passive, Familiar","Item Pool: Item Room, Red Chest, Curse Room"
+ItemID: 566,Dream Catcher,"""Sweet dreams""",Quality: 2,"During the transition between floors, this item shows you a preview of the item that will spawn in the item room, and the boss that will appear",Type: Passive,Item Pool: Shop
+ItemID: 567,Paschal Candle,"""Keep the flame burning""",Quality: 3,"Gives +0.4 Tears Up for each room completed without taking damage, up to a maximum of +2.0 Tears Up",Type: Passive,Item Pool: Angel Room
+ItemID: 568,Divine Intervention,"""Double tap shield""",Quality: 2,Allows you to double-tap the shoot button to create a holy shield for 1 second that pushes enemies back and deals 10 damage to them if they touch it,Type: Passive,Item Pool: Angel Room
+ItemID: 569,Blood Oath,"""Bleed me dry""",Quality: 2,"At the beginning of each new floor, this item will stab Isaac and reduce your red health down as much as it can without killing you. In exchange it gives you +0.05 Speed Up and Damage Up for every half a heart this item removes",Type: Passive,"Item Pool: Devil Room, Curse Room"
+ItemID: 570,Playdough Cookie,"""Tasty rainbow""",Quality: 3,"Your individual tears each gain a random effect from either: Poison, Fear, Slow, Freeze, Charm, Burning, Homing, Bleeding, x2 Damage or Reduced damage","Type: Passive, Tear Modifier",Item Pool: Item Room
+ItemID: 571,Orphan Socks,"""Speed up + your feet feel stronger""",Quality: 2,+2 Soul Hearts,Type: Passive,Item Pool: Secret Room
+ItemID: 572,Eye of the Occult,"""DMG up + range up + controlled tears""",Quality: 3,Tears can be controlled mid-flight using the directional keys,Type: Passive,Item Pool: Devil Room
+ItemID: 573,Immaculate Heart,"""Halo of tears""",Quality: 3,"In addition to regular tears, Isaac will sometimes fire extra spectral tears that orbit around him",Type: Passive,Item Pool: Angel Room
+ItemID: 574,Monstrance,"""Purifying light""",Quality: 2,Isaac now emits a large light aura that damages nearby enemies 5 times per second while touching it,Type: Passive,Item Pool: Angel Room
+ItemID: 575,The Intruder,"""Invasive friend""",Quality: 3,"In addition to normal tears, Isaac now also fires a set of 4 quadshot tears with a slowing effect",Type: Passive,Item Pool: Item Room
+ItemID: 576,Dirty Mind,"""Filthy friends""",Quality: 2,"Each time you destroy a poop, this item will spawn 1-4 friendly Dip familiars that follow you, block shots and attack nearby enemies",Type: Passive,Item Pool: Item Room
+ItemID: 577,Damocles,"""A king's fortune... but at what cost?""",Quality: 2,"When used, places a sword directly above Isaac's head and while active, will spawn an extra item for every item pedestal spawned",Type: Active,Item Pool: Devil Room
+ItemID: 578,Free Lemonade,"""Party time!""",Quality: 1,"Upon use, spawns a giant puddle of lemonade that deals 8 damage per tick to any enemies which come in contact with it",Type: Active,Item Pool: Item Room
+ItemID: 579,Spirit Sword,"""Divine blade""",Quality: 3,Your tears are replaced with a sword which can be swung to deal damage (Damage * 3 + Base Damage),"Type: Passive, Tear Modifier",Item Pool: Angel Room
+ItemID: 580,Red Key,"""Explore the other side""",Quality: 3,"While held, a red outline of a door will appear on certain walls. Using the Red Key near it will spawn a red room",Type: Active,"Item Pool: Secret Room, Red Chest, Curse Room, Key Beggar, Mom's Chest"
+ItemID: 581,Psy Fly,"""Flamboyant protector""",Quality: 4,"Gives Isaac an orbital fly, that will rapidly charge around and deflect any incoming tears that would hit Isaac.","Type: Passive, Familiar","Item Pool: Item Room, Key Beggar"
+ItemID: 582,Wavy Cap,"""Tears up. A mind changing experience!""",Quality: 1,"Every time you use Wavy Cap, it gives +0.75 Tears Up and -0.03 Speed Down",Type: Active,Item Pool: Secret Room
+ItemID: 583,Rocket in a Jar,"""Rocket propulsion +5 bombs""",Quality: 2,+5 Bombs,Type: Passive,"Item Pool: Item Room, Bomb Beggar"
+ItemID: 584,Book of Virtues,"""Spiritual companionship""",Quality: 3,"Upon use, spawns a flame familiar that fires spectral tears and deals contact damage to enemies. After taking two hits, the fire will be extinguished",Type: Active/Passive Item,"Item Pool: Angel Room, Library"
+ItemID: 585,Alabaster Box,"""A sacred offering""",Quality: 2,A single use active item that will spawn 3 soul hearts and 2 items from the Angel Room pool,Type: Active,Item Pool: Shop
+ItemID: 586,The Stairway,"""Stairway to heaven""",Quality: 3,"Spawns a ladder in the starting room of all future floors, which leads to an Angel Room",Type: Passive,Item Pool: Angel Room
+ItemID: 588,Sol,"""Radiant victory""",Quality: 2,Permanently shows the location of the boss room on the map,Type: Passive,Item Pool: Planetarium
+ItemID: 589,Luna,"""More secrets""",Quality: 2,Adds one extra secret room and one extra super secret room to each floor,Type: Passive,Item Pool: Planetarium
+ItemID: 590,Mercurius,"""Speed up + you feel elusive""",Quality: 3,+0.40 Speed Up,Type: Passive,Item Pool: Planetarium
+ItemID: 591,Venus,"""HP up + you feel pretty""",Quality: 2,+1 HP Up,Type: Passive,Item Pool: Planetarium
+ItemID: 592,Terra,"""Born to rock""",Quality: 3,"This item causes your tears to become rocks, which have increased knockback and can break other rocks and objects. This includes key blocks and secret room doors","Type: Passive, Tear Modifier",Item Pool: Planetarium
+ItemID: 593,Mars,"""Double tap dash""",Quality: 2,"Allows Isaac to charge by double tapping the same direction, dealing damage to any enemies caught",Type: Passive,Item Pool: Planetarium
+ItemID: 594,Jupiter,"""You're a gas giant!""",Quality: 2,+2 HP Up (only half a heart is filled),Type: Passive,Item Pool: Planetarium
+ItemID: 595,Saturnus,"""Ring of tears""",Quality: 2,Gives you a wide circle halo which grants 7 orbital tears upon entering a new room,Type: Passive,Item Pool: Planetarium
+ItemID: 596,Uranus,"""Ice tears""",Quality: 3,Isaac now shoots ice tears that slow enemies. Enemies that are killed by the ice tears will become frozen,Type: Passive,Item Pool: Planetarium
+ItemID: 597,Neptunus,"""Open the floodgates""",Quality: 3,"Isaac will now automatically charge up tears, allowing you to store them up and fire them rapidly for a short time","Type: Passive, Tear Modifier",Item Pool: Planetarium
+ItemID: 598,Pluto,"""Size down""",Quality: 3,+0.7 Tears Up,Type: Passive,Item Pool: Planetarium
+ItemID: 599,Voodoo Head,"""Extra curse rooms""",Quality: 1,This item has a chance to spawn an additional curse room on each future floor,Type: Passive,"Item Pool: Shop, Crane Game"
+ItemID: 600,Eye Drops,"""Tears up""",Quality: 3,Tears fired from your left eye gain roughly +28% fire rate increase,Type: Passive,Item Pool: Boss Room
+ItemID: 601,Act of Contrition,"""Tears up, you feel forgiven""",Quality: 3,+1 Eternal Heart,Type: Passive,Item Pool: Angel Room
+ItemID: 602,Member Card,"""Exclusive access!""",Quality: 1,"All shops now contain a trapdoor with a ladder, which leads down to a special shop",Type: Passive,Item Pool: Shop
+ItemID: 603,Battery Pack,"""Instant energy!""",Quality: 1,"When picked up, this item fully recharges your currently held active item and drops between 2-4 battery pickups. These can be smaller or big batteries",Type: Passive,"Item Pool: Shop, Battery Beggar"
+ItemID: 604,Mom's Bracelet,"""Mother's strength""",Quality: 2,"Upon use, Mom's Bracelet allows you to grab objects in the room and throw them, damaging any enemies which are hit for 40 damage",Type: Active,"Item Pool: Shop, Crane Game, Mom's Chest"
+ItemID: 605,The Scooper,"""Plop!""",Quality: 0,"When used, this item spawns a Peeper familiar for the current room, which deals 12 contact damage per tick to enemies and leaves red creep in its path",Type: Active,Item Pool: Item Room
+ItemID: 606,Ocular Rift,"""Stare into the abyss""",Quality: 3,Fired tears now have a chance to summon a rift when they land on the ground,Type: Passive,Item Pool: Devil Room
+ItemID: 607,Boiled Baby,"""Messy friend""",Quality: 1,"A familiar boil that randomly fires bursts of tears, similar to the Boil enemy","Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 608,Freezer Baby,"""Iced iced baby""",Quality: 2,A familiar baby that fires tears which have a chance to freeze or petrify enemies,"Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 609,Eternal D6,"""???""",Quality: 3,"When used, rerolls all items in the room into another random item from the current room's item pool, however the item also has a 30% chance to disappear",Type: Active,"Item Pool: Item Room, Secret Room, Crane Game"
+ItemID: 610,Bird Cage,"""Fat buddy""",Quality: 1,"Taking damage for the first time in a room spawns a familiar which targets an enemy and jumps on them, releasing a rock wave outwards",Type: Passive,Item Pool: Item Room
+ItemID: 611,Larynx,"""Hear my pain""",Quality: 2,"When used, this item does a shout-type attack, with its effect increasing in damage and size the more charges you have",Type: Active,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 612,Lost Soul,"""Protect him""",Quality: 2,This item gives you a familiar version of The Lost character which dies instantly upon hit,"Type: Passive, Familiar","Item Pool: Item Room, Secret Room"
+ItemID: 614,Blood Bombs,"""Bloody blast + HP up""",Quality: 2,+1 HP Up,Type: Passive,Item Pool: Item Room
+ItemID: 615,Lil Dumpy,"""Puffy buddy""",Quality: 0,Lil Dumpy floats around and farts when it gets hit or touched by enemies,Type: Passive,Item Pool: Item Room
+ItemID: 616,Bird's Eye,"""It burns""",Quality: 3,"You have a chance alongside each tear to shoot a red flame, which deals damage to enemies that come in contact with it",Type: Passive,Item Pool: Item Room
+ItemID: 617,Lodestone,"""Magnetizing tears""",Quality: 3,"Tears now have a chance to cause enemies to be magnetized,",Type: Passive,"Item Pool: Item Room, Crane Game"
+ItemID: 618,Rotten Tomato,"""Delicious!""",Quality: 2,You have a chance to fire a tear that marks enemies red and slow them,Type: Passive,"Item Pool: Item Room, Rotten Beggar"
+ItemID: 619,Birthright,"""???""",Quality: 3,This item has a different effect for each character. See next icon for Tainted character effects,Type: Passive,Item Pool: Shop
+ItemID: 619,Birthright (Tainted),"""???""",Quality: 3,This item has a different effect for each character. See previous icon for normal character effects,Type: Passive,Item Pool: Shop
+ItemID: 621,Red Stew,"""Full HP + temporary DMG up""",Quality: 2,Fully heals all red heart containers,Type: Passive,"Item Pool: Shop, Ultra Secret Room"
+ItemID: 622,Genesis,"""In the beginning""",Quality: 2,"When used, removes all your passive items and teleports you to Isaac's Bedroom",Type: Active,"Item Pool: Angel Room, Greed Mode Angel Room"
+ItemID: 623,Sharp Key,"""Open your enemies""",Quality: 1,+5 Keys,Type: Active,Item Pool: Shop
+ItemID: 624,Booster Pack,"""Collect them all!""",Quality: 1,Spawns 5 random cards,Type: Passive,"Item Pool: Boss Room, Shop"
+ItemID: 625,Mega Mush,"""I'm a big boy now!""",Quality: 4,"When used, this item causes Isaac to become humongous for 30 seconds",Type: Active,Item Pool: Item Room
+ItemID: 626,Knife Piece 1,"""???""",Quality: 0,"Combine with Knife Piece 2 to create a Knife which can be fired across the room, dealing 25 damage to any enemies it comes into contact with",Type: Passive,Item Pool: Shop
+ItemID: 627,Knife Piece 2,"""???""",Quality: 0,"Combine with Knife Piece 1 to create a Knife which can be fired across the room, dealing 25 damage to any enemies it comes into contact with",Type: Passive,"Item Pool: Boss Room, Crane Game, Shop"
+ItemID: 628,Death Certificate,"""Where am I?""",Quality: 4,"This is a one time use item that teleports you to an alternate floor, which contains every single item in the game",Type: Active,Item Pool: Secret Room
+ItemID: 629,Bot Fly,"""Defense drone""",Quality: 3,Gives you a robot fly familar that orbits around Isaac and fires shielded tears at incoming projectiles,"Type: Passive, Familiar","Item Pool: Item Room, Key Beggar, Crane Game"
+ItemID: 631,Meat Cleaver,"""Slice but no dice""",Quality: 1,"When used, the Meat Cleaver will split all enemies in the room into 2 smaller versions with ~40% health each",Type: Active,Item Pool: Item Room
+ItemID: 632,Evil Charm,"""Luck up + you feel protected""",Quality: 2,+2 Luck Up,Type: Passive,Item Pool: Secret Room
+ItemID: 633,Dogma,"""Ascended""",Quality: 0,"This item isn't available in any item pools - you are automatically given it after defeating Dogma, just before The Beast sequence",Type: Passive,"Item Pool: Crane Game, Key Beggar, Item Room"
+ItemID: 634,Purgatory,"""Help from beyond""",Quality: 2,"While in a room with enemies, red cracks will appear on the floor in random locations",Type: Passive,"Item Pool: Devil Room, Angel Room"
+ItemID: 635,Stitches,"""Bait and switch""",Quality: 1,"While held, this item spawns a familiar that can be moved around using the arrow keys and deals 1.5 damage per tick to any enemies it touches","Type: Active, Familiar",Item Pool: Item Room
+ItemID: 636,R Key,"""Time to start over""",Quality: 4,"When used, this item restarts the game and places you back on the first floor with all your currently collected items, similar to doing a Victory Lap",Type: Active,Item Pool: Secret Room
+ItemID: 637,Knockout Drops,"""They pack a punch!""",Quality: 3,"Isaac now has a chance to fire a fist instead of normal tears, which have a much higher knockback effect and confuse enemies for a few seconds",Type: Passive,Item Pool: Item Room
+ItemID: 638,Eraser,"""Erase thy enemy""",Quality: 2,"An active item that allows you to throw an eraser at any enemy, which will kill it and prevent it from appearing for the rest of the run",Type: Active,"Item Pool: Shop, Crane Game"
+ItemID: 639,Yuck Heart,"""Gross!""",Quality: 2,"When used, this item will give you +1 Rotten Heart",Type: Active,"Item Pool: Item Room, Rotten Beggar"
+ItemID: 640,Urn of Souls,"""Unleash their sorrow""",Quality: 3,"Enemies now create a soul upon death, which is automatically sucked into the Urn giving it +1 charge. Mini-bosses and bosses create 2-3 souls",Type: Active,Item Pool: Angel Room
+ItemID: 641,Akeldama,"""Spill your guts""",Quality: 2,"With each shot fired, another bloody tear will spawn behind Isaac",Type: Passive,Item Pool: Item Room
+ItemID: 642,Magic Skin,"""All your desires fulfilled""",Quality: 2,"Upon use, this item consumes 1 heart container or 2 soul hearts and spawns one item pedestal from the current room's pool",Type: Active,"Item Pool: Shop, Red Chest, Curse Room"
+ItemID: 643,Revelation,"""Awaken your faith""",Quality: 4,+2 Soul Hearts,Type: Passive,Item Pool: Angel Room
+ItemID: 644,Consolation Prize,"""+1 to lowest stat""",Quality: 1,"When picked up, this item gives you a stat increase, based on which is currently the lowest. Stat options are: +1.0 Damage, +0.6 Tears, +0.2 Speed, +5.25 Range",Type: Passive,"Item Pool: Boss Room, Golden Chest, Crane Game"
+ItemID: 645,Tinytoma,"""Itching for revenge""",Quality: 1,Grants a large orbital that rotates around Isaac,"Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 646,Brimstone Bombs,"""Demon blast +5 bombs""",Quality: 3,+5 Bombs,Type: Passive,"Item Pool: Devil Room, Bomb Beggar, Greed Mode Devil Room"
+ItemID: 647,4.5 Volt,"""Beat the juice out of them!""",Quality: 2,Active items no longer charge up as normal from clearing rooms,Type: Passive,"Item Pool: Shop, Battery Beggar"
+ItemID: 649,Fruity Plum,"""Bouncy friend""",Quality: 1,"Gives you a familiar which is a smaller version of the Plum boss, which sprays tears and propels itself around the room","Type: Passive, Familiar","Item Pool: Item Room, Key Beggar"
+ItemID: 650,Plum Flute,"""Play time!""",Quality: 2,"When used, this item calls a friendly version of the Plum boss to fight for you for 10 seconds",Type: Active,Item Pool: Item Room
+ItemID: 651,Star of Bethlehem,"""Follow the light""",Quality: 3,"Spawns a star with a white aura around it, that floats very slowly through each room on the floor, making its way towards the boss room","Type: Passive, Familiar",Item Pool: Angel Room
+ItemID: 652,Cube Baby,"""Kick it!""",Quality: 1,"Gives you a baby in an ice cube, which can be kicked around the room by walking into it","Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 653,Vade Retro,"""Begone!""",Quality: 3,"Enemies that die now spawn a red ghost, that floats in place of where the enemy died",Type: Active,Item Pool: Angel Room
+ItemID: 654,False PHD,"""Worse pills + evil up""",Quality: 2,"Identified all pills on pickup, and converts them to their worse counterparts (e.g. Stat Up becomes Stat Down)",Type: Passive,Item Pool: Devil Room
+ItemID: 655,Spin to Win,"""Let it rip!""",Quality: 1,"While held, gives you an orbital that blocks enemy shots and deals contact damage equal to 3.5 per tick","Type: Active, Familiar",Item Pool: Item Room
+ItemID: 657,Vasculitis,"""Clogged enemies""",Quality: 2,"On death enemies now fire tears in random directions, which can damage other enemies",Type: Passive,Item Pool: Item Room
+ItemID: 658,Giant Cell,"""Micro friends""",Quality: 1,"Every time you take damage, a tiny Isaac familiar will spawn, which follows you and shoots tears at nearby enemies that deal 1.3 Damage",Type: Passive,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 659,Tropicamide,"""Tear size + range up""",Quality: 1,+1.5 Range Up,Type: Passive,Item Pool: Boss Room
+ItemID: 660,Card Reading,"""A link to your future""",Quality: 3,"At the beginning of all future floors, two portals will appear, that can take you to either the Boss room (Red portal), Item room (Yellow portal) or Secret room (Blue portal)",Type: Passive,Item Pool: Shop
+ItemID: 661,Quints,"""They lurk inside""",Quality: 2,"Every time an enemy dies, a random familiar spawns where it was killed for the rest of the room",Type: Passive,"Item Pool: Item Room, Greed Mode Item Room"
+ItemID: 663,Tooth and Nail,"""You feel prickly""",Quality: 2,"Every 5 seconds you become spiky for a second, becoming immune and dealing 40 contact damage to any enemies that touch you",Type: Passive,Item Pool: Item Room
+ItemID: 664,Binge Eater,"""All you can eat""",Quality: 4,"Causes all pedestal items to show up as rotating items, that swap every 1 second between the original spawned item and a HP up item. This allows you to choose between the item that originally spawned and a HP upgrade every time",Type: Passive,Item Pool: Secret Room
+ItemID: 665,Guppy's Eye,"""An eye for secrets""",Quality: 2,"Shows you to see the contents of chests, sacks, shopkeepers and items that will drop from fires before you destroy them",Type: Passive,"Item Pool: Devil Room, Red Chest"
+ItemID: 667,Strawman,"""A helping hand""",Quality: 2,"Spawns a Keeper familiar, that shoots triple tears and follows your exact movements as you walk","Type: Passive, Familiar",Item Pool: Secret Room
+ItemID: 668,Dad's Note,"""...""",Quality: 0,Only found in the Mausoleum/Gehenna II boss room,Type: Passive,Item Pool: Secret Room
+ItemID: 669,Sausage,"""All stats up""",Quality: 3,+1 HP,Type: Passive,Item Pool: Secret Room
+ItemID: 670,Options?,"""There might be options""",Quality: 2,"Clearing a room will spawn an extra reward, however only one can be picked up - the other one will disappear",Type: Passive,Item Pool: Shop
+ItemID: 671,Candy Heart,"""Power of love""",Quality: 2,Every half red heart you pick up gives a small but permanent stat increase,Type: Passive,Item Pool: Item Room
+ItemID: 672,A Pound of Flesh,"""Blood money""",Quality: 1,"This item causes Devil deals to cost money instead of hearts, and shop items to cost hearts instead of money",Type: Passive,"Item Pool: Devil Room, Demon Beggar"
+ItemID: 673,Redemption,"""Deliver me from evil""",Quality: 2,"Every time you enter a devil room and choose not to take an item, you get +1 Damage Up upon entering the next floor",Type: Passive,Item Pool: Shop
+ItemID: 674,Spirit Shackles,"""Unfinished business""",Quality: 2,"When you die, you turn into a ghost with 1/2 a red heart and flying, that is chained to your body for 10 seconds. This allows you to stay alive as long as you don't get hit during this 10 second period",Type: Passive,Item Pool: Secret Room
+ItemID: 675,Cracked Orb,"""Shards of knowledge""",Quality: 1,"Taking damage reveals a random room on the minimap, and automatically opens certain doors in the current room. Possible doors include any needing a key to open (Item Room, Shop, Alt Path doors), secret rooms and crawl spaces",Type: Passive,"Item Pool: Item Room, Secret Room"
+ItemID: 676,Empty Heart,"""It multiplies""",Quality: 2,"Upon entering each new floor, if you have one red heart or less, another one is added",Type: Passive,"Item Pool: Item Room, Demon Beggar"
+ItemID: 677,Astral Projection,"""The true out-of-body experience!""",Quality: 2,"The first time you take damage in a room, Isaac will become a ghost and time will stop for 3 seconds",Type: Passive,"Item Pool: Item Room, Secret Room"
+ItemID: 678,C Section,"""Fetus shots""",Quality: 4,"Your tears are replaced with a charge attack that fires a homing, spectral fetus",Type: Passive,Item Pool: Item Room
+ItemID: 679,Lil Abaddon,"""Abyssal friend""",Quality: 3,"Gives you a familiar that can be charged up to release a black ring, that damages any enemies that touch it with rapid hits (similar to Maw of the Void / Athame effects)","Type: Passive, Familiar",Item Pool: Devil Room
+ItemID: 680,Montezuma's Revenge,"""Oh no...""",Quality: 3,"While firing tears, you now charges up a poop attack for 3 seconds that when released, fires from Isaac's behind",Type: Passive,Item Pool: Item Room
+ItemID: 681,Lil Portal,"""It hungers""",Quality: 1,"Gives Isaac a little portal familiar, that moves across the screen as you're firing","Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 682,Worm Friend,"""Clingy buddy""",Quality: 3,"You gain a familiar that lives under the floor. Every so often it will come up and attempt to grab onto a random enemy in the room, holding them in place and dealing damage","Type: Passive, Familiar",Item Pool: Item Room
+ItemID: 683,Bone Spurs,"""Break your enemies""",Quality: 2,"Enemies that die will leave behind 1-2 floating bone shards where they die, until you leave the room",Type: Passive,Item Pool: Item Room
+ItemID: 684,Hungry Soul,"""Out for blood""",Quality: 3,"Each time an enemy dies, a friendly red soul appears. It will hunt down other enemies, dealing contact damage which scales with your tear damage",Type: Passive,Item Pool: Devil Room
+ItemID: 685,Jar of Wisps,"""Your faith grows""",Quality: 2,"When used, gives you number of blue flame orbitals based on the number shown over this item",Type: Active,Item Pool: Angel Room
+ItemID: 686,Soul Locket,"""Power of faith""",Quality: 2,Spawns 1 soul heart on the floor,Type: Passive,Item Pool: Angel Room
+ItemID: 687,Friend Finder,"""Best friends forever!""",Quality: 3,"Spawns a random charmed enemy which fights by your side and copies your exact movements, similar to how Jacob & Esau work",Type: Active,"Item Pool: Item Room, Crane Game"
+ItemID: 688,Inner Child,"""Let him free""",Quality: 2,Gives you an extra life,Type: Passive,Item Pool: Secret Room
+ItemID: 689,Glitched Crown,"""?????""",Quality: 4,Item pedestals now cycle between 5 random items,Type: Passive,Item Pool: Secret Room
+ItemID: 690,Belly Jelly,"""Bounce away!""",Quality: 3,Enemies that touch Isaac will now bounce off him and fly off in the opposite direction,Type: Passive,Item Pool: Item Room
+ItemID: 691,Sacred Orb,"""Destined for greatness""",Quality: 4,Increases the quality of generated items,Type: Passive,"Item Pool: Angel Room, Secret Room"
+ItemID: 692,Sanguine Bond,"""He awaits your offering""",Quality: 1,Spawns a special set of spikes in the Devil Room,Type: Passive,"Item Pool: Devil Room, Curse Room"
+ItemID: 693,The Swarm,"""Infest""",Quality: 2,"When picked up, this gives you 9 orbital flies",Type: Passive,"Item Pool: Item Room, Key Beggar"
+ItemID: 694,Heartbreak,"""Eternal sorrow""",Quality: 3,Gives you +0.25 Damage Up for every broken heart you have,Type: Passive,"Item Pool: Devil Room, Curse Room"
+ItemID: 695,Bloody Gust,"""May your rage bring haste""",Quality: 3,"Every time you take damage, you gain a Speed Up and a Tears Up",Type: Passive,"Item Pool: Item Room, Devil Room"
+ItemID: 696,Salvation,"""Divine protection""",Quality: 3,"Isaac gains a halo of light around him. When an enemy touches the halo for couple of seconds, a beam of light will come down and deal a burst of damage to it",Type: Passive,Item Pool: Angel Room
+ItemID: 697,Vanishing Twin,"""He wants revenge""",Quality: 3,"A fetus familiar follows Isaac, and upon entering the Boss room on each floor, it will transform into a copy of the boss","Type: Passive, Familiar","Item Pool: Secret Room, Curse Room"
+ItemID: 698,Twisted Pair,"""Double trouble!""",Quality: 4,"You gain two familiar demons, that stay by Isaac's side and fire shots in the same direction as you","Type: Passive, Familiar",Item Pool: Devil Room
+ItemID: 699,Azazel's Rage,"""Ancient power""",Quality: 3,Isaac builds rage each time you clear a new room. This is shown by the Azazel skin spreading on Isaac's face,Type: Passive,Item Pool: Devil Room
+ItemID: 700,Echo Chamber,"""I can see see the future future future""",Quality: 2,"When using a card, pill, or rune, you also use a copy of the last 3 cards/pills/runes you used after picking up Echo Chamber",Type: Passive,Item Pool: Secret Room
+ItemID: 701,Isaac's Tomb,"""Buried memories""",Quality: 3,Spawns an Old chest at the start of all future floors,Type: Passive,Item Pool: Secret Room
+ItemID: 702,Vengeful Spirit,"""Hot blooded""",Quality: 2,"Each time you take damage, a red flame orbital will appear around Isaac for the remainder of the floor, up to a maximum of 6",Type: Passive,"Item Pool: Devil Room, Curse Room"
+ItemID: 703,Esau Jr,"""Lost brother""",Quality: 2,"Using this item swaps you between the character you started as, and Esau, which has 3 black hearts, +2 base damage and the ability to fly",Type: Active,"Item Pool: Item Room, Secret Room"
+ItemID: 704,Berserk!,"""Rip and tear""",Quality: 3,"When activated, Isaac's tears are replaced by a bone sword and he goes on a killing rampage, gaining +0.4 Speed, +3 Flat Damage Up for 5 seconds",Type: Active,Item Pool: Devil Room
+ItemID: 705,Dark Arts,"""One with the shadows""",Quality: 2,"When used, Isaac turns into a ghost for 1 second and his speed goes up to maximum (2.0). During this time he can walk over enemies to mark them for death. When the effect wears off, Isaac quickly runs between each marked enemy, dealing high damage to each one rapidly (roughly x2.5 your tear damage)",Type: Active,Item Pool: Devil Room
+ItemID: 706,Abyss,"""Come forth from the depths""",Quality: 4,"When used, Abyss consumes all pedestal items in the current room and converts them into Red attack flies",Type: Active,Item Pool: Devil Room
+ItemID: 707,Supper,"""HP up""",Quality: 1,+1 HP Up,Type: Passive,Item Pool: Boss Room
+ItemID: 708,Stapler,"""DMG up""",Quality: 3,+1.0 Damage Up,Type: Passive,Item Pool: Boss Room
+ItemID: 709,Suplex!,"""Angel breaker""",Quality: 3,"When used, you charge forwards for a second. If you touch an enemy in that time, Isaac will pick it up and slam it on the ground, killing it and sending a shockwave around the impact",Type: Active,"Item Pool: Item Room, Crane Game"
+ItemID: 710,Bag of Crafting,"""Make your destiny""",Quality: 4,"When used will do a swipe attack in any direction. Can be used to store up to 8 consumables in, such as hearts, coins, keys, bombs, cards etc",Type: Active,Item Pool: Item Room
+ItemID: 711,Flip,"""Life and death""",Quality: 4,"While holding flip, a ghost item will appear behind item pedestals upon entering Item Rooms and Shop that cannot be interacted with",Type: Active,"Item Pool: Curse Room, Secret Room, Shop"
+ItemID: 712,Lemegeton,"""Item summoner""",Quality: 3,"When used, gives you an orbital flame which represents another random passive item in the game. While you have this flame you also have that item's effect",Type: Active,"Item Pool: Devil Room, Library"
+ItemID: 713,Sumptorium,"""Return""",Quality: 3,"When used, removes half a heart of health and creates a clot familiar",Type: Active,Item Pool: Item Room
+ItemID: 714,Recall,"""Come back""",Quality: 0,"When used, this will retreive the Tainted Forgotten's skeleton back to its owner's hands from any distance",Type: Active,"Item Pool: Curse Room, Secret Room, Super Secret Room"
+ItemID: 715,Hold,"""Saved for later""",Quality: 0,This is the item Tainted Blue Baby (???) uses as his main mechanic,Type: Active,"Item Pool: Library, Devil Room"
+ItemID: 716,Keeper's Sack,"""Spending power""",Quality: 3,Spawns 3 random coins and a key when picked up,Type: Passive,"Item Pool: Shop, Secret Room"
+ItemID: 717,Keeper's Kin,"""Under a rock""",Quality: 2,"While in a room with enemies, blue spiders will randomly spawn from objects in the room (e.g. rocks, pots, stone blocks)",Type: Passive,"Item Pool: Item Room, Secret Room"
+ItemID: 719,Keeper's Box,"""Portable shop""",Quality: 2,"When used, spawns a random shop item or consumable, however you have to pay the relevant cost to pick it up",Type: Active,"Item Pool: Shop, Secret Room, Wooden Chest"
+ItemID: 720,Everything Jar,"""Anything is possible""",Quality: 2,"With every bar of charge this item has, a different consumable is shown inside the Jar. 1 = poop, 2 = penny, 3 = bomb, 4 = key, 5 = red heart, 6 = pill, 7 = card, 8 = soul heart, 9 = gold heart, 10 = gold key, 11 = gold bomb",Type: Active,"Item Pool: Item Room, Crane Game"
+ItemID: 721,TMTRAINER,"""Isaac and his mother lived alone in a small house on a hill""",Quality: 2,"When picked up, all future items become 'glitched', causing them to become random combinations of 2-3 effects based on other items",Type: Passive,Item Pool: Secret Room
+ItemID: 722,Anima Sola,"""Repent""",Quality: 2,"When used, it puts the closes enemy in chains for 5 seconds, preventing it from moving. You can release the enemy early by using it again",Type: Active,Item Pool: Item Room
+ItemID: 723,Spindown Dice,"""-1""",Quality: 4,"Rerolls all pedestal items, lowering all their internal item IDs by 1",Type: Active,"Item Pool: Item Room, Secret Room, Crane Game"
+ItemID: 724,Hypercoagulation,"""Thick blooded""",Quality: 3,"Upon taking damage you have a chance to drop the heart that you just lost. It gives you 2 seconds to pick it up again to re-heal, before it disappears",Type: Passive,Item Pool: Item Room
+ItemID: 725,IBS,"""Your stomach rumbles""",Quality: 2,"Whenever you deal damage to an enemy, has a chance to give the effect of one of Tainted ???'s unique poops",Type: Passive,Item Pool: Item Room
+ItemID: 726,Hemoptysis,"""Double tap sneeze""",Quality: 3,"Allows you to quickly double tap a shoot button to sneeze on nearby enemies, dealing x1.5 your tear damage and pushing them back slightly",Type: Passive,Item Pool: Item Room
+ItemID: 727,Ghost Bombs,"""Spooky blast +5 bombs""",Quality: 2,+5 Bombs,Type: Passive,"Item Pool: Item Room, Bomb Beggar"
+ItemID: 728,Gello,"""Demonic gestation""",Quality: 3,"Spawns a familiar that's attached via an Umbilical Cord, but will move and shoot in the same direction Isaac is shooting",Type: Active,"Item Pool: Item Room, Devil Room"
+ItemID: 729,Decap Attack,"""Chuck away!""",Quality: 2,"When used, this item allows you to throw your head where it will sit as a stationary sentry firing bullets until you walk over and pick it up again",Type: Active,"Item Pool: Item Room, "
+ItemID: 730,Glass Eye,"""DMG + luck up""",Quality: 3,+0.75 Damage Up,Type: Passive,"Item Pool: Boss Room, Crane Game, Golden Chest"
+ItemID: 731,Stye,"""DMG + range up""",Quality: 2,+28% Damage Up (right eye only),Type: Passive,Item Pool: Boss Room
+ItemID: 732,Mom's Ring,"""DMG up""",Quality: 3,+1 Damage Up,Type: Passive,"Item Pool: Shop, Golden Chest, Mom's Chest"
+TrinketID: 1,Swallowed Penny,"""Gulp!""",,"Each time you get hit, you drop a coin or two",,
+TrinketID: 2,Petrified Poop,"""It feels lucky?""",,"While held, Isaac has a significantly higher chance to find drops when breaking poops",,
+TrinketID: 3,AAA Battery,"""Trickle charge""",,Lowers your spacebar item charge rate by 1,,
+TrinketID: 4,Broken Remote,"""It's broken""",,Does the teleport effect every time you use your current spacebar item,,
+TrinketID: 5,Purple Heart,"""Challenge up""",,Higher chance for champion enemies while held,,
+TrinketID: 6,Broken Magnet,"""It kinda works""",,"Has a partial Magneto effect and will attract coins, pulling them into Isaac from a distance",,
+TrinketID: 7,Rosary Bead,"""Faith up""",,Increases your chances to find an Angel Room instead of a Devil Room,,
+TrinketID: 8,Cartridge,"""I remember these""",,"When Isaac takes damage, there is a chance he will gain the Gamekid effect, turning him invincible and dealing contact damage to any enemies he touches",,
+TrinketID: 9,Pulse Worm,"""Wub wub!""",,Tears shrink and grow in size as they go across the room,,
+TrinketID: 10,Wiggle Worm,"""Wiggle wiggle!""",,Tears now move in a wave fashion across the room,,
+TrinketID: 11,Ring Worm,"""Woop woop!""",,"While held, tears move in a spiral pattern across the screen at high speed",,
+TrinketID: 12,Flat Worm,"""Blub blub!""",,Tears become flat and disc shaped giving them a larger hitbox,,
+TrinketID: 13,Store Credit,"""YES!""",,"While this trinket is held, all items in the Shop cost 0 coins",,
+TrinketID: 14,Callus,"""Your feet feel stronger""",,Isaac no longer takes damage from walking over spikes and blood creep while this trinket is held,,
+TrinketID: 15,Lucky Rock,"""There's something inside""",,33% chance to drop a coin for every rock that you destroy,,
+TrinketID: 16,Mom's Toenail,"""???""",,"Mom's Leg will now appear every 60 seconds and stomp down randomly in the room dealing 300 damage to enemies, similar to how Daddy Longlegs works but less frequent",,
+TrinketID: 17,Black Lipstick,"""Evil up""",,Increases the chance for Black hearts to spawn,,
+TrinketID: 18,Bible Tract,"""Faith up""",,Gives you a higher chance of eternal hearts,,
+TrinketID: 19,Paper Clip,"""Master of lockpicking""",,Allows you to unlock golden chests without needing a key,,
+TrinketID: 20,Monkey Paw,"""Wish granted""",,"When you reach half a heart of life remaining, a black heart will spawn",,
+TrinketID: 21,Mysterious Paper,"""???""",,Imitates the behaviours of some of the other 'paper' items/trinkets,,
+TrinketID: 22,Daemon's Tail,"""Evil up""",,80% of heart drops are replaced with keys,,
+TrinketID: 23,Missing Poster,"""???""",,Dying in a sacrifice room while holding this trinket will unlock The Lost character,,
+TrinketID: 24,Butt Penny,"""Wealth of gas""",,"Everytime you pick up a coin, you fart, inflicting poison damage to nearby enemies",,
+TrinketID: 25,Mysterious Candy,"""Uh-oh!""",,Causes Isaac to create poops randomly,,
+TrinketID: 26,Hook Worm,"""Zip zoop!""",,"Tears now move forwards at right angles, shifting left and right across the room",,
+TrinketID: 27,Whip Worm,"""Wooosh!""",,+0.5 Shot Speed Up,,
+TrinketID: 28,Broken Ankh,"""Eternal life?""",,Has a 22.22% chance to respawn with 3 Soul hearts as Blue Baby when you die,,
+TrinketID: 29,Fish Head,"""It stinks""",,"Everytime Isaac takes damage, one blue fly will spawn",,
+TrinketID: 30,Pinky Eye,"""Poison shots""",,Isaac's tears have a chance to poison enemies,,
+TrinketID: 31,Push Pin,"""Piercing shots""",,Isaac now has a chance to make a spectral and piercing tear,,
+TrinketID: 32,Liberty Cap,"""Touch fuzzy, get dizzy!""",,"While held, this trinket gives a random mushroom effect each room",,
+TrinketID: 33,Umbilical Cord,"""Fetal protection""",,"While at 1/2 a red heart of health, you gain a Little Steve familiar that follows you and shoots homing tears",,
+TrinketID: 34,Child's Heart,"""It calls out to its brothers""",,Gives Isaac a higher chance to find hearts from drops after clearing a room and from chests,,
+TrinketID: 35,Curved Horn,"""DMG up""",,+2 Damage Up,,
+TrinketID: 36,Rusted Key,"""It feels lucky?""",,Gives Isaac a higher chance to find keys and chests,,
+TrinketID: 37,Goat Hoof,"""Speed up""",,+0.15 Speed Up,,
+TrinketID: 38,Mom's Pearl,"""It emanates purity""",,Grants a secondary chance of any non-specific heart drop turning into a soul heart,,
+TrinketID: 39,Cancer,"""Yay, cancer!""",,-2 Tear Delay (Tears Up),,
+TrinketID: 40,Red Patch,"""Your rage grows""",,You have a chance when taking damage to gain +1.8 Damage Up for the rest of the room,,
+TrinketID: 41,Match Stick,"""Tastes like burning""",,Gives Isaac a higher chance to find bombs,,
+TrinketID: 42,Lucky Toe,"""Luck up!""",,+1 Luck Up while held,,
+TrinketID: 43,Cursed Skull,"""Cursed?""",,"When you take damage while on 1/2 a heart, you are teleported back to the previous room",,
+TrinketID: 44,Safety Cap,"""Don't swallow it""",,Gives Isaac a higher chance to find pills,,
+TrinketID: 45,Ace of Spades,"""Luck of the draw""",,Gives Isaac a higher chance to find Tarot cards after clearing a room or from chests,,
+TrinketID: 46,Isaac's Fork,"""Consume thy enemy""",,"After clearing a room, you have a chance to heal for half a red heart",,
+TrinketID: 48,A Missing Page,"""It glows with power""",,"When taking damage, Isaac has a chance to deal damage to the entire room in a Necronomicon style effect",,
+TrinketID: 49,Bloody Penny,"""Wealth of health""",,"Everytime you pick up a penny, you have a 25% chance to spawn a red heart on the floor",,
+TrinketID: 50,Burnt Penny,"""Wealth of chaos""",,"Everytime you pick up a coin, you have a 25% chance to spawn a bomb on the floor",,
+TrinketID: 51,Flat Penny,"""Wealth of answers""",,"Everytime you pick up a coin, you have a 25% chance to spawn a key",,
+TrinketID: 52,Counterfeit Penny,"""Wealth of wealth""",,"When picking up a coin, you have a chance to automatically gain one more coin",,
+TrinketID: 53,Tick,"""Well, that's not coming off""",,"When you enter a boss room, immediately remove 15% health from the boss and restore 1 red heart",,
+TrinketID: 54,Isaac's Head,"""Dead friend""",,"While held, this trinket gives Isaac a familiar that shoots piercing tears that deal 3.5 damage",,
+TrinketID: 55,Maggy's Faith,"""Faith's reward""",,"At the start of a new floor, you get an eternal heart",,
+TrinketID: 56,Judas' Tongue,"""Payment received""",,Items which cost 2 heart containers in a deal with the devil are reduced to only cost 1 heart,,
+TrinketID: 57,???'s Soul,"""Imaginary friend""",,"Creates a familiar which moves around the room in a similar fashion to The Peeper, shooting tears in the same direction as Isaac",,
+TrinketID: 58,Samson's Lock,"""Your rage grows""",,"When you kill an enemy, you have a chance to get +0.5 damage up for the current room",,
+TrinketID: 59,Cain's Eye,"""May you see your destination",,Gives a 25% chance to reveal map icons at the start of a new floor (The same effect as the Compass),,
+TrinketID: 60,Eve's Bird Foot,"""Revenge from beyond""",,"When you kill an enemy, you have a chance to spawn a transparent Dead Bird familiar",,
+TrinketID: 61,The Left Hand,"""The left hand path reaps dark rewards""",,Replaces chest spawns with red chests,,
+TrinketID: 62,Shiny Rock,"""It shines for it's brothers""",,"While held, tinted rocks and rocks with a crawlspace below them will flash white every 10 seconds",,
+TrinketID: 63,Safety Scissors,"""Fuse cutter""",,Turns all troll bombs into bombs which you can pick up and use,,
+TrinketID: 64,Rainbow Worm,"""Bleep bloop blop""",,Gives your tears a random worm effect every few seconds,,
+TrinketID: 65,Tape Worm,"""Floooooooooop!""",,"While held, Tape Worm doubles your range stat and halves your tear height stat",,
+TrinketID: 66,Lazy Worm,"""Pft""",,-0.4 Shot Speed Down,,
+TrinketID: 67,Cracked Dice,"""You feel cursed... kinda.""",,"Every time you get hit, you have a chance to activate the D6, D20, D8 or D12 effect",,
+TrinketID: 68,Super Magnet,"""It pulls""",,While held this trinket causes all pickups and enemies to move slowly towards you,,
+TrinketID: 69,Faded Polaroid,"""You feel faded""",,Randomly Isaac will gain a camouflage for a few seconds and all enemies in the current room will have a confused status effect applied to them,,
+TrinketID: 70,Louse,"""Itchy, tasty...""",,Gives a small chance to spawn a friendly attack spider while in a hostile room with enemies,,
+TrinketID: 71,Bob's Bladder,"""Creepy bombs""",,"Leaves a pool of green creep under all bombs you place, which damages enemies that walk over it",,
+TrinketID: 72,Watch Battery,"""Lil charge""",,Gives a +6.66% chance of a getting a small battery after clearing a room,,
+TrinketID: 73,Blasting Cap,"""Pop! Pop!""",,Exploding bombs now have a chance to drop another bomb that you can pick up,,
+TrinketID: 74,Stud Finder,"""The ground below feels hollow...""",,Higher chance to find crawl spaces when exploding rocks,,
+TrinketID: 75,Error,"""Effect not found?""",,"Gives a different trinket effect per room, randomly choosing between any of the other available trinkets in the game",,
+TrinketID: 76,Poker Chip,"""It's double down time!""",,Chests now have a 50/50 chance to either pay out with extra consumables or nothing/an enemy,,
+TrinketID: 77,Blister,"""Bounce back!""",,Tears have a stronger knockback effect while this trinket is held,,
+TrinketID: 78,Second Hand,"""Extended stat effect time""",,"Increases the time that status effects stay on enemies. e.g. With poison effects, the damage over time poison will last for much longer.
+      ",,
+TrinketID: 79,Endless Nameless,"""I'm stuck in a loop...""",,While held there is a small chance when using a tarot card or pill that a copy of it will be dropped on the floor next to you,,
+TrinketID: 80,Black Feather,"""With darkness comes power""",,+0.2 Damage Up for each 'evil' item you have,,
+TrinketID: 81,Blind Rage,"""Blind to damage""",,Invincibility lasts longer after getting hit (Increased i-frames),,
+TrinketID: 82,Golden Horse Shoe,"""Feel lucky?""",,+15% chance to get a double item room to spawn on the next floor,,
+TrinketID: 83,Store Key,"""Stores are open""",,Automatically opens all shop room doors for free,,
+TrinketID: 84,Rib of Greed,"""Feels greedy""",,Forces the Greed and Super Greed mini bosses to no longer appear in shops or secret rooms,,
+TrinketID: 85,Karma,"""Karma up""",,Donating to a Donation Machine has a chance to heal Isaac for a full red heart or spawn a Beggar,,
+TrinketID: 86,Lil Larva,"""the poop is moving...""",,Destroying poops now gives you a blue fly,,
+TrinketID: 87,Mom's Locket,"""you feel her love""",,"While held, you heal for half a red heart every time you use a key to open a door or golden chest",,
+TrinketID: 88,NO!,"""Never again!""",,While this trinket is held you have a significantly lower chance to find spacebar/active items,,
+TrinketID: 89,Child Leash,"""Keep your friends close...""",,Causes your familiars to stay closer to each other,,
+TrinketID: 90,Brown Cap,"""Fartoom!""",,Poop in the environment will now explode when destroyed,,
+TrinketID: 91,Meconium,"""Eww""",,"While held you have an increased chance for Black Poops to spawn, which deal damage to all enemies in the room when destroyed",,
+TrinketID: 92,Cracked Crown,"""Boost Stats""",,"Boosts speed, range, shot speed, tears and damage if they are above their base values by roughly +20%",,
+TrinketID: 93,Used Diaper,"""You Stink""",,"While held, gives the Skatole effect only in certain rooms, which will turn hostile flies to neutral and stop others from shooting",,
+TrinketID: 94,Fish Tail,"""It also stinks!""",,"Items and trinkets which generate blue flies and spiders will have double the effect, causing twice as many to spawn",,
+TrinketID: 95,Black Tooth,"""It looks dead""",,"Some tears will randomly become a black tooth, that deal double your normal tear damage and can poison enemies",,
+TrinketID: 96,Ouroboros Worm,"""Foop foop!""",,Tears become spectral and travel in a huge spiral pattern,,
+TrinketID: 97,Tonsil,"""Sick...""",,"Every time you take damage you have a very small chance to gain a Tonsil familiar, which follows you and blocks enemy projectiles",,
+TrinketID: 98,Nose Goblin,"""Seems magic...""",,Your tears have a random chance to become booger tears,,
+TrinketID: 99,Super Ball,"""Boing!""",,Some random tears will gain the Rubber Cement effect and become bouncy,,
+TrinketID: 100,Vibrant Bulb,"""It needs power""",,"Grants +0.25 Speed, +0.75 Range, +0.1 Shot Speed, +0.2 Tears, +0.5 Damage and +1 Luck when Isaac's active item is fully charged",,
+TrinketID: 101,Dim Bulb,"""I think it's broken""",,"Grants +0.5 Speed, +1.5 Range, +0.3 Shot Speed, +0.4 Tears, +1.5 Damage when Isaac's active item is completely uncharged",,
+TrinketID: 102,Fragmented Card,"""Double moon""",,Gives you another secret room on each new floor while held,,
+TrinketID: 103,Equality!,"""=""",,"When you have the same amount of coins, bombs and keys, half consumables turn into their doubled version",,
+TrinketID: 104,Wish Bone,"""Make a wish""",,Every time you take damage you have a very small chance to spawn a random pedestal item,,
+TrinketID: 105,Bag Lunch,"""I wonder what it is""",,"Every time you take damage you have a very small chance to spawn the Lunch item, which gives +1 HP up",,
+TrinketID: 106,Lost Cork,"""Uncorked""",,Increases the radius of any creep you produce,,
+TrinketID: 107,Crow Heart,"""Drain me""",,"While held, any damage taken remove red hearts first, before soul hearts, black hearts and rotten heart damage",,
+TrinketID: 108,Walnut,"""Thats a hard nut to crack!""",,"The Walnut has a chance to break when taking damage from an explosion. If it does, it will drop a random trinket, coin, heart and key",,
+TrinketID: 109,Duct Tape,"""Stuck!""",,Causes any orbitals you have to stop moving while held,,
+TrinketID: 110,Silver Dollar,"""Feels lucky...""",,"While held, shops will now appear on the womb floors (The Womb, Utero and Scarred Womb)",,
+TrinketID: 111,Bloody Crown,"""Drips with blood...""",,"While held, item rooms now appear on the womb floors (The Womb, Utero and Scarred Womb)",,
+TrinketID: 112,Pay To Win,"""...""",,"While held, restock boxes will always spawn in item rooms",,
+TrinketID: 113,Locust of War,"""I Bring Wrath""",,"Upon entering a room with enemies, spawns a Red Locust which detonates upon impact with enemies, dealing double tear damage for the impact of the Locust and 60 damage for the explosion",,
+TrinketID: 114,Locust of Pestilence,"""I Bring Pestilence""",,"At the start of each new hostile room you spawn a green attack fly, which will target a nearby enemy, deal double your tear damage and then poison them",,
+TrinketID: 115,Locust of Famine,"""I bring Famine""",,"At the start of each new hostile room you spawn a yellow attack fly, which will target a nearby enemy, deal double your tear damage and apply a slowing effect to it",,
+TrinketID: 116,Locust of Death,"""I bring Death""",,"Upon entering a room with enemies, spawns a Black Locust that deals quadruple Isaac's damage, applied as two hits of double damage",,
+TrinketID: 117,Locust of Conquest,"""I Bring Conquest""",,"At the start of each new hostile room you spawn 2-5 white attack flies, which will target a nearby enemy and deal double your tear damage to it",,
+TrinketID: 118,Bat Wing,"""They Are Growing...""",,"When killing an enemy, you have a very small chance to gain the ability to fly for the rest of the room",,
+TrinketID: 119,Stem Cell,"""Regen!""",,Stem Cell heals Isaac's red heart containers to 50% each floor,,
+TrinketID: 120,Hairpin,"""Danger charge""",,Fully recharges your active item at the start of each boss fight,,
+TrinketID: 121,Wooden Cross,"""My faith protects me""",,"Gives you the Holy Mantle shield effect at the start of every new floor, which protects you from the next hit of damage you take",,
+TrinketID: 122,Butter!,"""Can't hold it!""",,Using your active item while holding this trinket will drop it back on a pedestal on the ground,,
+TrinketID: 123,Filigree Feather,"""Angelic spoils!""",,Holding this trinket will cause the Angel mini bosses to drop normal items instead of Key Pieces,,
+TrinketID: 124,Door Stop,"""Hold the door!""",,"While held, the last door Isaac went through stays open, allowing him to leave the room even if enemies are in it",,
+TrinketID: 125,Extension Cord,"""Charged friends""",,"After being picked up, a yellow laser chain now flows through Isaac's familiars",,
+TrinketID: 126,Rotten Penny,"""Wealth of flies""",,"While held, spawns +1 friendly blue fly every time you pick up a coin",,
+TrinketID: 127,Baby-Bender,"""Feed them magic!""",,While held this trinket gives your familiars homing shots,,
+TrinketID: 128,Finger Bone,"""It looks brittle""",,"While held, gives you a small chance to gain a bone heart everytime you take damage",,
+TrinketID: 129,Jawbreaker,"""Don't chew on it""",,"Tears have a chance to become a tooth, dealing x3.2 damage, similar to Tough Love",,
+TrinketID: 130,Chewed Pen,"""It's leaking""",,Tears have a chance to slow enemies,,
+TrinketID: 131,Blessed Penny,"""Wealth of purity""",,Chance to spawn half a soul heart when picking up a coin,,
+TrinketID: 132,Broken Syringe,"""Mystery medicine""",,Gives you a random syringe effect every room,,
+TrinketID: 133,Short Fuse,"""Faster explosions""",,Placed bombs explode after 0.66 seconds instead of the usual 1.5 seconds,,
+TrinketID: 134,Gigante Bean,"""Mega farts""",,Farts produced by Isaac or familiars will be twice as large,,
+TrinketID: 135,A Lighter,"""Watch the world burn""",,Chance for enemies to burn when entering a room,,
+TrinketID: 136,Broken Padlock,"""Bombs are key""",,Explosions can open locked doors,,
+TrinketID: 137,Myosotis,"""Forget me not...""",,"Pickups left on current floor will appear in the starting room of the next floor, up to a maximum of 4 pickups",,
+TrinketID: 138, 'M,"""t's broken9Reroll your dest       """,,Active items will be rerolled upon using them,,
+TrinketID: 139,Teardrop Charm,"""It feels lucky""",,Random luck-based tear effects have an extra chance of occurring,,
+TrinketID: 140,Apple of Sodom,"""It feels empty""",,"Picking up red hearts now has a high chance to spawn 1-4 blue attack spiders, instead of giving you health back",,
+TrinketID: 141,Forgotten Lullaby,"""Sing for your friends""",,Gives your familiars improved rate of fire while held,,
+TrinketID: 142,Beth's Faith,"""My faith protects me""",,"While held at the start of each floor, this trinket spawns four wisp familiar orbitals around Isaac",,
+TrinketID: 143,Old Capacitor,"""Voltage starving""",,"Your active item no longer gains charges, but battery drops become much more common",,
+TrinketID: 144,Brain Worm,"""Ding!""",,Tears that miss enemies will redirect themselves and travel 90 degrees towards enemies,,
+TrinketID: 145,Perfection,"""Luck way up. Don't lose it!""",,"+10 Luck while held, but the trinket is destroyed when damage is taken",,
+TrinketID: 146,Devil's Crown,"""His special customer""",,"Treasure Rooms are replaced with Red Treasure Rooms, which contain a deal with the devil in place of a regular item pedestal",,
+TrinketID: 147,Charged Penny,"""Wealth of power""",,"Every time you pick up a coin, you have a small chance to gain 1 bar of charge on your active item",,
+TrinketID: 148,Friendship Necklace,"""Gather round""",,"While held, your familiars will now orbit around Isaac instead of following behind him",,
+TrinketID: 149,Panic Button,"""Push in case of emergency""",,Activates your active item just before damage would be taken,,
+TrinketID: 150,Blue Key,"""Look between the rooms""",,Doors can be opened without using up a key,,
+TrinketID: 151,Flat File,"""No more spikes""",,While held this trinket causes spikes to retract into the floor,,
+TrinketID: 152,Telescope Lens,"""Seek the stars""",,+9% chance for a Planetarium to spawn,,
+TrinketID: 153,Mom's Lock,"""A piece of her love""",,Has a high chance to give you the effect of a random Mom item every room,,
+TrinketID: 154,Dice Bag,"""Bonus roll""",,"Every time you enter a brand new room, you have a chance to get a random one-time use Dice (e.g. D6, D20 etc.)",,
+TrinketID: 155,Holy Crown,"""Walk the path of the saint""",,Causes Item rooms and Shops to appear in the Cathedral,,
+TrinketID: 156,Mother's Kiss,"""HP up""",,While held you get +1 HP Up,,
+TrinketID: 157,Torn Card,"""Death awaits""",,Every 15 shots you will shoot an Ipecac + My Reflection shot,,
+TrinketID: 158,Torn Pocket,"""A hole in your pocket""",,"Every time you take damage, you drop up to 2 different types of consumables on the ground",,
+TrinketID: 159,Gilded Key,"""Less is more""",,All new chests become locked Golden chests,,
+TrinketID: 160,Lucky Sack,"""Free goodies!""",,Spawns a sack at the start of each new floor,,
+TrinketID: 161,Wicked Crown,"""Walk the path of the wicked""",,Causes an Item Room and Shop to appear in Sheol,,
+TrinketID: 162,Azazel's Stump,"""Unleash your inner demon""",,"When entering a new room, gives a small chance to gain Azazel's short-range Brimstone laser for the current room and the ability to fly",,
+TrinketID: 163,Dingle Berry,"""Oops!""",,Spawns 2 friendly Dips upon clearing a room,,
+TrinketID: 164,Ring Cap,"""Twice the bang!""",,Drops 2 bombs at once (only 1 bomb is removed from your total),,
+TrinketID: 165,Nuh Uh!,"""Don't want!""",,"Beyond the womb floor, replaces all coin and key spawns with a random pickup as follows:",,
+TrinketID: 166,Modeling Clay,"""???""",,"Each brand new room, this trinket has a chance to transform into a copy of a random passive item, which gives you the effect for the duration of this room",,
+TrinketID: 167,Polished Bone,"""Friends from beyond""",,"Gives a small chance to spawn a friendly Bony when clearing a room, which will throw bones at enemies until it takes enough damage to die",,
+TrinketID: 168,Hollow Heart,"""A brittle blessing""",,Gives you +1 Bone Heart every time you enter a new floor,,
+TrinketID: 169,Kid's Drawing,"""Looks familiar...""",,Counts as 1 of 3 cat items needed towards the Guppy transformation,,
+TrinketID: 170,Crystal Key,"""Call to the other side""",,Each time you clear a room there is a chance a Red Room will spawn at one of the walls.,,
+TrinketID: 171,Keeper's Bargain,"""Money talks""",,Has a decent chance for Devil Deals to cost money instead of Health,,
+TrinketID: 172,Cursed Penny,"""Wealth of misery""",,"While held, you will be teleported to a random room everytime you pick up a coin",,
+TrinketID: 173,Your Soul,"""Give it to me""",,Allows you to pay for a devil deal with this trinket,,
+TrinketID: 174,Number Magnet,"""6""",,+10% devil room chance while held,,
+TrinketID: 175,Strange Key,"""What could it open?""",,"Opens the door to the Blue Womb, regardless of whether you meet the 30 minute speed timer",,
+TrinketID: 176,Lil Clot,"""Mini friend""",,"A small clot friend will hug Isaac, following his exact movements (similar to how Jacob & Esau work) and shooting tears when he does",,
+TrinketID: 177,Temporary Tattoo,"""You feel braver""",,Spawns a random chest after completing a regular Challenge Room,,
+TrinketID: 178,Swallowed M80,"""Bang!""",,When taking damage you have a chance to explode and deal 185 damage to all enemies around you (Same damage as a Mr. Mega bomb),,
+TrinketID: 179,RC Remote,"""Controllable buddies!""",,"Familiars follow Isaac's exact movements, (similar to how Jacob & Esau work) instead of following loosely like they usually do",,
+TrinketID: 180,Found Soul,"""Finally!""",,Gives you a familiar that follows Isaac's exact movements (similar to how Jacob & Esau work) and shoots spectral tears,,
+TrinketID: 181,Expansion Pack,"""Fun extras""",,"Everytime you use your active item, you have a chance to activate another random active item",,
+TrinketID: 182,Beth's Essence,"""Virtue's reward""",,"Taking damage gives you a chance to spawn a flame orbital, similar to the ones created by Book of Virtues",,
+TrinketID: 183,The Twins,"""I'm seeing double...""",,"Upon entering each new room, this trinket has a chance to copy one of your current familiars",,
+TrinketID: 184,Adoption Papers,"""Give them a home""",,All shops only sell familiars while holding this trinket,,
+TrinketID: 185,Cricket Leg,"""Infested""",,Every time an enemy dies you have a chance to gain a random Locust,,
+TrinketID: 186,Apollyon's Best Friend,"""Attack buddy""",,"Gives you a red attack fly, that will charge at enemies in the same direction you are shooting",,
+TrinketID: 187,Broken Glasses,"""Double vision?""",,Gives a 33% chance to spawn an extra blind pedestal item in all future item rooms. This one will be a hidden question mark,,
+TrinketID: 188,Ice Cube,"""Stay frosty""",,Gives a small chance when entering a room for enemies to be petrified for 4 seconds. Killing a petrified enemy will freeze it.,,
+TrinketID: 189,Sigil of Baphomet,"""Revel in death""",,Every time you kill an enemy you get an invincibility shield for 1 second,,
+CardID: 1,O - The Fool,"""Where your journey begins""",,Teleports the player to the first room of the current floor,,
+CardID: 2,I - The Magician,"""May you never miss your goal""",,"For the current room, tears now have the Spoon Bender effect, which allows them to curve towards enemies and gives them a purрle appearance.
+      ",,
+CardID: 3,II - The High Priestess,"""Mother is watching you""",,"Summons Mom's foot which will stomp on a random enemy in the current room, dealing 300 damage",,
+CardID: 4,III - The Empress,"""May your rage bring power""",,"Gives the player the Whore of Babylon effect for the current room, increasing damage and speed",,
+CardID: 5,IV - The Emperor,"""Challenge me!""",,Teleports the player to the Boss room on the current floor,,
+CardID: 6,V - The Hierophant,"""Two prayers for the lost""",,Spawns 2 Soul hearts on the floor,,
+CardID: 7,VI - The Lovers,"""May you prosper and be in good health""",,Spawns 2 red hearts on the floor,,
+CardID: 8,VII - The Chariot,"""May nothing stand before you""",,"Grants the same effect as 'My Little Unicorn', which makes Isaac invincible and deal 40 contact damage to enemies per hit",,
+CardID: 9,VIII - Justice,"""May your future become balanced""",,"Spawns 1 bomb, 1 key, 1 coin, 1 heart, which can be random variants of each",,
+CardID: 10,IX - The Hermit,"""May you see what life has to offer""",,Teleports the player to the Shop,,
+CardID: 11,X - Wheel of Fortune,"""Spin the wheel of destiny""",,Spawns a Slot Machine or a Fortune Machine,,
+CardID: 12,XI - Strength,"""May your power bring rage""",,"Gives the player the Magic Mushroom effect, which increasing size and all stats by 1 for the current room",,
+CardID: 13,XII - The Hanged Man,"""May you find enlightenment""",,"Gives the player the flying effect for the current room, allowing the player to fly over obstacles in the room",,
+CardID: 14,XIII - Death,"""Lay waste to all that oppose you""",,Deals 40 damage to all enemies in the room in a similar style to the Necronomicon,,
+CardID: 15,XIV - Temperance,"""May you be pure in heart""",,Spawns a Blood Donation Machine,,
+CardID: 16,XV - The Devil,"""Revel in the power of your darkness""",,"Gives the Book of Belial effect for the current room, increasing damage",,
+CardID: 17,XVI - The Tower,"""Destruction brings creation""",,Spawns some troll bombs at random locations in the current room,,
+CardID: 18,XVII - The Stars,"""May you find what you desire""",,Teleports the player to the Item Room,,
+CardID: 19,XVIII - The Moon,"""May you find all you have lost""",,Teleports the player to the Secret Room,,
+CardID: 20,XIX - The Sun,"""May the light heal and enlighten you""",,"A card with three uses: A full heal, deals 100 damage to all enemies in the current room and reveals the entire map for the current floor (Treasure Map + The Compass)",,
+CardID: 21,XX - Judgement,"""Judge lest ye be judged""",,Spawns a beggar,,
+CardID: 22,XXI - The World,"""Open your eyes and see""",,Reveals the entire map and shows the icons for every room which has one,,
+CardID: 23,2 of Clubs,"""Item multiplier""",,Doubles the number of Bombs you have,,
+CardID: 24,2 of Diamonds,"""Item multiplier""",,Doubles the number of coins you have,,
+CardID: 25,2 of Spades,"""Item multiplier""",,Doubles the number of keys you have,,
+CardID: 26,2 of Hearts,"""Item multiplier""",,Doubles your current red hearts up to full health,,
+CardID: 27,Ace of Clubs,"""Convert all""",,"When used, turns all pickups, chests and non-boss enemies in the room into Bombs",,
+CardID: 28,Ace of Diamonds,"""Convert all""",,"When used, turns all pickups, chests and non-boss enemies in the room into Coins",,
+CardID: 29,Ace of Spades,"""Convert all""",,"When used, turns all pickups, chests and non-boss enemies in the room into Keys",,
+CardID: 30,Ace of Hearts,"""Convert all""",,"When used, turns all pickups, chests and non-boss enemies in the room into Hearts",,
+CardID: 31,The Joker,"""???""",,Teleports you to the Devil Deal Room on the current floor,,
+CardID: 46,Suicide King,"""A true ending?""",,"When used, instantly kills you and spawns 10 pickup on the floor",,
+CardID: 79,Queen of Hearts,"""<3""",,Drops 1-20 full red hearts on the floor,,
+CardID: 42,Chaos Card,"""???""",,"A card which can be thrown as a projectile directly infront of Isaac, instantly killing anything it hits, including most bosses",,
+CardID: 52,Huge Growth,"""Become immense!""",,"Temporarily makes Isaac huge, giving him +7 Damage Up and +30 Range Up for the rest of the current room",,
+CardID: 53,Ancient Recall,"""Draw 3 cards""",,Spawns 3 random cards on the floor when used,,
+CardID: 54,Era Walk,"""Savor the moment""",,"When used, this card will slow down enemies, Isaac's tears by -1 Shot Speed, but speed up Isaac's movement speed by +0.50 for the rest of the current room",,
+CardID: 43,Credit Card,"""Charge it!""",,"When used, removes the price tag from all items in the current shop or devil deal, making everything free",,
+CardID: 44,Rules Card,"""???""",,Displays a random cryptic message on the screen similar to the fortune machine ones. One of the following messages may show:,,
+CardID: 45,Card Against Humanity,"""Something stinks...""",,"When used, fills the entire room with poop!",,
+CardID: 47,Get Out Of Jail Free Card,"""Open sesame""",,"When used, will open all doors in the current room, similar to a one-time use of Dad's Key",,
+CardID: 48,? Card,"""Double active""",,When used this card will activate a use of your spacebar item for free,,
+CardID: 32,Rune of Hagalaz,"""Destruction""",,"When used, this rune will destroy all breakable objects in the current room, such as poop, rocks, secret room entrances",,
+CardID: 33,Rune of Jera,"""Abundance""",,When used this rune will double all pickups on the floor in the room,,
+CardID: 34,Rune of Ehwaz,"""Passage""",,Creates a trapdoor on the floor,,
+CardID: 35,Rune of Dagaz,"""Purity""",,Removes the curse which is in effect on the current floor (except Curse of the Labyrinth),,
+CardID: 36,Rune of Ansuz,"""Vision""",,"When used, reveals the entire map including all the secret room locations and other icon rooms",,
+CardID: 37,Rune of Perthro,"""Change""",,Rerolls all pedestal items in the current room (One time use of the D6),,
+CardID: 38,Rune of Berkano,"""Companionship""",,Summons 3 blue friendly spiders and 3 blue flies,,
+CardID: 39,Rune of Algiz,"""Resistance""",,"When used, gives you an invincibility effect which lasts for 20 seconds",,
+CardID: 40,Blank Rune,"""???""",,"When used, gives a random Mystic rune effect",,
+CardID: 41,Black Rune,"""Void""",,"When used, this rune deals 40 damage to all enemies in the room and consumes all pedestal items in the room, giving you a random stat increase for each item consumed",,
+CardID: 55,Rune Shard,"""It still glows faintly""",,Activates a random rune effect. The effect is weaker than normal runes.,,
+CardID: 49,Dice Shard,"""D6 + D20""",,Gives a one-time use of the D6 and D20 effects at the same time,,
+CardID: 50,Emergency Contact,"""Help from above""",,When used will cause two of Mom's Hand to come down and grab a random enemy,,
+CardID: 51,Holy Card,"""You feel protected""",,"Grants the Holy Mantle effect for, which will negate your next hit of damage",,
+CardID: 78,Cracked Key,"""???""",,This is a one-time use of the Red Key item.,,
+CardID: 56,O - The Fool?,"""Let go and move on""",,"When used, this card drops all of your hearts (including non-red hearts), coins, keys and bombs on the floor",,
+CardID: 57,I - The Magician?,"""May no harm come to you""",,"Gives you a blue aura that repels enemy projectiles, causing them to slowly curve away from Isaac and avoid hitting him",,
+CardID: 58,II - The High Priestess?,"""Run""",,Causes Mom's Foot to keep stomping down randomly for 60 seconds where Isaac is standing,,
+CardID: 59,III - The Empress?,"""May your love bring protection""",,Gives 2 HP Up and +1.5 Tears Up for 60 seconds,,
+CardID: 60,IV - The Emperor?,"""May you find a worthy opponent""",,"Teleports you to an extra boss room, that drops a Boss room item as normal. This room isn't part of the actual floor, and leaving it returns you to where you teleported from",,
+CardID: 61,V - The Hierophant?,"""Two prayers for the forgotten""",,Spawns 2 Bone hearts on the floor,,
+CardID: 62,VI - The Lovers?,"""May your heart shatter to pieces""",,Spawns a random pedestal item from the current room's item pool,,
+CardID: 63,VII - The Chariot?,"""May nothing walk past you""",,"Isaac turns to stone and can't move for 10 seconds, but your tear rate goes up significantly for the duration",,
+CardID: 64,VIII - Justice?,"""May your sins come back to torment you""",,Spawns 2-4 locked gold chests,,
+CardID: 65,IX - The Hermit?,"""May you see the value of all things in life""",,"When used, all items and pickups in the current room are turned into money. Everything is sold for its shop price, e.g. Items for 15c, hearts for 3c, sacks for 7c",,
+CardID: 66,X - Wheel of Fortune?,"""Throw the dice of fate""",,Activates a random effect from a Dice room,,
+CardID: 67,XI - Strength?,"""May you break their resolve""",,All enemies in the current room are slowed and take double damage,,
+CardID: 68,XII - The Hanged Man?,"""May your greed know no bounds""",,"You turn into the Keeper, gaining triple shot, -0.1 Speed Down for 30 seconds",,
+CardID: 69,XIII - Death?,"""May life spring forth from the fallen""",,"Activates the Book of the Dead effect, spawning a bone orbital or charmed Bony for each enemy killed in the current room",,
+CardID: 70,XIV - Temperance?,"""May your hunger be satiated""",,"When used, this card activates 5 random pill effects one after the other",,
+CardID: 71,XV - The Devil?,"""Bask in the light of your mercy""",,Activates The Bible effect (granting flight) and gives a Seraphim familiar for 30 seconds,,
+CardID: 72,XVI - The Tower?,"""Creation brings destruction""",,Spawns 6 clusters of rocks and objects that normally appear on this floor,,
+CardID: 73,XVII - The Stars?,"""May your loss bring fortune""",,Removes your oldest item and spawns 2 pedestal items from the current room's pool,,
+CardID: 74,XVIII - The Moon?,"""May you remember lost memories""",,Teleports you to the ultra secret room on the floor,,
+CardID: 75,XIX - The Sun?,"""May the darkness swallow all around you""",,"When used, grants +1.5 Damage Up, turns your hearts to Bone hearts and the Spirit of the Night effect (Spectral tears and the ability to fly) for the current floor",,
+CardID: 76,XX - Judgement?,"""May you redeem those found wanting""",,Spawns a Restock machine,,
+CardID: 77,XXI - The World?,"""Step into the abyss""",,Creates a trapdoor to a guaranteed crawl space,,
+CardID: 80,Wild Card,"""Again""",,"When used, this copies the effect of the card, pill, rune, soul stone or active item you used most recently",,
+CardID: 81,Soul of Isaac,"""Reroll... or not""",,"Turns all pedestal items in the current room into rotating items, which cycle between the old item and a random new item every second",,
+CardID: 82,Soul of Magdalene,"""Give me your love!""",,"When used, all enemies in the current room drop half a red heart that will disappear after 2 seconds if not picked up",,
+CardID: 83,Soul of Cain,"""Opens the unopenable""",,"When used, this Soul Stone creates Red rooms for every possible exit in the current room",,
+CardID: 84,Soul of Judas,"""Right behind you""",,"Activates the Dark Arts item effect, which turns Isaac into a ghost for a few seconds. While in this form you can walk over enemies to mark them for death. After a few seconds, he will quickly attack each target, chaining higher damage for each enemy it hits",,
+CardID: 85,Soul of ???,"""Chemical warfare""",,"When used this will cause 8 poison farts that leave a brown creep behind, and then drop 7 Butt Bombs very quickly",,
+CardID: 86,Soul of Eve,"""Your very own murder""",,"For the current room, 14 Dead Birds fly in from off the screen and attack all enemies, dealing low but frequent damage",,
+CardID: 87,Soul of Samson,"""Slay a thousand""",,"Isaac gains the Berserk! effect for 10 seconds. This gives Isaac a bone sword and he goes on a killing rampage, gaining +0.4 Speed, +3 Flat Damage Up",,
+CardID: 88,Soul of Azazel,"""Demon rage!""",,"Activates the Mega Blast item effect, which gives you a giant laser that deals x5 your tear damage per tick to anything in its path and pushing Isaac back by the force",,
+CardID: 89,Soul of Lazarus,"""Life after death""",,When used this kills Isaac and revives him with 1/2 a red heart. You get a couple of seconds of invincibility to move away after,,
+CardID: 90,Soul of Eden,"""Embrace chaos""",,"Activates the D6 and D20 effects, rerolling all items and pickups in the room. Unlike the regular D6, rerolled items can pick from any item pool",,
+CardID: 91,Soul of the Lost,"""Leave your body behind""",,"When used, Isaac dies and becomes The Lost for the current room. This gives you his ability to fly, and the Holy Mantle effect. However if you take damage a second time you die like the Lost does",,
+CardID: 92,Soul of Lilith,"""Motherhood""",,Gives you 1 random permanent familiar,,
+CardID: 93,Soul of the Keeper,"""$$$""",,Spawns up to 25 random coins on the floor,,
+CardID: 94,Soul of Apollyon,"""Bringer of calamity""",,Creates 15 random Locusts,,
+CardID: 95,Soul of the Forgotten,"""Skeletal protector""",,"Gives you The Forgotten as a temporary familiar, with 2 Bone hearts and his bone weapon. He behaves the same as how Esau works with Jacob, following your exact movements",,
+CardID: 96,Soul of Bethany,"""Friends from beyond""",,"Creates 6 wisps, similar to the Book of Virtues effect",,
+CardID: 97,Soul of Jacob and Esau,"""Bound by blood""",,"Spawns Esau as a temporary familiar, who copies your exact movements the same as how the Jacob & Esau character works",,
+,Gold Key,,,"Once picked up, you gain unlimited key use for the rest of the floor",,
+,Gold Bomb,,,"Once picked up, you gain unlimited bomb use for the rest of the floor",,
+,Golden Battery,,,Fully charges your active item when picked up,,
+,Golden Troll Bomb,,,Spawns similar to regular troll bombs and cannot be picked up,,
+,Golden Penny,,,"When picked up, will respawn again at a random location in the room",,
+,Gold Heart,,,"Once picked up, the gold heart will drop money on the floor the next time Isaac loses a heart",,
+,Bone Heart,,,"Takes three hits to deplete and can be refilled with red hearts, but disappears forever when depleted",,
+,Rotten Heart,,,"Rotten Hearts fill up a whole container the same as normal red hearts, or the rightmost heart if you're at full health",,
+,Black Sack,,,"Spawns 2-3 pills, black/bone hearts and/or bombs when picked up",,
+,Rebirth Pills A - L,,,48 Hour Energy - Fully recharges your active item and drops 1-2 battery pickups. Can be used with Placebo to generate infinite batteries,,
+,Rebirth Pills P - Z,,,Paralysis - Prevents you from moving for a short while,,
+,Afterbirth Pills,,,Addicted - Causes you to take a full heart of damage for all sources for the current room. Unlocked from Challenge #24 - PAY TO PLAY,,
+,Afterbirth+ Pills,,,Feels like I'm walking on sunshine! - Turns Isaac invincible for a few seconds (similar to Unicorn Stump). Unlocked from the 'Sin Collector' achievement (collect every Bestiary entry),,
+,Repentance Pills,,,Shot Speed Down - -0.15 shot speed,,
+,Gold Pill,,,When used gives a random pill effect,,
+,Horse Pills,,,Horse Pills rarely spawn as larger versions of normal pills with more powerful effects,,
+,Dice Rooms,,,"1 Dot - Rerolls all of your items. (Does not change your trinkets, pills or cards)",,
