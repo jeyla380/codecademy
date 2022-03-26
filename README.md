@@ -128,6 +128,7 @@
  | Assignments | Challenges | Projects |
  | :---: | :---: | :---: |
  | | [Mystery Friend](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/natural_language_processing/mystery_friend/script.py) | |
+ | | [Read the News Analysis](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/natural_language_processing/read_the_news_analysis/script.py) |
 </details>
  
  
