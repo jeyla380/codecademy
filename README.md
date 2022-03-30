@@ -125,11 +125,34 @@
  <details>
  <summary>Natural Language Processing</summary>
  
- | Assignments | Challenges | Projects |
- | :---: | :---: | :---: |
- | | [Mystery Friend](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/natural_language_processing/mystery_friend/script.py) | |
- | | [Read the News Analysis](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/natural_language_processing/read_the_news_analysis/script.py) |
- | | [U.S.A. Presidental Vocabulary](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/natural_language_processing/usa_presidential_vocabulary/script.py) | |
+ | Challenges | 
+ | :---: |
+ | [Mystery Friend](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/natural_language_processing/mystery_friend/script.py) |
+ | [Read the News Analysis](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/natural_language_processing/read_the_news_analysis/script.py) |
+ | [U.S.A. Presidental Vocabulary](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/natural_language_processing/usa_presidential_vocabulary/script.py) | 
+</details>
+
+<details>
+ <summary>Machine Learning</summary>
+ <table>
+  <tr align = 'center'>
+   <td><b>Supervised Learning</b></td>
+   <td><b>Unsupervised Learning</b></td>
+  </tr>
+  <tr>
+   <td>
+    <table>
+     <tr align = 'center'>
+      <td><b>Challenges</b></td>
+     </tr>
+     <tr align = 'center'>
+      <td><a href="https://github.com/jeyla380/codecademy_projects/blob/main/datascience/machine_learning/supervised_learning/challenges/honey_production/honey_production.ipynb">Honey Production</a></td>
+     </tr>
+    </table>
+   </td>
+   <td></td>
+  </tr>
+ </table>
 </details>
  
  
