@@ -150,6 +150,10 @@
       <td><a href="https://github.com/jeyla380/codecademy_projects/blob/main/datascience/machine_learning/supervised_learning/assignments/yelp_regression/yelp_regression.ipynb">Yelp Regression</a></td>
       <td><a href="https://github.com/jeyla380/codecademy_projects/blob/main/datascience/machine_learning/supervised_learning/challenges/honey_production/honey_production.ipynb">Honey Production</a></td>
      </tr>
+     <tr align = 'center'>
+      <td></td>
+      <td><a href="https://github.com/jeyla380/codecademy_projects/blob/main/datascience/machine_learning/supervised_learning/challenges/tennis_ace/tennis_ace.ipynb">Tennis Ace</a></td>
+     </tr>
     </table>
    </td>
    <td></td>
