@@ -154,6 +154,10 @@
       <td></td>
       <td><a href="https://github.com/jeyla380/codecademy_projects/blob/main/datascience/machine_learning/supervised_learning/challenges/tennis_ace/tennis_ace.ipynb">Tennis Ace</a></td>
      </tr>
+     <tr>
+      <td></td>
+      <td><a href="https://github.com/jeyla380/codecademy_projects/blob/main/datascience/machine_learning/supervised_learning/challenges/breast_cancer_classifier/breast_cancer_classifier.ipynb">Breast Cancer Classifier</a></td>
+     </tr>
     </table>
    </td>
    <td></td>
