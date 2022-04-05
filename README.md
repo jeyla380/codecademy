@@ -158,6 +158,12 @@
       <td></td>
       <td><a href="https://github.com/jeyla380/codecademy_projects/blob/main/datascience/machine_learning/supervised_learning/challenges/breast_cancer_classifier/breast_cancer_classifier.ipynb">Breast Cancer Classifier</a></td>
      </tr>
+     <tr>
+      <td></td>
+      <td>
+       <a href='https://github.com/jeyla380/codecademy_projects/blob/main/datascience/machine_learning/supervised_learning/challenges/predict_titanic_survival/predict_titanic_survival.ipynb'>Predict Titanic Survival</a>
+      </td>
+     </tr>
     </table>
    </td>
    <td></td>
