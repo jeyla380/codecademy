@@ -180,6 +180,10 @@
       <td></td>
       <td><a href='https://github.com/jeyla380/codecademy_projects/blob/main/datascience/machine_learning/supervised_learning/challenges/find_the_flags/find_the_flags.ipynb'>Find the Flags</a></td>
      </tr>
+     <tr align = 'center'>
+      <td></td>
+      <td><a href='https://github.com/jeyla380/codecademy_projects/blob/main/datascience/machine_learning/supervised_learning/challenges/predicting_income/predicting_income.ipynb'>Predicting Income</a></td>
+     </tr>
     </table>
    </td>
    <td></td>
