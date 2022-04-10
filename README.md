@@ -151,7 +151,7 @@
       <td><a href="https://github.com/jeyla380/codecademy_projects/blob/main/datascience/machine_learning/supervised_learning/challenges/honey_production/honey_production.ipynb">Honey Production</a></td>
      </tr>
      <tr align = 'center'>
-      <td></td>
+      <td><a href='https://github.com/jeyla380/codecademy_projects/tree/main/datascience/machine_learning/supervised_learning/assignments/twitter_classification'>Twitter Classification</a></td>
       <td><a href="https://github.com/jeyla380/codecademy_projects/blob/main/datascience/machine_learning/supervised_learning/challenges/tennis_ace/tennis_ace.ipynb">Tennis Ace</a></td>
      </tr>
      <tr align = 'center'>
