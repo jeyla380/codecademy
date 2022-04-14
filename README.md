@@ -186,7 +186,18 @@
      </tr>
     </table>
    </td>
-   <td></td>
+   <td>
+    <table>
+     <tr align = 'center'>
+      <td><b>Assignments</b></td>
+      <td><b>Challenges</b></td>
+     </tr>
+     <tr align = 'center'>
+      <td></td>
+      <td><a href='https://github.com/jeyla380/codecademy_projects/blob/main/datascience/machine_learning/unsupervised_learning/handwriting_recognition/handwriting_recognition.ipynb'>Handwriting Recognition</a></td>
+     </tr>
+    </table>
+   </td>
   </tr>
  </table>
 </details>
