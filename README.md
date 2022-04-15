@@ -193,8 +193,8 @@
       <td><b>Challenges</b></td>
      </tr>
      <tr align = 'center'>
-      <td></td>
-      <td><a href='https://github.com/jeyla380/codecademy_projects/blob/main/datascience/machine_learning/unsupervised_learning/handwriting_recognition/handwriting_recognition.ipynb'>Handwriting Recognition</a></td>
+      <td><a href='https://github.com/jeyla380/codecademy_projects/blob/main/datascience/machine_learning/unsupervised_learning/assignments/masculinity_project/Masculinity_Project%20(1).ipynb'>Masculinity Project</a></td>
+      <td><a href='https://github.com/jeyla380/codecademy_projects/blob/main/datascience/machine_learning/unsupervised_learning/challenges/handwriting_recognition/handwriting_recognition.ipynb'>Handwriting Recognition</a></td>
      </tr>
     </table>
    </td>
