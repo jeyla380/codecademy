@@ -42,7 +42,7 @@
  :-------------: | :-------------: |
 | [New York Restaurants](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/sql/new_york_restaurants)  |[RPA Fraud Detection](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/sql/rpa_fraud_detection)|
 | [The Metropolitan Museum of Art](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/sql/metropolitan_museum_of_art) |[RPA Customer Segmentation](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/sql/rpa_customer_segmentation)|
-| | [Davie's Burger Subway Ad](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/sql/davie_burger_subway_ad) |
+| [Cryptocurrency Exchange](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/sql/cryptocurrency_exchange) | [Davie's Burger Subway Ad](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/sql/davie_burger_subway_ad) |
  
  </details>
  
