@@ -18,9 +18,9 @@
   <details>
  <summary><b>Portfolio Projects</b></summary>
  
- | Python | Data Visualization | Data Analysis |
- | :---: | :---: | :---: |
- | [Portfolio Project: Netflix](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/python/projects/portfolio_project) | [Portfolio Project: League of Legends](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/data_visualization/projects/league_of_legends_project) | [Portfolio Project: Binding of Isaac](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/data_analysis/projects) |
+ | Python | Data Visualization | Data Analysis | Machine Learning |
+ | :---: | :---: | :---: | :---: |
+ | [Netflix](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/python/projects/portfolio_project) | [League of Legends](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/data_visualization/projects/league_of_legends_project) | [Binding of Isaac](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/data_analysis/projects) | Language Detection |
  
 </details>
 
