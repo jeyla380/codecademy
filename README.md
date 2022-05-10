@@ -30,7 +30,7 @@
  
  | Assignments | Challenges | Projects |
  | :-------------: | :-------------: | :-------------: |
- | [Frida Kahlo Exhibition](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/python/assignments/frida_kahlo_assignment.ipynb) | [Gradebook](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/python/challenges/gradebook.py) | [Hurricane Analysis](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/python/projects/hurricane_analysis_project.ipynb) |
+ | [Frida Kahlo Exhibition](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/python/assignments/frida_kahlo_assignment.ipynb) | [Introduction to Python](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/python/challenges/intro_to_python) | [Hurricane Analysis](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/python/projects/hurricane_analysis_project.ipynb) |
  | [Linear Regression](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/python/assignments/linear_regression_assignment.ipynb) | [Medical Insurance](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/python/challenges/medical_insurance) |  |
  |  | [Hacking the Fender](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/python/challenges/hacking_the_fender) |  |
  
