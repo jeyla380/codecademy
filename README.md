@@ -210,6 +210,14 @@
  
  ## 📑 Full Stack
  
+ <details>
+ <summary>Web Fundamentals</summary>
+ 
+ | Projects |
+ | :---: |
+ | [Dasmoto's Arts & Crafts](https://github.com/jeyla380/codecademy_projects/tree/main/fullstack/web_fundamentals/projects/damoto_arts_crafts) |
+ 
+</details>
  
   <details>
  <summary>PHP</summary>
