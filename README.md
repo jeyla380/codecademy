@@ -208,7 +208,7 @@
  
  <br>
  
- ## 🖥️ Full Stack
+ ## 📑 Full Stack
  
  
   <details>
