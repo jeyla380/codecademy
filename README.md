@@ -209,9 +209,9 @@
  <details>
  <summary>C++</summary>
  
- | Projects |
+ | Challenges |
  | :---: |
- | |
+ | [Block Letters](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/c++/challenges/block_letters) |
 </details>
  
  
@@ -222,7 +222,7 @@
  <details>
  <summary>Web Fundamentals</summary>
  
- | Projects |
+ | Challenges |
  | :---: |
  | [Dasmoto's Arts & Crafts](https://github.com/jeyla380/codecademy_projects/tree/main/fullstack/web_fundamentals/projects/damoto_arts_crafts) |
  
