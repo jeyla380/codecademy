@@ -36,6 +36,7 @@
  
  </details>
  
+ 
  <details>
  <summary>SQL</summary>
  
@@ -203,6 +204,16 @@
    </td>
   </tr>
  </table>
+</details>
+ 
+ ### Extra
+ 
+ <details>
+ <summary>C++</summary>
+ 
+ | Projects |
+ | :---: |
+ | |
 </details>
  
  
