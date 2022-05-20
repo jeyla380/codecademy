@@ -224,7 +224,7 @@
  
  | Challenges |
  | :---: |
- | [Dasmoto's Arts & Crafts](https://github.com/jeyla380/codecademy_projects/tree/main/fullstack/web_fundamentals/projects/damoto_arts_crafts) |
+ | [Dasmoto's Arts & Crafts](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/web_fundamentals/challenges/damoto_arts_crafts) |
  
 </details>
  
