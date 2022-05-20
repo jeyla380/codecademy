@@ -205,16 +205,7 @@
   </tr>
  </table>
 </details>
- 
- ### Extra
- 
- <details>
- <summary>C++</summary>
- 
- | Projects |
- | :---: |
- | |
-</details>
+
  
  
  <br>
@@ -270,6 +261,16 @@
  </details>
  
  <br>
+ 
+  ## 💻 Extra
+ 
+ <details>
+ <summary>C++</summary>
+ 
+ | Projects |
+ | :---: |
+ | |
+</details>
  
  
  
