@@ -215,6 +215,7 @@
  | [Temperature](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/c++/challenges/temperature) |
  | [Dog Years](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/c++/challenges/dog_years) |
  | [Quadratic Formula](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/c++/challenges/quadratic_formula) |
+ | [Currency Converter](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/c++/challenges/currency_converter) |
 </details>
  
  
