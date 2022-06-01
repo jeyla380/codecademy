@@ -274,9 +274,11 @@
  
  <details>
  <summary>Ruby</summary>
+ 
  | Challenges |
  | :---: |
  | Text Histogram |
+ 
 </details>
  
  <br>
