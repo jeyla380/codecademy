@@ -277,7 +277,7 @@
  
  | Challenges |
  | :---: |
- | Text Histogram |
+ | [Text Histogram](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/ruby/text_histogram/script.rb) |
  
 </details>
  
