@@ -134,6 +134,7 @@
  | [Mystery Friend](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/natural_language_processing/mystery_friend/script.py) |
  | [Read the News Analysis](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/natural_language_processing/read_the_news_analysis/script.py) |
  | [U.S.A. Presidental Vocabulary](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/natural_language_processing/usa_presidential_vocabulary/script.py) | 
+ | [Classic Texts](https://github.com/jeyla380/codecademy_projects/blob/main/datascience/natural_language_processing/classic_texts/classic_texts.ipynb) |
 </details>
 
 <details>
