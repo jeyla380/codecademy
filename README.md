@@ -218,7 +218,7 @@
  ## 📑 Full Stack
  
  <details>
- <summary>Web Fundamentals</summary>
+ <summary>HTML & CSS</summary>
  
  | Challenges |
  | :---: |
@@ -262,6 +262,29 @@
  |[Meal Maker](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/challenges/meal_maker/script.js)| |
  |[Team Stats](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/challenges/team_stats/script.js)| |
  |[Mini Linter](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/javascript/challenges/mini_linter/script.js)| |
+ 
+ </details>
+ 
+ <details>
+ <summary>Python</summary>
+ 
+ <table>
+  <tr align='center'>
+   <td><b>Django</b></td>
+  </tr>
+  
+  <tr>
+   <td>
+    <table>
+     <tr>
+      <td><b>Challenges</b></td>
+      <td><b>Projects</b></td>
+     </tr>
+    </table>
+   
+   </td>
+  </tr>
+ </table>
  
  </details>
  
