@@ -274,28 +274,6 @@
  
  </details>
  
- <details>
- <summary>Python</summary>
- 
- <table>
-  <tr align='center'>
-   <td><b>Django</b></td>
-  </tr>
-  
-  <tr>
-   <td>
-    <table>
-     <tr>
-      <td><b>Challenges</b></td>
-      <td><b>Projects</b></td>
-     </tr>
-    </table>
-   
-   </td>
-  </tr>
- </table>
- 
- </details>
  
  <details>
  <summary>Ruby</summary>
