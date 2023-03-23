@@ -123,7 +123,7 @@
  
  | Challenges |
  | :---: |
- | Ordering Coffee |
+ | [Ordering Coffee](https://github.com/jeyla380/codecademy/tree/main/datascience/chatbots/ordering_coffee) |
  </details>
  
  <details>
