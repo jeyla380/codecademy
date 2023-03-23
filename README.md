@@ -119,6 +119,14 @@
  </details>
  
  <details>
+ <summary>Chatbots</summary>
+ 
+ | Challenges |
+ | :---: |
+ | Ordering Coffee |
+ </details>
+ 
+ <details>
  <summary>Natural Language Processing</summary>
  
  | Challenges | 
