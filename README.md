@@ -125,6 +125,7 @@
  | :---: |
  | [Ordering Coffee](https://github.com/jeyla380/codecademy/tree/main/datascience/chatbots/ordering_coffee) |
  | [Scrabble](https://github.com/jeyla380/codecademy/blob/main/datascience/chatbots/scrabble/scrabble.py) |
+ | [Alien Bot](https://github.com/jeyla380/codecademy/blob/main/datascience/chatbots/alienbot/script.py) |
  </details>
  
  <details>
