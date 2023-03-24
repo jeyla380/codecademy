@@ -234,6 +234,7 @@
  | :---: |
  | [Dasmoto's Arts & Crafts](https://github.com/jeyla380/codecademy_projects/blob/main/fullstack/web_fundamentals/challenges/damoto_arts_crafts) |
  | [Nutritional Label](https://github.com/jeyla380/codecademy/tree/main/fullstack/web_fundamentals/challenges/nutritional_label) |
+ | [Budget Sheet](https://github.com/jeyla380/codecademy/tree/main/fullstack/web_fundamentals/challenges/building_bank_statements) |
  
 </details>
  
